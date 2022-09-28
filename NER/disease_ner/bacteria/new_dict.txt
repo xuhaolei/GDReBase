@@ -1,0 +1,7903 @@
+blautia
+faecalibacterium
+bacteroides uniformis
+parabacteroides
+bifidobacterium
+eubacterium
+bacteroides ovatus
+alistipes
+bacteroides vulgatus
+roseburia
+streptococcus
+ruminococcus
+clostridium
+blautia obeum
+[eubacterium] rectale
+bacteroides thetaiotaomicron
+parabacteroides distasonis
+bacteroides dorei
+dorea
+bacteroides caccae
+alistipes putredinis
+oscillibacter
+bifidobacterium longum
+[eubacterium] eligens
+veillonella
+coprococcus
+bacteroides xylanisolvens
+streptococcus salivarius
+alistipes onderdonkii
+roseburia hominis
+[eubacterium] hallii
+parabacteroides merdae
+alistipes shahii
+prevotella
+bacteroides fragilis
+ruminococcus bromii
+coprococcus comes
+dorea formicigenerans
+[ruminococcus] torques
+bacteroides stercoris
+escherichia
+roseburia intestinalis
+[clostridium] leptum
+odoribacter
+bifidobacterium adolescentis
+barnesiella
+collinsella
+dialister
+alistipes finegoldii
+bacteroides cellulosilyticus
+veillonella parvula
+streptococcus thermophilus
+[ruminococcus] gnavus
+escherichia coli
+haemophilus
+[clostridium] bolteae
+collinsella aerofaciens
+haemophilus parainfluenzae
+lactobacillus
+anaerotruncus
+akkermansia
+odoribacter splanchnicus
+akkermansia muciniphila
+bacteroides massiliensis
+prevotella copri
+streptococcus mitis
+dialister invisus
+eubacterium ventriosum
+anaerostipes
+eggerthella
+bilophila
+bacteroides intestinalis
+intestinibacter bartlettii
+[clostridium] symbiosum
+bifidobacterium pseudocatenulatum
+parasutterella
+ruminiclostridium
+[eubacterium] siraeum
+parasutterella excrementihominis
+lachnoclostridium
+eubacterium ramulus
+anaerotruncus colihominis
+faecalibacterium prausnitzii
+veillonella dispar
+streptococcus oralis
+erysipelatoclostridium
+ruminococcus callidus
+actinomyces
+[clostridium] indolis
+holdemania
+ruminococcus lactaris
+bacillus
+clostridium tertium
+bacteroides eggerthii
+bacteroides coprocola
+bilophila wadsworthia
+[clostridium] saccharolyticum
+desulfovibrio
+oscillibacter valericigenes
+bifidobacterium breve
+ruminiclostridium thermocellum
+dorea longicatena
+eubacterium desmolans
+holdemania filiformis
+sporobacter
+sporobacter termitidis
+bacteroides nordii
+blautia glucerasea
+[clostridium] methylpentosum
+intestinibacter
+[clostridium] spiroforme
+blautia coccoides
+barnesiella viscericola
+eggerthella lenta
+sutterella
+bifidobacterium gallicum
+bifidobacterium scardovii
+[clostridium] neopropionicum
+bifidobacterium catenulatum
+ruminococcus albus
+[clostridium] propionicum
+paraprevotella
+alistipes timonensis
+coprococcus eutactus
+clostridium perfringens
+streptococcus vestibularis
+[clostridium] clariflavum
+acidaminococcus
+roseburia inulinivorans
+enterococcus
+ruminococcus champanellensis
+actinomyces odontolyticus
+bifidobacterium choerinum
+parabacteroides johnsonii
+paraprevotella clara
+ruminococcus flavefaciens
+bifidobacterium bifidum
+subdoligranulum
+veillonella atypica
+christensenella
+christensenella minuta
+clostridium paraputrificum
+[clostridium] saccharogumia
+acidaminococcus intestini
+bacteroides plebeius
+bifidobacterium animalis
+parabacteroides goldsteinii
+alistipes indistinctus
+clostridium saccharoperbutylacetonicum
+megasphaera
+lactococcus
+bifidobacterium dentium
+bifidobacterium pseudolongum
+bifidobacterium biavatii
+holdemanella biformis
+corynebacterium
+gemella
+paenibacillus
+granulicatella
+faecalibacterium sp
+clostridium beijerinckii
+staphylococcus
+bacteroides stercorirosoris
+porphyromonas
+bacteroides luti
+[eubacterium] sulci
+anaerostipes caccae
+bifidobacterium indicum
+blautia hydrogenotrophica
+[clostridium] xylanolyticum
+butyrivibrio
+peptoniphilus
+anaerostipes butyraticus
+blautia producta
+anaerofilum
+anaerofilum pentosovorans
+coprobacillus
+bifidobacterium boum
+erysipelatoclostridium ramosum
+lactococcus lactis
+rothia
+streptococcus suis
+[clostridium] sphenoides
+tyzzerella
+[clostridium] colinum
+bacteroides finegoldii
+fusobacterium
+gordonibacter
+gordonibacter pamelaeae
+bacteroides salyersiae
+blautia schinkii
+gemella haemolysans
+desulfovibrio desulfuricans
+[eubacterium] brachy
+prevotella oris
+[clostridium] viride
+bifidobacterium saguini
+eubacterium xylanophilum
+[clostridium] aldenense
+clostridium ventriculi
+[clostridium] stercorarium
+[clostridium] citroniae
+bacillus nealsonii
+enterococcus faecium
+holdemanella
+clostridium maximum
+clostridium butyricum
+sutterella parvirubra
+bacteroides sartorii
+bacillus gaemokensis
+bacteroides barnesiae
+mitsuokella
+pseudomonas
+spiroplasma
+bacteroides coprophilus
+bacteroides fluxus
+methanobrevibacter
+[clostridium] scindens
+coprobacillus cateniformis
+atopobium
+staphylococcus aureus
+clostridium septicum
+methanobrevibacter smithii
+butyrivibrio crossotus
+megasphaera elsdenii
+rothia mucilaginosa
+streptococcus uberis
+actinomyces lingnae
+peptoniphilus lacrimalis
+mitsuokella multacida
+bifidobacterium stellenboschense
+clostridium sartagoforme
+clostridium sp
+eggerthella sp
+prevotella ruminicola
+[clostridium] celerecrescens
+streptococcus pasteurianus
+[clostridium] innocuum
+acinetobacter
+acholeplasma
+dialister micraerophilus
+granulicatella adiacens
+clostridium tarantellae
+streptococcus agalactiae
+cellulosilyticum
+bacteroides rodentium
+olsenella
+adlercreutzia
+adlercreutzia equolifaciens
+hespellia
+hespellia stercorisuis
+enterococcus casseliflavus
+salmonella
+slackia
+atopobium parvulum
+pseudoflavonifractor
+pseudoflavonifractor capillosus
+clostridium celatum
+desulfovibrio piger
+arthrobacter
+prevotella bivia
+ruminococcus sp
+salmonella enterica
+staphylococcus epidermidis
+clostridioides difficile
+clostridioides
+lachnospiraceae bacterium 7_1_58faa
+bisgaard taxon 7
+collinsella intestinalis
+[eubacterium] dolichum
+flavobacterium
+mogibacterium
+blautia luti
+barnesiella intestinihominis
+bifidobacterium reuteri
+bacteroides oleiciplenus
+bifidobacterium thermophilum
+clostridium baratii
+bifidobacterium merycicum
+cellulosilyticum lentocellum
+dialister pneumosintes
+klebsiella
+alistipes sp
+prevotella shahii
+bifidobacterium tsurumiense
+lactobacillus casei
+bacteroides gallinarum
+actinomyces naeslundii
+prevotella buccalis
+streptococcus intermedius
+porphyromonas catoniae
+[eubacterium] contortum
+bifidobacterium asteroides
+clostridium amylolyticum
+alistipes obesi
+hungatella hathewayi
+bacillus thuringiensis
+prevotella saccharolytica
+blautia hansenii
+roseburia faecis
+fusobacterium nucleatum
+[clostridium] thermosuccinogenes
+caldilinea
+caldilinea aerophila
+veillonella ratti
+klebsiella pneumoniae
+dehalococcoides
+dehalococcoides mccartyi
+paludibacter
+paludibacter propionicigenes
+paraprevotella xylaniphila
+bifidobacterium pullorum
+desulfovibrio vulgaris
+anaerofustis
+anaerofustis stercorihominis
+prevotella paludivivens
+megasphaera cerevisiae
+bifidobacterium thermacidophilum
+haemophilus sputorum
+lachnospiraceae bacterium 5_1_63faa
+granulicatella elegans
+streptomyces
+lachnospiraceae bacterium 3_1_46faa
+anaerococcus
+clostridium chartatabidum
+neisseria
+streptococcus pneumoniae
+lactobacillus gasseri
+streptococcus anginosus
+bacteroides helcogenes
+lactobacillus ruminis
+acidaminococcus fermentans
+prevotella timonensis
+streptococcus equi
+lactonifactor
+lactonifactor longoviformis
+campylobacter
+butyricimonas
+bacteroides graminisolvens
+olsenella uli
+bacteroides acidifaciens
+papillibacter
+papillibacter cinnamivorans
+shigella
+terrisporobacter
+prevotella fusca
+terrisporobacter mayombei
+streptococcus infantarius
+sphingobacterium
+leuconostoc
+collinsella tanakaei
+bacteroides faecichinchillae
+prevotella oryzae
+desulfosporosinus
+pseudobutyrivibrio
+pseudobutyrivibrio ruminis
+anaerostipes hadrus
+coprococcus catus
+alkaliphilus
+eubacterium plexicaudatum
+bifidobacterium ruminantium
+desulfovibrio fairfieldensis
+actinomyces urogenitalis
+bacteroides sp
+bacteroides paurosaccharolyticus
+bifidobacterium bombi
+weissella
+butyricimonas virosa
+haemophilus haemolyticus
+prevotella loescheii
+ignavibacterium
+ignavibacterium album
+aeromonas
+desulfonispora
+desulfonispora thiosulfatigenes
+dysgonomonas
+actinomyces sp
+clostridium puniceum
+burkholderiales bacterium 1_1_47
+selenomonas
+oxalobacter
+[eubacterium] fissicatena
+dialister propionicifaciens
+finegoldia
+finegoldia magna
+sphingomonas
+gemmiger
+gemmiger formicilis
+aggregatibacter
+anaerolinea
+anaerolinea thermophila
+megamonas
+oxalobacter formigenes
+shigella flexneri
+clostridium chauvoei
+spiroplasma syrphidicola
+streptococcus mutans
+actinomyces israelii
+peptostreptococcus
+bacteroides reticulotermitis
+clostridium pasteurianum
+bacillus megaterium
+corynebacterium tuberculostearicum
+megamonas hypermegale
+flavonifractor
+flavonifractor plautii
+clostridium quinii
+bulleidia
+bulleidia extructa
+geofilum
+geofilum rubicundum
+parabacteroides gordonii
+alistipes senegalensis
+enterococcus sulfureus
+alkaliphilus oremlandii
+streptococcus alactolyticus
+streptococcus parasanguinis
+bifidobacterium angulatum
+parvimonas
+lactobacillus plantarum
+pantoea
+prevotella corporis
+corynebacterium glutamicum
+abiotrophia
+abiotrophia defectiva
+thermobaculum
+thermobaculum terrenum
+faecalitalea cylindroides
+clostridium aminobutyricum
+porphyromonas cangingivalis
+pedobacter
+rothia dentocariosa
+caminicella
+caminicella sporogenes
+[clostridium] hylemonae
+jejuia
+pseudobacteroides
+pseudobacteroides cellulosolvens
+bifidobacterium saeculare
+jejuia pallidilutea
+sutterella wadsworthensis
+arthrobacter woluwensis
+clostridium carnis
+haemophilus influenzae
+lactobacillus reuteri
+mogibacterium diversum
+actinomyces meyeri
+parvimonas micra
+prevotella denticola
+propionibacterium acnes
+clavibacter
+prevotella salivae
+acholeplasma brassicae
+acinetobacter johnsonii
+clavibacter michiganensis
+lactobacillus animalis
+tissierella
+capnocytophaga
+fusobacterium mortiferum
+enterococcus hirae
+staphylococcus saprophyticus
+comamonas
+enterococcus moraviensis
+gardnerella
+gardnerella vaginalis
+lachnospiraceae bacterium 8_1_57faa
+prevotella oulorum
+haemophilus paraphrohaemolyticus
+peptostreptococcus stomatis
+carnobacterium
+kandleria
+kandleria vitulina
+lactobacillus crispatus
+lachnospiraceae bacterium 1_1_57faa
+actinomyces gerencseriae
+slackia faecicanis
+ethanoligenens
+ethanoligenens harbinense
+bifidobacterium actinocoloniiforme
+lactobacillus johnsonii
+flavobacterium fontis
+veillonella tobetsuensis
+desulfitobacterium
+lactobacillus delbrueckii
+bacteroides faecis
+acholeplasma axanthum
+rhodococcus
+prevotella buccae
+dehalogenimonas
+mogibacterium neglectum
+dehalogenimonas lykanthroporepellens
+[clostridium] hiranonis
+lachnoclostridium phytofermentans
+paenibacillus sp
+[desulfotomaculum] guttoideum
+bacteroides coprosuis
+faecalitalea
+bacteroides zoogleoformans
+kluyvera
+bifidobacterium minimum
+[clostridium] cellobioparum
+lactococcus raffinolactis
+bacteroides pyogenes
+prevotella albensis
+hungatella
+coprobacter
+clostridium botulinum
+coprobacter fastidiosus
+capnocytophaga ochracea
+proteus
+neisseria cinerea
+olsenella profusa
+eubacterium limosum
+[clostridium] cocleatum
+sutterella stercoricanis
+desulfotomaculum
+anaerocolumna
+bacteroides
+aggregatibacter segnis
+prevotella veroralis
+kluyvera georgiana
+desulfotomaculum acetoxidans
+varibaculum
+slackia exigua
+solobacterium
+solobacterium moorei
+[clostridium] clostridioforme
+brevibacillus
+peptococcus
+peptococcus niger
+nonomuraea
+prevotella bryantii
+pectinatus
+anaerocolumna aminovalerica
+acholeplasma palmae
+catabacter
+catabacter hongkongensis
+clostridium gasigenes
+thermincola
+thermincola potens
+acinetobacter bereziniae
+pectinatus haikarae
+porphyromonas asaccharolytica
+mogibacterium timidum
+actinomyces radicidentis
+pseudomonas fluorescens
+saccharofermentans
+saccharofermentans acetigenes
+erysipelothrix
+actinobacillus
+porphyromonas uenonis
+desulfosporosinus orientis
+dysgonomonas capnocytophagoides
+lachnoanaerobaculum
+lachnoanaerobaculum saburreum
+varibaculum cambriense
+lactobacillus salivarius
+proteus mirabilis
+clostridium sardiniense
+butyrivibrio fibrisolvens
+parasutterella secunda
+bacillus pumilus
+gemella morbillorum
+actinomyces viscosus
+tannerella
+tannerella forsythia
+desulfitobacterium dehalogenans
+victivallis
+victivallis sp
+clostridium moniliforme
+alloscardovia
+bacillus licheniformis
+erysipelothrix rhusiopathiae
+bifidobacterium lemurum
+fusobacterium varium
+pediococcus
+subdoligranulum variabile
+parabacteroides chinchillae
+alloscardovia omnicolens
+brevundimonas
+ruminococcaceae bacterium d16
+bifidobacterium callitrichos
+actinomyces graevenitzii
+clostridium malenominatum
+flavobacterium pectinovorum
+shewanella
+lactobacillus sakei
+hirschia
+robinsoniella
+robinsoniella peoriensis
+lactobacillus sp
+ruminococcus faecis
+asaccharobacter
+tissierella praeacuta
+asaccharobacter celatus
+clostridium tunisiense
+peptoniphilus sp
+facklamia
+fusobacterium periodonticum
+prevotella disiens
+oxobacter
+anaerococcus hydrogenalis
+oxobacter pfennigii
+leuconostoc mesenteroides
+arthrobacter citreus
+corynebacterium humireducens
+anaerococcus prevotii
+bacillus shackletonii
+caulobacter
+pseudomonas aeruginosa
+prevotella marshii
+[clostridium] asparagiforme
+candidatus solibacter
+paenibacillus polymyxa
+candidatus solibacter usitatus
+streptococcus equinus
+microbacterium
+bifidobacterium coryneforme
+pseudomonas psychrophila
+dendrosporobacter
+dendrosporobacter quercicolus
+paraclostridium bifermentans
+prevotella scopos
+bacteroides salanitronis
+bacteroides clarus
+micrococcus
+lactobacillus paracasei
+phascolarctobacterium
+paraclostridium
+[bacteroides] pectinophilus
+enterococcus faecalis
+sutterella sanguinus
+clostridium formicaceticum
+alteromonas
+porphyromonas circumdentaria
+citrobacter
+cellulosilyticum ruminicola
+exiguobacterium
+[clostridium] oroticum
+selenomonas ruminantium
+clostridium pascui
+rubrobacter
+carnobacterium maltaromaticum
+neisseria mucosa
+heliobacterium
+nonomuraea terrinata
+lactobacillus fermentum
+enterococcus gilvus
+bradyrhizobium
+lysinibacillus
+lactobacillus vaginalis
+truepera
+truepera radiovictrix
+mageeibacillus indolicus
+leptotrichia
+mageeibacillus
+anaerococcus lactolyticus
+prevotella oralis
+bergeyella
+bergeyella zoohelcum
+streptococcus constellatus
+aeromonas dhakensis
+[clostridium] polysaccharolyticum
+deinococcus
+streptococcus gordonii
+coraliomargarita
+coraliomargarita akajimensis
+desulfomicrobium
+moraxella
+prevotella histicola
+psychrobacter
+caldithrix
+caldithrix abyssi
+algoriphagus
+enterobacter
+bifidobacterium magnum
+hirschia baltica
+heliobacterium modesticaldum
+aeromonas veronii
+campylobacter hominis
+bifidobacterium gallinarum
+streptococcus sanguinis
+halomonas
+vibrio
+peptoniphilus harei
+lachnospiraceae bacterium 3_1_57faa_ct1
+bifidobacterium commune
+mycobacterium fortuitum complex
+rikenella
+rikenella microfusus
+cloacibacterium
+cloacibacterium normanense
+lactococcus plantarum
+[clostridium] hungatei
+methanosphaera
+sulfurovum
+lachnospiraceae bacterium 2_1_58faa
+prevotella amnii
+proteiniphilum
+prevotella melaninogenica
+proteiniphilum acetatigenes
+geobacillus
+bacillus flexus
+treponema
+streptococcus macedonicus
+saccharicrinis
+saccharicrinis fermentans
+corynebacterium pseudodiphtheriticum
+geobacter
+moorella
+syntrophomonas
+caulobacter segnis
+helicobacter
+alicyclobacillus
+lactobacillus iners
+desulfosporosinus acidiphilus
+desulfotomaculum ruminis
+clostridiales bacterium 1_7_47faa
+clostridium colicanis
+lactobacillus murinus
+bacillus cellulosilyticus
+lactobacillus rhamnosus
+haemophilus parahaemolyticus
+weissella cibaria
+clostridium acetobutylicum
+stenotrophomonas
+candidatus babela
+candidatus babela massiliensis
+desulfosporosinus youngiae
+morganella
+morganella morganii
+[clostridium] termitidis
+rubrobacter radiotolerans
+aggregatibacter aphrophilus
+comamonas aquatica
+algoriphagus marincola
+zymomonas
+zymomonas mobilis
+legionella
+marinobacter
+iamia
+iamia majanohamensis
+clostridium fallax
+bacteroides propionicifaciens
+pelobacter
+clostridium magnum
+gottschalkia
+paeniclostridium
+[eubacterium] tenue
+anaerorhabdus
+clostridium tetanomorphum
+anaerorhabdus furcosa
+pantoea ananatis
+verrucomicrobium
+dehalobacter
+verrucomicrobium spinosum
+brevibacillus choshinensis
+sporomusa
+thermobrachium
+thermobrachium celere
+pseudopedobacter
+pseudopedobacter saltans
+nisaea
+nisaea denitrificans
+ktedonobacter
+alkaliphilus metalliredigens
+spiroplasma lampyridicola
+ktedonobacter racemifer
+providencia
+aerococcus
+acinetobacter baumannii
+campylobacter concisus
+weissella sp
+lactobacillus amylovorus
+anaerobiospirillum
+anaerovibrio
+enterobacter cloacae
+anaerovibrio lipolyticus
+enhydrobacter
+enhydrobacter aerosaccus
+pediococcus acidilactici
+ureibacillus
+sporosarcina
+catonella
+melioribacter
+catonella morbi
+melioribacter roseus
+romboutsia
+romboutsia lituseburensis
+micrococcus luteus
+draconibacterium
+draconibacterium orientale
+atopobium rimae
+clostridium tyrobutyricum
+phascolarctobacterium succinatutens
+prosthecobacter
+bifidobacterium cuniculi
+xenorhabdus
+anaerosporobacter
+anaerosporobacter mobilis
+salinibacter
+salinibacter ruber
+sphingobacterium sp
+desulfosarcina
+desulfosarcina cetonica
+pedobacter luteus
+erysipelotrichaceae bacterium 21_3
+coprococcus sp
+bradyrhizobium elkanii
+mycoplasma
+lactococcus piscium
+anaerococcus vaginalis
+methylobacterium
+lactobacillus intestinalis
+lactobacillus pobuzihii
+streptococcus minor
+prevotella sp
+leuconostoc gelidum
+bifidobacterium mongoliense
+yersinia
+actinobacillus delphinicola
+lactobacillus acidophilus
+kineosporia
+porphyromonas levii
+clostridium cylindrosporum
+synechococcus
+gemmatimonas
+gemmatimonas aurantiaca
+odoribacter laneus
+prevotella multiformis
+eubacterium oxidoreducens
+brevundimonas vesicularis
+prevotella bergensis
+leuconostoc pseudomesenteroides
+chitinophaga
+streptococcus australis
+lactobacillus hominis
+[actinobacillus] rossii
+pseudomonas stutzeri
+kineosporia aurantiaca
+owenweeksia
+streptococcus orisratti
+owenweeksia hongkongensis
+planococcus
+sphingobacterium composti yoo et al
+desulfovibrio oxamicus
+erysipelotrichaceae bacterium 6_1_45
+lactobacillus odoratitofui
+dysgonomonas gadei
+corynebacterium accolens
+streptomyces cinnamoneus
+alteromonas mediterranea
+aggregatibacter actinomycetemcomitans
+selenomonas sputigena
+actinomyces massiliensis
+brevibacterium
+spiroplasma velocicrescens
+lactococcus garvieae
+fructobacillus
+chryseobacterium
+erysipelotrichaceae bacterium 2_2_44a
+dolosigranulum
+dolosigranulum pigrum
+corynebacterium striatum
+prevotella enoeca
+sulfurovum sp
+sphingomonas echinoides
+lautropia
+lautropia mirabilis
+trichococcus
+lactobacillus kefiranofaciens
+anoxybacillus
+bacillus panaciterrae
+allobaculum
+allobaculum stercoricanis
+citrobacter braakii
+lactobacillus acidipiscis
+peptoniphilus ivorii
+cardiobacterium
+halothermothrix
+halothermothrix orenii
+herbaspirillum
+glutamicibacter
+anaeroglobus
+anaeroglobus geminatus
+nocardioides
+mogibacterium pumilum
+acinetobacter tjernbergiae
+cloacibacillus
+cloacibacillus evryensis
+propionispira
+scardovia
+fusobacterium ulcerans
+geobacillus kaustophilus
+caldicoprobacter
+sphingomonas koreensis
+caldicoprobacter faecalis
+alteromonas macleodii
+clostridiaceae bacterium jc118
+stenotrophomonas maltophilia
+lactobacillus versmoldensis
+moorella thermoacetica
+[clostridium] purinilyticum
+actinomyces suimastitidis
+paenibacillus mucilaginosus
+prevotella dentasini
+marvinbryantia
+marvinbryantia formatexigens
+dehalobacter sp
+lactobacillus curvatus
+acidovorax
+faecalicoccus
+faecalicoccus pleomorphus
+halobacteriovorax
+halobacteriovorax marinus
+dysgonomonas macrotermitis
+vagococcus
+[eubacterium] tortuosum
+acidithiobacillus
+staphylococcus sciuri
+[clostridium] cellulolyticum
+methanosphaera stadtmanae
+cardiobacterium hominis
+actinomyces denticolens
+lactobacillus mucosae
+peptoniphilus asaccharolyticus
+neisseria weaveri
+bacillus subtilis
+exiguobacterium aurantiacum
+salmonella bongori
+nocardia
+atopobium vaginae
+lactobacillus brevis
+burkholderia
+peptoniphilus tyrrelliae
+staphylococcus pseudintermedius
+kocuria
+selenomonas lacticifex
+leptotrichia buccalis
+slackia isoflavoniconvertens
+garciella sp
+kribbella
+tissierella creatinini
+ureibacillus composti
+prosthecobacter debontii
+actinomyces cardiffensis
+luteolibacter
+luteolibacter luojiensis
+plesiomonas
+plesiomonas shigelloides
+scardovia inopinata
+corynebacterium variabile
+mycobacterium
+rothia sp
+prevotella multisaccharivorax
+neisseria macacae
+flavobacterium columnare
+solirubrobacter
+solirubrobacter soli
+[clostridium] paradoxum
+streptococcus gallolyticus
+virgibacillus
+citrobacter freundii
+klebsiella oxytoca
+thermodesulfovibrio
+facklamia sourekii
+catenibacterium
+phycisphaera
+catenibacterium mitsuokai
+phycisphaera mikurensis
+bacillus halosaccharovorans
+lachnospiraceae bacterium 1_4_56faa
+arcobacter
+prevotella baroniae
+pyramidobacter
+lactobacillus dextrinicus
+pyramidobacter piscolens
+aerococcus urinae
+tyzzerella nexilis
+corynebacterium sp
+selenomonas noxia
+selenomonas infelix
+bacillus siamensis
+bacillus luteolus
+effusibacillus pohliae
+bdellovibrio
+cronobacter
+effusibacillus
+desulfomicrobium baculatum
+campylobacter gracilis
+leptotrichia wadei
+komagataeibacter
+enterococcus dispar
+lachnospira
+alloprevotella
+lachnospira multipara
+trichococcus palustris
+clostridium cellulovorans
+leptotrichia goodfellowii
+candidatus alistipes marseilloanorexicus ap11
+prolixibacter
+[clostridium] papyrosolvens
+butyrivibrio proteoclasticus
+prolixibacter bellariivorans
+clostridium polyendosporum
+kribbella flavida
+anaerobiospirillum thomasii
+clostridium thermobutyricum
+desulfomicrobium norvegicum
+rahnella
+sphingobium
+desulfotomaculum nigrificans
+pseudomonas lutea
+mobiluncus
+streptococcus pyogenes
+prosthecobacter vanneervenii
+fusobacterium necrophorum
+acinetobacter junii
+[eubacterium] saphenum
+nitrospira
+lactobacillus sanfranciscensis
+propionispira paucivorans
+nitrospira defluvii
+bifidobacterium bohemicum
+acetonema
+thauera
+hathewaya
+sulfurimonas
+paenibacillus larvae
+glutamicibacter protophormiae
+pseudomonas deceptionensis
+propionibacterium
+mahella
+[clostridium] populeti
+mahella australiensis
+nonomuraea soli
+photorhabdus
+candidatus azobacteroides
+bacillus marisflavi
+bacillus soli
+candidatus azobacteroides pseudotrichonymphae
+lysinibacillus contaminans
+komagataeibacter intermedius
+prevotella stercorea
+fibrobacter
+sediminibacterium
+corynebacterium minutissimum
+sediminibacterium salmoneum
+lentisphaera
+leuconostoc citreum
+slackia heliotrinireducens
+desulfotomaculum gibsoniae
+lentisphaera araneosa
+brevundimonas diminuta
+carnobacterium inhibens
+lactobacillus cacaonum
+weissella paramesenteroides
+acinetobacter lwoffii
+streptococcus infantis
+wenzhouxiangella
+wenzhouxiangella marina
+pseudomonas fulva
+acetonema longum
+pelobacter carbinolicus
+spiroplasma apis
+anaeroplasma
+idiomarina
+anaeroplasma bactoclasticum
+sphingobacterium multivorum
+[eubacterium] yurii
+providencia stuartii
+clostridium homopropionicum
+comamonas kerstersii
+varibaculum sp
+campylobacter ureolyticus
+megasphaera micronuciformis
+lactobacillus apodemi
+mannheimia
+hymenobacter
+mannheimia haemolytica
+bacteriovorax
+acidithiobacillus ferrooxidans
+bacteriovorax stolpii
+prevotella dentalis
+oceanobacillus
+hyphomonas
+paracoccus
+bdellovibrio bacteriovorus
+asticcacaulis
+blattabacterium
+alicyclobacillus acidoterrestris
+pedobacter koreensis
+helcococcus
+clostridium aurantibutyricum
+klebsiella michiganensis
+syntrophomonas wolfei
+brevibacillus brevis
+helicobacter pylori
+sphaerobacter
+sphaerobacter thermophilus
+microbacter
+microbacter margulisiae
+delftia
+candidatus koribacter
+shewanella algae
+halomonas cupida
+pseudomonas amygdali
+halomonas pacifica
+shewanella fodinae
+candidatus koribacter versatilis
+halomonas sp
+halomonas qiaohouensis
+listeria
+listeria monocytogenes
+corynebacterium diphtheriae
+steroidobacter
+vulcaniibacterium
+sphingomonas aquatilis
+sphingomonas jaspsi
+sphingomonas astaxanthinifaciens
+steroidobacter denitrificans
+vulcaniibacterium thermophilum
+cytophaga
+sporosarcina psychrophila
+pseudoalteromonas
+pseudomonas syringae
+clostridium ljungdahlii
+lactobacillus pentosus
+pseudomonas composti
+gemmata
+kofleria
+gemmata obscuriglobus
+pseudomonas putida
+moraxella osloensis
+kofleria flava
+mesorhizobium
+halomonas salina
+delftia acidovorans
+halomonas andesensis
+thermosediminibacter
+thermosediminibacter oceani
+phenylobacterium
+devosia
+pseudomonas sp
+asteroleplasma
+buchnera
+buchnera aphidicola
+neisseria lactamica
+asteroleplasma anaerobium
+enterococcus asini
+lactobacillus agilis
+gemella cuniculi
+novosphingobium
+corynebacterium afermentans
+clostridium cavendishii
+helicobacter winghamensis
+lactobacillus sharpeae
+paraburkholderia
+shuttleworthia
+shuttleworthia satelles
+marinobacter guineae
+marinobacter sp
+pseudonocardia
+lewinella
+mesorhizobium loti
+acinetobacter haemolyticus
+pasteurella
+sharpea
+salisaeta
+prevotella nigrescens
+sharpea azabuensis
+salisaeta longa
+methanosphaera cuniculi
+opitutus
+opitutus terrae
+porphyromonas crevioricanis
+pseudomonas viridiflava
+solibacillus
+solibacillus silvestris
+fructobacillus ficulneus
+candidatus peptoniphilus massiliensis
+bacillus sp
+vibrio harveyi
+lysobacter
+stella
+rheinheimera
+ohtaekwangia
+comamonas testosteroni
+pseudomonas monteilii
+ohtaekwangia koreensis
+shewanella baltica
+novosphingobium naphthalenivorans
+rhodococcus erythropolis
+comamonas terrigena
+phenylobacterium zucineum
+pseudoalteromonas arabiensis
+alloprevotella tannerae
+desulfosporosinus meridiei
+sulfurovum lithotrophicum
+photobacterium
+roseiflexus
+clostridium kluyveri
+paenibacillus alvei
+asticcacaulis excentricus
+porphyrobacter
+bosea
+sandaracinus
+thauera selenatis
+halomonas campisalis
+sandaracinus amylolyticus
+bacillus smithii
+desulfobulbus
+prevotella pallens
+brenneria
+actinomyces neuii
+rhizobium
+acinetobacter nosocomialis
+planococcus maritimus
+emticicia
+bacillus vietnamensis
+bacillus alkalitelluris
+emticicia oligotrophica
+stella vacuolata
+ralstonia
+thauera sp
+pediococcus claussenii
+renibacterium
+renibacterium salmoninarum
+corynebacterium xerosis
+lactobacillus nasuensis
+janibacter
+ilumatobacter
+bosea thiooxidans
+ilumatobacter coccineus
+coriobacterium
+methylobacterium radiotolerans
+pseudomonas mendocina
+pseudomonas alcaligenes
+clostridium subterminale
+aeromicrobium
+jeotgalicoccus
+singulisphaera
+singulisphaera acidiphila
+clostridium halophilum
+pseudomonas alcaliphila
+haliscomenobacter
+chthonomonas
+haliscomenobacter hydrossis
+chthonomonas calidirosea
+vasilyevaea enhydra
+nitrosomonas
+herbaspirillum seropedicae
+conexibacter
+jeotgalicoccus psychrophilus
+conexibacter woesei
+dechloromonas
+anaeromyxobacter
+devosia riboflavina
+pantoea agglomerans
+aeromonas hydrophila
+streptococcus hyointestinalis
+olsenella umbonata
+pirellula
+chryseolinea
+pirellula staleyi
+pseudomonas oleovorans
+pelobacter acetylenicus
+chryseolinea serpens
+aneurinibacillus
+sporomusa sphaeroides
+vibrio alginolyticus
+shigella boydii
+ruminobacter
+ruminobacter amylophilus
+pseudomonas flavescens
+nocardioides intraradicalis
+zoogloea
+lewinella cohaerens
+acinetobacter sp
+thermoanaerobacter
+lysinibacillus odysseyi
+streptococcus acidominimus
+tissierella creatinophila
+herbaspirillum huttiense
+bacillus clausii
+veillonella criceti
+moorella mulderi
+brucella
+rheinheimera japonica
+brucella suis
+gloeobacter
+geobacillus stearothermophilus
+thiobacillus
+nitrosopumilus
+geminicoccus
+shewanella putrefaciens
+porphyromonas endodontalis
+geminicoccus roseus
+candidatus nitrosopumilus sp
+anoxybacillus geothermalis
+clostridium scatologenes
+corynebacterium testudinoris
+shigella sp
+xanthomonas
+peptostreptococcus anaerobius
+cronobacter universalis
+brachybacterium
+sphingomonas mali
+brevundimonas aurantiaca
+aeromicrobium marinum
+dechloromonas denitrificans
+sphingomonas azotifigens
+rhodobacter
+rhodanobacter
+perlucidibaca
+nocardioides sp
+perlucidibaca piscinae
+brevundimonas naejangsanensis
+bradyrhizobium lablabi
+corynebacterium matruchotii
+prevotella intermedia
+arsenophonus
+arsenophonus nasoniae
+enterococcus cecorum
+sulfuritalea
+sphingomonas sanguinis
+sulfuritalea hydrogenivorans
+enterovibrio
+corynebacterium auriscanis
+hyphomicrobium
+hydrotalea
+photobacterium damselae
+legionella lansingensis
+hydrotalea flava
+sulfurimonas autotrophica
+neptunomonas
+thiobacillus thioparus
+pelosinus
+solitalea
+solitalea canadensis
+sporomusa ovata
+pantoea stewartii
+rothia aeria
+micrococcus yunnanensis
+fluviicola
+fluviicola taffensis
+devosia limi
+halomonas sinaiensis
+geothrix
+hydrogenophilus
+corynebacterium ammoniagenes
+geothrix fermentans
+hydrogenophilus hirschii
+uliginosibacterium
+rhodococcus corynebacterioides
+uliginosibacterium gangwonense
+sphingobacterium alimentarium
+alcanivorax
+adhaeribacter
+gimesia
+gimesia maris
+ralstonia pickettii
+lactobacillus helveticus
+delftia tsuruhatensis
+corynebacterium jeikeium
+desulfovibrio alaskensis
+pelosinus fermentans
+arenimonas
+treponema succinifaciens
+arenimonas oryziterrae
+rhodanobacter denitrificans
+aeromonas sanarellii
+tolumonas
+desulfobulbus propionicus
+tolumonas auensis
+anaerofilum agile
+xenorhabdus innexi
+streptomyces fulvoviolaceus
+lactobacillus jensenii
+methylophaga
+neptunomonas naphthovorans
+hathewaya limosa
+anoxybacillus flavithermus
+bifidobacterium sp
+paenibacillus beijingensis
+candidatus arthromitus
+acinetobacter venetianus
+bacillus halodurans
+anaeromyxobacter dehalogenans
+pseudomonas plecoglossicida
+dysgonomonas mossii
+lactobacillus floricola
+nannocystis
+filifactor
+chloracidobacterium
+treponema brennaborense
+filifactor alocis
+nitrosomonas sp
+paraburkholderia terrae
+rhodococcus qingshengii
+chloracidobacterium thermophilum
+nannocystis pusilla
+pseudoalteromonas haloplanktis
+bacillus alkalinitrilicus
+bacillus cohnii
+syntrophus
+methylotenera
+rudaea
+arcobacter cibarius
+syntrophus aciditrophicus
+sphingomonas changbaiensis
+rudaea cellulosilytica
+acetoanaerobium
+[clostridium] sticklandii
+lactobacillus parafarraginis
+aminobacterium
+desulfitobacterium dichloroeliminans
+eubacterium sp
+simkania
+lactobacillus oris
+geobacter metallireducens
+sphingomonas asaccharolytica
+simkania negevensis
+dietzia
+microvirga
+pseudomonas resinovorans
+streptomyces sp
+spiroplasma taiwanense
+paenibacillus borealis
+mycobacterium neoaurum
+janibacter anophelis
+succinivibrio
+succinivibrio dextrinosolvens
+acinetobacter towneri
+alcaligenes
+pedomicrobium
+terrimonas
+terrimonas ferruginea
+methylobacterium extorquens
+sulfurimonas denitrificans
+symbiobacterium
+caldanaerobius
+symbiobacterium thermophilum
+caldanaerobius polysaccharolyticus
+clostridium putrefaciens
+lactobacillus acetotolerans
+rhodococcus rhodochrous
+acinetobacter radioresistens
+planococcus plakortidis
+[eubacterium] nodatum
+agitococcus
+rheinheimera pacifica
+arcobacter sp
+agitococcus lubricus
+acetobacterium
+leuconostoc lactis
+facklamia hominis
+treponema bryantii
+burkholderia pseudomallei
+lactobacillus kunkeei
+rhodoplanes
+marinobacterium
+rhizobium etli
+dechloromonas aromatica
+prevotella nanceiensis
+geobacter daltonii
+caldicellulosiruptor
+niastella
+helicobacter canis
+halomonas halophila
+[clostridium] fimetarium
+lysobacter yangpyeongensis
+cytophaga xylanolytica
+acidobacterium
+limnobacter
+rhodobacter sp
+microbacterium testaceum
+acidobacterium capsulatum
+pedomicrobium manganicum
+pseudoclavibacter
+corynebacterium coyleae
+lactobacillus nagelii
+variovorax
+helicobacter bilis
+acinetobacter gerneri
+mariniphaga
+mariniphaga anaerophila
+porphyrobacter neustonensis
+rhodococcus equi
+halomonas phoceae
+clostridium tepidiprofundi
+cupriavidus
+schwartzia
+meiothermus
+[clostridium] sporosphaeroides
+schwartzia succinivorans
+cellvibrio
+phenylobacterium koreense
+candidatus arthromitus sp
+marinifilum
+moraxella nonliquefaciens
+marinifilum fragile
+variovorax paradoxus
+syntrophomonas bryantii
+bifidobacterium subtile
+rahnella sp
+turicibacter
+desulfovibrio gigas
+streptococcus sobrinus
+gordonia
+vogesella
+sphingomonas paucimobilis
+sphingomonas pruni
+vogesella indigofera
+rheinheimera baltica
+adhaeribacter aquaticus
+[clostridium] josui
+clostridium argentinense
+corynebacterium propinquum
+pseudomonas chlororaphis
+halopelagius
+arcobacter nitrofigilis
+brevundimonas subvibrioides
+halopelagius fulvigenes
+moraxella catarrhalis
+[bacillus] clarkii
+actinomyces johnsonii
+desulfatiglans
+desulfatiglans anilini
+weissella confusa
+mogibacterium vescum
+azospirillum
+micavibrio
+chitinimonas
+altererythrobacter
+halomonas neptunia
+stenotrophomonas rhizophila
+micavibrio aeruginosavorus
+ochrobactrum
+tetragenococcus
+zoogloea ramigera
+sphingomonas parapaucimobilis
+janibacter terrae
+vibrio coralliilyticus
+thermodesulfovibrio aggregans
+aggregatibacter sp
+janthinobacterium
+janthinobacterium agaricidamnosum
+stenotrophomonas nitritireducens
+novosphingobium sp
+streptococcus sp
+geobacter sp
+mycobacterium mageritense
+lewinella nigricans
+fibrobacter succinogenes
+aeromonas rivuli
+acinetobacter calcoaceticus
+syntrophobacter
+tepidimonas
+candidatus pelagibacter
+rhodococcus triatomae
+rhizobium sophorae
+corynebacterium segmentosum
+carnobacterium divergens
+bradyrhizobium diazoefficiens
+dickeya
+weissella koreensis
+jatrophihabitans
+jatrophihabitans endophyticus
+mycobacterium setense
+selenomonas artemidis
+coriobacterium glomerans
+xenorhabdus szentirmaii
+vibrio crassostreae
+coxiella
+coxiella burnetii
+porphyromonas gingivalis
+salinisphaera
+phascolarctobacterium faecium
+salinisphaera halophila
+sulfurospirillum
+limnobacter sp
+leptonema
+leptonema illini
+[haemophilus] parasuis
+sphaerochaeta
+parapedobacter
+elusimicrobium
+shewanella oneidensis
+syntrophobacter fumaroxidans
+elusimicrobium minutum
+parapedobacter luteus
+alcanivorax sp
+flectobacillus
+flectobacillus major
+actinomyces oris
+geodermatophilus
+burkholderia ambifaria
+pseudomonas parafulva
+neisseria elongata
+eubacterium ruminantium
+enterovibrio coralii
+arthrobacter sp
+oceanobacillus iheyensis
+amycolatopsis
+paenibacillus pinihumi
+pedobacter oryzae
+desulfonauticus
+tepidimonas arfidensis
+devosia yakushimensis
+desulfonauticus autotrophicus
+acholeplasma modicum
+sedimenticola
+sedimenticola selenatireducens
+sporichthya
+dethiosulfatibacter
+sporichthya polymorpha
+streptomyces tauricus
+dethiosulfatibacter aminovorans
+bacillus fumarioli
+staphylococcus intermedius
+paenibacillus alginolyticus
+fusobacterium equinum
+lactobacillus taiwanensis
+polaromonas
+aminobacterium colombiense
+stenotrophomonas acidaminiphila
+fusobacterium perfoetens
+enhygromyxa
+hydrocarboniphaga
+flavobacterium aquatile
+vibrio vulnificus
+bacillus pseudofirmus
+geobacter thiogenes
+enhygromyxa salina
+hyphomicrobium nitrativorans
+rhodococcus gordoniae
+marine gamma proteobacterium htcc2080
+nitriliruptor
+propionibacterium granulosum
+legionella worsleiensis
+nitriliruptor alkaliphilus
+vagococcus teuberi
+stella humosa
+chitinimonas sp
+apibacter
+pseudoalteromonas issachenkonii
+brachybacterium paraconglomeratum
+apibacter mensalis
+clostridium aceticum
+roseomonas
+myroides
+phocaeicola
+proteus vulgaris
+yersinia pestis
+yersinia rohdei
+methanobrevibacter oralis
+roseiflexus sp
+phocaeicola abscessus
+chitinophaga eiseniae
+lactobacillus brantae
+pseudomonas oryzihabitans
+nitrosospira
+gluconacetobacter
+nitrosospira multiformis
+gluconacetobacter diazotrophicus
+methylotenera mobilis
+salinicoccus
+clostridium novyi
+clostridium autoethanogenum
+rickettsia
+pseudoxanthomonas
+legionella hackeliae
+caulobacter vibrioides
+hydrocarboniphaga effusa
+mesorhizobium metallidurans
+neisseria meningitidis
+clostridium acetireducens
+candidatus puniceispirillum
+gloeobacter violaceus
+candidatus puniceispirillum marinum
+methylotenera versatilis
+legionella pneumophila
+methylobacterium sp
+rhodopseudomonas
+hyphomonas neptunium
+acidovorax sp
+ochrobactrum anthropi
+streptomyces lavendulae
+roseiflexus castenholzii
+saprospiraceae bacterium kmm 9006
+bacillus anthracis
+corynebacterium sphenisci
+propionibacterium avidum
+candidatus pelagibacter sp
+nesterenkonia
+spiroplasma clarkii
+anaerobiospirillum succiniciproducens
+marinobacterium stanieri
+dickeya dadantii
+lachnospiraceae bacterium mc_35
+anaerobranca
+leadbetterella
+anaerobranca horikoshii
+leadbetterella byssophila
+psychrobacter sp
+helicobacter hepaticus
+chitinophaga niabensis
+bacteroides heparinolyticus
+corynebacterium kroppenstedtii
+prochlorococcus
+acidimicrobium
+prochlorococcus marinus
+acidimicrobium ferrooxidans
+pseudomonas pachastrellae
+streptomyces violaceorubidus
+succinispira
+succinispira mobilis
+acetobacter
+candidatus accumulibacter
+lactobacillus ultunensis
+candidatus accumulibacter phosphatis
+altererythrobacter dongtanensis
+methylophaga nitratireducenticrescens
+lachnobacterium
+[desulfobacterium] catecholicum
+lachnobacterium bovis
+syntrophomonas palmitatica
+paraburkholderia xenovorans
+hyphomonas polymorpha
+chitinophaga pinensis
+rhodococcus pyridinivorans
+rhodoplanes piscinae
+dietzia maris
+butyricimonas synergistica
+vibrio parahaemolyticus
+mycobacterium chlorophenolicum
+caulobacter henricii
+natranaerobius
+corynebacterium camporealensis
+natranaerobius thermophilus
+mycoplasma hyorhinis
+aeromonas fluvialis
+thioalkalivibrio
+bacillus abyssalis
+colwellia
+turneriella
+turneriella parva
+porphyrobacter tepidarius
+enterococcus columbae
+subdoligranulum sp
+thermicanus
+legionella feeleii
+streptomyces bottropensis
+thermicanus aegyptius
+thiothrix
+peptoclostridium
+corynebacterium appendicis
+paenibacillus odorifer
+hirschia maritima
+zavarzinia
+alcaligenes faecalis
+acinetobacter soli
+zavarzinia compransoris
+paraburkholderia fungorum
+cellvibrio japonicus
+clostridium estertheticum
+glaciecola
+anaerococcus octavius
+pseudonocardia autotrophica
+clostridium tetani
+prevotella pleuritidis
+sulfurospirillum multivorans
+glaciecola sp
+photobacterium leiognathi
+dysgonomonas hofstadii
+pseudonocardia alaniniphila
+paracoccus halophilus
+methylobacterium platani
+kofleria sp
+anaerosinus
+methyloligella
+brevundimonas bacteroides
+anaerosinus glycerini
+brevundimonas aveniformis
+methyloligella halotolerans
+photorhabdus luminescens
+agromyces
+bacillus carboniphilus
+clostridium oryzae
+lactobacillus tucceti
+brenneria alni
+lactobacillus fuchuensis
+synechococcus sp
+arcobacter butzleri
+hyphomicrobium sp
+lactobacillus gallinarum
+lactobacillus algidus
+nocardia fluminea
+candidatus protochlamydia
+segetibacter
+pseudomonas corrugata
+candidatus protochlamydia amoebophila
+sphaerochaeta globosa
+mycobacterium canettii
+psychrobacter arcticus
+aeromonas taiwanensis
+leucobacter
+parachlamydia
+azospira
+corynebacterium ulcerans
+parachlamydia acanthamoebae
+sporosarcina sp
+mobiluncus curtisii
+sphingopyxis
+gottschalkia acidurici
+helcococcus kunzii
+gluconobacter
+sulfuricurvum
+fodinicurvata
+acinetobacter guillouiae
+azospira oryzae
+sulfuricurvum kujiense
+halomonas sediminis
+pasteurella multocida
+lactobacillus thailandensis
+aminobacterium mobile
+methylobacterium aquaticum
+bordetella
+sneathia
+streptomyces albus
+rheinheimera perlucida
+thermaerobacter
+facklamia ignava
+desulfococcus
+aquamicrobium
+rubinisphaera
+rubinisphaera brasiliensis
+paenibacillus curdlanolyticus
+aquamicrobium lusatiense
+bacillus boroniphilus
+actinospica
+corynebacterium glaucum
+lachnospiraceae bacterium 5_1_57faa
+corynebacterium pseudotuberculosis
+streptomyces alboviridis
+cupriavidus metallidurans
+methylomonas
+desulfobulbus elongatus
+treponema vincentii
+mycobacterium avium
+butyrivibrio hungatei
+denitrovibrio
+denitrovibrio acetiphilus
+caulobacter sp
+candidatus brocadia
+candidatus brocadia caroliniensis
+neisseria pharyngis
+helicobacter canadensis
+anaplasma
+bacillus methanolicus
+bacillus thermoamylovorans
+dehalobacter restrictus
+sphingobium yanoikuyae
+algoriphagus aquatilis
+skermanella
+skermanella sp
+gamma proteobacterium hdn1
+desulfovibrio mexicanus
+fibrobacter intestinalis
+carnobacterium sp
+empedobacter
+pandoraea
+empedobacter brevis
+actinobacillus porcinus
+enorma massiliensis phi
+pediococcus pentosaceus
+paracoccus sp
+pontibacillus
+hallella seregens
+pontibacillus marinus
+desulfobacca
+rhodococcus ruber
+desulfobacca acetoxidans
+bdellovibrio exovorus
+bacillus badius
+rubrobacter xylanophilus
+arthrobacter luteolus
+vibrio xuii
+mobiluncus mulieris
+desulfovibrio simplex
+lactobacillus vini
+vibrio azureus
+anaplasma phagocytophilum
+lactobacillus pontis
+flavobacterium cucumis
+idiomarina woesei
+marinomonas
+actinocorallia
+roseimaritima
+campylobacter showae
+roseimaritima ulvae
+propionispira raffinosivorans
+geoalkalibacter
+shewanella amazonensis
+geoalkalibacter ferrihydriticus
+photobacterium aphoticum
+vagococcus fluvialis
+megamonas rupellensis
+thalassomonas
+actinospica robiniae
+xanthomonas albilineans
+stenotrophomonas pavanii
+niastella populi
+sphaerochaeta pleomorpha
+suttonella
+rothia nasimurium
+burkholderia cepacia
+phenylobacterium haematophilum
+treponema berlinense
+bacillus niacini
+bacillus oshimensis
+polaribacter
+pelagibacterium
+streptomyces olivochromogenes
+pediococcus damnosus
+kocuria palustris
+pelagibacterium halotolerans
+thermodesulfobium
+thermodesulfobium narugense
+lactobacillus ghanensis
+derxia
+rubellimicrobium
+bacillus coagulans
+geodermatophilus obscurus
+derxia gummosa
+bisgaard taxon 3
+lactobacillus equi
+pontibacter
+sphingopyxis terrae
+microbacterium sp
+prevotella aurantiaca
+sphingomonas sp
+dermabacter
+turicibacter sanguinis
+hymenobacter luteus
+curtobacterium
+dyadobacter
+pelobacter propionicus
+halomonas muralis
+ponticaulis
+vulgatibacter
+weissella viridescens
+corynebacterium genitalium
+corynebacterium pseudogenitalium
+collinsella stercoris
+ponticaulis koreensis
+vulgatibacter incomptus
+promicromonospora
+desulfococcus multivorans
+lysobacter antibioticus
+tindallia
+meganema
+bacillus mycoides
+tindallia magadiensis
+meganema perideroedes
+lactobacillus composti
+hahella
+bradyrhizobium oligotrophicum
+campylobacter lanienae
+niastella koreensis
+fodinicurvata fenggangensis
+rouxiella
+bacillus mannanilyticus
+dermabacter hominis
+lactobacillus harbinensis
+rouxiella sp
+alishewanella
+rhodococcus fascians
+bacillus horikoshii
+glutamicibacter arilaitensis
+pseudomonas aestusnigri
+streptomyces radiopugnans
+weissella ghanensis
+pimelobacter
+pimelobacter simplex
+porphyrobacter sanguineus
+polaromonas jejuensis
+aneurinibacillus aneurinilyticus
+fructobacillus pseudoficulneus
+suttonella ornithocola
+lactobacillus nodensis
+thermacetogenium
+methylomonas methanica
+mycoplasma penetrans
+thermacetogenium phaeum
+gemella sanguinis
+hahella chejuensis
+eikenella
+candidatus blochmannia
+eikenella corrodens
+paenibacillus lautus
+corynebacterium renale
+marinobacterium georgiense
+saccharibacter
+colwellia psychrerythraea
+saccharibacter floricola
+paraburkholderia mimosarum
+alishewanella jeotgali
+streptococcus lutetiensis
+prevotella maculosa
+aminobacter
+rhodoligotrophos
+aminobacter aminovorans
+rhodoligotrophos appendicifer
+garciella
+streptococcus ratti
+bacillus halmapalus
+idiomarina zobellii
+garciella nitratireducens
+oscillibacter sp
+streptomyces chartreusis
+clostridioides mangenotii
+[pasteurella] pneumotropica
+acinetobacter ursingii
+paraburkholderia phytofirmans
+propionibacterium propionicum
+pseudomonas kilonensis
+acinetobacter gyllenbergii
+corynebacterium casei
+microbulbifer
+alkalimonas
+lactobacillus coryniformis
+rhodococcus opacus
+planococcus antarcticus
+brevibacterium ravenspurgense
+thermomonas
+helicobacter muridarum
+anaeromyxobacter sp
+nubsella
+nubsella zeaxanthinifaciens
+bartonella
+burkholderia sp
+orenia
+laceyella
+orenia marismortui
+hydrogenophaga
+streptomyces globisporus
+cupriavidus necator
+rhodobacterales bacterium htcc2255
+mycetocola
+aerosphaera
+candidatus portiera
+thermosinus
+fusobacterium necrogenes
+candidatus portiera aleyrodidarum
+aerosphaera taetra
+thermosinus carboxydivorans
+streptococcus henryi
+desulfothermus
+gluconobacter frateurii
+marine gamma proteobacterium htcc2089
+desulfothermus okinawensis
+nevskia
+soehngenia
+soehngenia saccharolytica
+photorhabdus asymbiotica
+corynebacterium aurimucosum
+inquilinus
+gordonia westfalica
+corynebacterium tuscaniense
+mycetocola saprophilus
+chloroflexus
+crocinitomix
+sulfurospirillum arsenophilum
+crocinitomix catalasitica
+beta proteobacterium htcc379
+segetibacter aerophilus
+castellaniella
+treponema denticola
+azospirillum lipoferum
+brachybacterium conglomeratum
+sulfurospirillum arcachonense
+inquilinus limosus
+chryseobacterium molle
+castellaniella caeni
+asaccharospora
+thermodesulfovibrio yellowstonii
+asaccharospora irregularis
+anaerococcus tetradius
+thiothrix lacustris
+silanimonas
+sphingomonas wittichii
+lysobacter brunescens
+silanimonas lenta
+oxalophagus
+oxalophagus oxalicus
+achromobacter
+methylobacillus
+ilyobacter
+ilyobacter polytropus
+prevotella micans
+geobacter bemidjiensis
+polaromonas sp
+leucobacter chromiiresistens
+francisella
+niabella
+actinomyces nasicola
+desulfovibrio alkalitolerans
+flavobacterium suncheonense
+treponema stenostreptum
+rhodoplanes cryptolactis
+rubellimicrobium roseum
+fastidiosipila
+fastidiosipila sanguinis
+spiroplasma platyhelix
+dysgonomonas termitidis
+asaia
+mucilaginibacter
+holophaga
+holophaga foetida
+pseudomonas taetrolens
+tepidiphilus
+tepidiphilus margaritifer
+arcanobacterium
+chryseobacterium balustinum
+paenibacillus pabuli
+treponema pectinovorum
+salinicoccus roseus
+bacillus galactosidilyticus
+propionivibrio
+propionivibrio dicarboxylicus
+cellvibrio fulvus
+mesoplasma
+actinomyces radingae
+pseudoclavibacter bifida
+providencia sneebia
+hydrogenophaga intermedia
+alcaligenes sp
+leuconostoc fallax
+lactobacillus hilgardii
+chondromyces
+kerstersia
+chondromyces apiculatus
+sphingomonas yunnanensis
+treponema caldarium
+brochothrix
+kocuria rhizophila
+microbacterium paraoxydans
+thiomonas
+candidatus midichloria
+weissella kandleri
+clostridium intestinale
+paenibacillus chitinolyticus
+candidatus midichloria mitochondrii
+microlunatus
+blastococcus
+methylacidiphilum
+methylacidiphilum infernorum
+bacillus cereus
+sneathia sanguinegens
+actinomyces europaeus
+bacillus butanolivorans
+sandarakinorhabdus
+wenyingzhuangia
+sporosarcina ureae
+bacillus novalis
+wenyingzhuangia marina
+marmoricola
+aeromicrobium erythreum
+brochothrix campestris
+vibrio tasmaniensis
+marmoricola aequoreus
+methylobacter
+helicobacter mustelae
+methylobacillus flagellatus
+vibrio natriegens
+gloeobacter kilaueensis
+zymobacter
+byssovorax
+corynebacterium stationis
+zymobacter palmae
+byssovorax cruenta
+geodermatophilus poikilotrophus
+frankia
+alkalibacterium
+gordonia desulfuricans
+capnocytophaga granulosa
+paenibacillus kobensis
+thioalkalivibrio versutus
+desulfomonile
+desulfomonile tiedjei
+gordonia amicalis
+sphingobium xenophagum
+loktanella vestfoldensis
+microvirga aerilata
+burkholderia susongensis
+ureaplasma
+thermovirga
+insolitispirillum
+insolitispirillum peregrinum
+thermovirga lienii
+psychrilyobacter
+ralstonia solanacearum
+sphingomonas adhaesiva
+paracoccus aminophilus
+streptomyces luteoverticillatus
+porphyrobacter sp
+psychrilyobacter atlanticus
+methylobacter luteus
+[eubacterium] angustum
+lactobacillus manihotivorans
+desulfobacterium
+dyella
+brachybacterium nesterenkovii
+dyella japonica
+agrobacterium
+kocuria kristinae
+paenibacillus anaericanus
+meniscus
+chryseobacterium scophthalmum
+meniscus glaucopis
+bacillus benzoevorans
+psychrobacter maritimus
+lachnospiraceae bacterium 9_1_43bfaa
+azovibrio
+lactobacillus aviarius
+azovibrio restrictus
+pseudomonas psychrotolerans
+lewinella antarctica
+streptomyces scopuliridis
+streptobacillus
+methylarcula
+caldanaerobacter
+haemophilus influenzae-murium
+corynebacterium imitans
+corynebacterium atypicum
+spiroplasma culicicola
+spiroplasma floricola
+caldanaerobacter subterraneus
+campylobacter fetus
+novosphingobium aromaticivorans
+clostridium bowmanii
+shimwellia
+shimwellia blattae
+paenibacillus graminis
+jeotgalibacillus
+schlesneria
+jeotgalibacillus marinus
+schlesneria paludicola
+microvirga aerophila
+desulfotomaculum kuznetsovii
+pseudanabaena
+microvirga flocculans
+candidatus phytoplasma
+aeromonas salmonicida
+weissella soli
+segetibacter koreensis
+streptomyces griseus
+leptospira
+acidocella
+youngiibacter
+rhodopseudomonas palustris
+thiobacillus denitrificans
+blastococcus aggregatus
+pseudoxanthomonas taiwanensis
+sphaerochaeta coccoides
+youngiibacter multivorans
+mycobacterium intracellulare
+sporomusa malonica
+paenibacillus agaridevorans
+desulfovibrio putealis
+actinoplanes
+helicobacter bizzozeronii
+endozoicomonas
+methylarcula marina
+desulfobacterium autotrophicum
+microbacterium hominis
+pedobacter steynii
+bartonella doshiae
+rickettsia massiliae
+sandarakinorhabdus limnophila
+acinetobacter pittii
+actinomyces oricola
+staphylococcus hominis
+kitasatospora
+nakamurella
+eggerthia
+eggerthia catenaformis
+novosphingobium subterraneum
+asaia bogorensis
+lactobacillus parabuchneri
+lactobacillus kitasatonis
+flavobacterium haoranii
+moritella
+halorhodospira
+salinibacterium
+mycobacterium chubuense
+moritella marina
+saccharopolyspora
+thalassolituus
+lysinibacillus sphaericus
+thalassolituus oleivorans
+pseudanabaena biceps
+thermus
+rhodobacter sphaeroides
+erysipelothrix tonsillarum
+streptomyces thermolineatus
+desulfovibrio halophilus
+tetragenococcus halophilus
+actinomycetospora
+desulfuromonas
+lactobacillus paracollinoides
+megamonas funiformis
+ectothiorhodospira
+halomonas anticariensis
+acanthopleuribacter
+acanthopleuribacter pedis
+arthrobacter globiformis
+chitinophaga arvensicola
+achromobacter xylosoxidans
+lactobacillus suebicus
+bacillus bogoriensis
+exiguobacterium acetylicum
+kitasatospora mediocidica
+methylophaga frappieri
+synergistes
+acetobacterium wieringae
+eubacterium callanderi
+corynebacterium spheniscorum
+aerococcus urinaeequi
+methanomassiliicoccus
+actinomyces bovis
+mycobacterium fortuitum
+streptomyces rimosus
+paenibacillus durus
+treponema primitia
+candidatus methanomassiliicoccus intestinalis
+desulfuromonas acetoxidans
+mycobacterium vulneris
+ferrimicrobium
+paenibacillus macerans
+ferrimicrobium acidiphilum
+microbacterium ginsengisoli
+providencia burhodogranariea
+thermomicrobium
+lonsdalea
+thermomicrobium roseum
+desulfitobacterium hafniense
+desulfotomaculum reducens
+lonsdalea quercina
+microbacterium phyllosphaerae
+marinobacter hydrocarbonoclasticus
+methylophaga thalassica
+psychrobacter pacificensis
+microvirga subterranea
+catenulispora
+globicatella
+actinotignum
+clostridium cadaveris
+eubacterium acidaminophilum
+brevibacterium mcbrellneri
+candidatus pelagibacter ubique
+slackia piriformis
+wolbachia
+allochromatium
+nocardioides jensenii
+hyphomicrobium denitrificans
+marine gamma proteobacterium htcc2188
+sodalis
+nitratifractor
+succinatimonas
+corynebacterium glucuronolyticum
+sodalis glossinidius
+nitratifractor salsuginis
+succinatimonas hippei
+psychromonas
+pandoraea thiooxydans
+lactobacillus kimchiensis
+rathayibacter
+arcanobacterium haemolyticum
+thermomonas brevis
+cellulomonas
+anaerobacillus
+desulfovibrio aminophilus
+alkalimonas collagenimarina
+exiguobacterium sp
+geobacter sulfurreducens
+pontibacter korlensis
+halobacteroides
+cryptosporangium
+peptoniphilus indolicus
+halobacteroides halobius
+chromohalobacter
+microlunatus sp
+acinetobacter oleivorans
+sporanaerobacter
+sphingosinicella
+sporanaerobacter acetigenes
+bacillus infantis
+pelobacter seleniigenes
+sphingosinicella vermicomposti
+paenibacillus macquariensis
+blattabacterium sp
+rhodothermus
+parvibaculum
+porticoccus
+parvibaculum lavamentivorans
+stenotrophomonas koreensis
+porticoccus litoralis
+candidatus pantoea carbekii
+brevibacillus borstelensis
+phyllobacterium
+catenulispora acidiphila
+lysobacter spongiicola
+desulfobulbus sp
+actinotignum schaalii
+moraxella lincolnii
+psychrobacter adeliensis
+methylophilus
+micromonospora
+lysobacter enzymogenes
+gordonia terrae
+lewinella marina
+sporolactobacillus
+pantoea cypripedii
+providencia sp
+streptobacillus hongkongensis
+pseudonocardia dioxanivorans
+alkaliflexus
+sporosarcina globispora
+paenibacillus naphthalenovorans
+alkaliflexus imshenetskii
+geobacter uraniireducens
+lactobacillus capillatus
+rhodobacter blasticus
+methylobacterium populi
+phyllobacterium sophorae
+enterobacter hormaechei
+porphyromonas gingivicanis
+peptoniphilus methioninivorax
+paraburkholderia tropica
+chitinophaga filiformis
+brachybacterium sacelli
+prosthecomicrobium
+streptococcus downei
+lactobacillus selangorensis
+actinomycetospora chiangmaiensis
+alpha proteobacterium himb59
+marivirga
+streptococcus criceti
+tetragenococcus muriaticus
+actinomyces marimammalium
+methylococcus
+hyphomicrobium vulgare
+methylococcus capsulatus
+allochromatium warmingii
+paracoccus chinensis
+runella
+[haemophilus] ducreyi
+deinococcus radiodurans
+rehaibacterium
+acidithiobacillus caldus
+amycolatopsis mediterranei
+rhizobium mesoamericanum
+rehaibacterium terrae
+myroides odoratimimus
+proteus hauseri
+rhodopseudomonas julia
+caldicellulosiruptor obsidiansis
+nocardiopsis
+paracraurococcus
+paracoccus aminovorans
+pediococcus parvulus
+promicromonospora sukumoe
+cellvibrio vulgaris
+paracraurococcus sp
+aeromonas piscicola
+weissella minor
+rhodococcus jostii
+pleomorphomonas
+spirochaeta
+brachyspira
+aneurinibacillus migulanus
+desulfovibrio senezii
+salinibacterium amurskyense
+treponema zuelzerae
+providencia alcalifaciens
+deinococcus yunweiensis
+acidocella aluminiidurans
+candidatus methanomethylophilus
+atopobium fossor
+pasteurellaceae bacterium ccug 36050
+candidatus methanomethylophilus alvus
+aeromonas popoffii
+pedobacter borealis
+lactobacillus rapi
+acidothermus
+thermoleophilum
+nicoletella
+sphingobacterium mizutaii
+globicatella sanguinis
+acidothermus cellulolyticus
+nicoletella semolina
+roseomonas mucosa
+lactobacillus ozensis
+magnetococcus
+peptoniphilus coxii
+magnetococcus marinus
+moraxella caprae
+pleomorphomonas oryzae
+saccharomonospora
+rhodoferax
+paracoccus denitrificans
+alkalimonas delamerensis
+acetobacter pasteurianus
+desulfotomaculum thermocisternum
+aeromicrobium sp
+coprothermobacter
+calditerrivibrio
+deinococcus proteolyticus
+calditerrivibrio nitroreducens
+myxococcus
+rickettsia sibirica
+arthrobacter crystallopoietes
+chitinophaga japonensis
+flavobacterium terrae
+stenotrophomonas chelatiphaga
+syntrophococcus
+streptomyces mobaraensis
+streptomyces macrosporus
+syntrophococcus sucromutans
+actinomadura
+desulfonema
+mycobacterium thermoresistibile
+legionella brunensis
+psychrobacter submarinus
+providencia rettgeri
+desulfitibacter
+deinococcus geothermalis
+clostridium carboxidivorans
+bacillus drentensis
+desulfitibacter alkalitolerans
+paenibacillus sepulcri
+sporocytophaga
+sphaerotilus
+geopsychrobacter
+sphaerotilus natans
+xanthomonas axonopodis
+curtobacterium pusillum
+sporocytophaga myxococcoides
+geopsychrobacter electrodiphilus
+rhizobium cauense
+methylosinus
+nautilia
+pseudohongiella
+nautilia profundicola
+corynebacterium epidermidicanis
+roseomonas genomospecies 5
+chitinimonas taiwanensis
+phenylobacterium composti
+marinilabilia
+marinilabilia salmonicolor
+corynebacterium bovis
+anoxybacillus contaminans
+lactobacillus satsumensis
+desulfonatronum
+marinicella
+brevibacterium epidermidis
+desulfonatronum lacustre
+kocuria aegyptia
+marinicella litoralis
+enterococcus mundtii
+cellulophaga
+methylosinus trichosporium
+lactobacillus fructivorans
+lactobacillus panis
+helcococcus sueciensis
+micrococcus sp
+brevibacterium iodinum
+pseudoalteromonas mariniglutinosa
+rhodospirillum
+acetivibrio
+yersinia kristensenii
+sphingobacterium faecium
+acetivibrio ethanolgignens
+nitrosomonas cryotolerans
+mucilaginibacter oryzae
+tsukamurella
+nonlabens
+desulfarculus
+xenorhabdus nematophila
+prosthecomicrobium pneumaticum
+lactobacillus pantheris
+spiroplasma chinense
+desulfarculus baarsii
+oxalobacter vibrioformis
+belnapia
+sulfuricella
+chromohalobacter salexigens
+dyadobacter beijingensis
+chloroflexus sp
+sulfuricella denitrificans
+belnapia rosea
+wandonia
+spiroplasma alleghenense
+lactobacillus sucicola
+wandonia haliotis
+gillisia
+methylophilus methylotrophus
+moraxella bovis
+hymenobacter rigui
+glycomyces
+acidiferrobacter
+marivirga tractuosa
+pectinatus cerevisiiphilus
+alkalibacterium olivapovliticus
+leptotrichia shahii
+acidiferrobacter thiooxydans
+arthrobacter tumbae
+dialister succinatiphilus
+lactococcus sp
+solimonas
+ectothiorhodospira mobilis
+adhaeribacter terreus
+capnocytophaga gingivalis
+actinomyces slackii
+geobacillus toebii
+sanguibacter
+moraxella equi
+sphingobium japonicum
+glutamicibacter nicotianae
+desulfotomaculum aeronauticum
+rhodothermus marinus
+corynebacterium mycetoides
+adhaeribacter aerolatus
+thalassomonas sp
+[clostridium] litorale
+propionibacterium acidipropionici
+thermaerobacter subterraneus
+methylobacterium hispanicum
+sinorhizobium
+ignatzschineria
+acholeplasma oculi
+actinocorallia aurantiaca
+asticcacaulis biprosthecium
+ignatzschineria larvae
+kerstersia gyiorum
+micrococcus terreus
+trichococcus flocculiformis
+xanthomonas campestris
+sanguibacter keddieii
+streptomyces viridobrunneus
+niastella yeongjuensis
+nocardioides halotolerans
+oenococcus
+desulfovibrio hydrothermalis
+candidatus blochmannia chromaiodes
+lactobacillus equigenerosi
+[enterobacter] aerogenes
+arthrospira
+blastopirellula
+blastopirellula marina
+desulfonema limicola
+glutamicibacter mysorens
+bosea sp
+microbulbifer rhizosphaerae
+sulfobacillus
+halobacillus
+agromyces rhizospherae
+haemophilus pittmaniae
+laceyella sp
+bacillus nakamurai
+leifsonia
+gordonia rubripertincta
+kerstersia similis
+pseudomonas xanthomarina
+mesorhizobium australicum
+sporolactobacillus inulinus
+microbacterium foliorum
+lactobacillus diolivorans
+exiguobacterium marinum
+alicyclobacillus contaminans
+desulfacinum
+catellatospora
+edaphobacter
+nitrosomonas europaea
+desulfacinum hydrothermale
+arthrospira sp
+edaphobacter aggregans
+geobacillus caldoxylosilyticus
+slackia equolifaciens
+corynebacterium pyruviciproducens
+pseudoramibacter
+candidatus cloacimonas
+bordetella bronchiseptica
+pseudoramibacter alactolyticus
+candidatus cloacimonas acidaminovorans
+pseudonocardia yuanmonensis
+jiangella
+tepidanaerobacter
+ureibacillus thermosphaericus
+tepidanaerobacter acetatoxydans
+erysipelotrichaceae bacterium 3_1_53
+acaryochloris
+acaryochloris marina
+rhodopila
+azoarcus
+sideroxydans
+chryseobacterium indoltheticum
+xanthomonas oryzae
+rhodopila globiformis
+pseudonocardia asaccharolytica
+sideroxydans lithotrophicus
+gordonia alkanivorans
+leptospira broomii
+arthrobacter alpinus
+nevskia ramosa
+inhella
+aerococcus viridans
+dyadobacter fermentans
+legionella drozanskii
+inhella inkyongensis
+chryseobacterium oranimense
+synechocystis
+gallibacterium
+acidihalobacter
+meiothermus cerbereus
+caulobacter fusiformis
+cryptosporangium aurantiacum
+aureimonas
+pseudomonas citronellolis
+gluconobacter albidus
+salinicoccus kunmingensis
+kurthia
+candidatus amoebophilus
+bacillus fastidiosus
+porphyromonas canoris
+deinococcus sp
+bacillus pichinotyi
+candidatus amoebophilus asiaticus
+planococcus halocryophilus
+spirosoma
+sneathiella
+chitinophaga sancti
+flavobacterium hibernum
+gillisia limnaea
+pseudoxanthomonas suwonensis
+sneathiella glossodoripedis
+neisseria canis
+brevibacterium album
+natroniella
+actinobaculum
+granulicella
+mesocricetibacter
+desulfotomaculum sp
+natroniella acetigena
+streptomyces iakyrus
+sphingomonas leidyi
+paenibacillus koleovorans
+acidihalobacter prosperus
+neptunomonas sp
+mesocricetibacter intestinalis
+geitlerinema
+flavobacterium succinicans
+limnobacter litoralis
+thermoactinomyces
+methanotorris
+lacibacter
+cocleimonas
+myroides odoratus
+fructobacillus fructosus
+methanotorris igneus
+candidatus phytoplasma mali
+lacibacter cauensis
+rhodococcus sp
+cocleimonas flava
+sorangium
+desulfurivibrio
+gracilimonas
+sorangium cellulosum
+flavobacterium gelidilacus
+rhizobium sp
+desulfurivibrio alkaliphilus
+tangfeifania
+halorhodospira halochloris
+thermaerobacter marianensis
+lactobacillus antri
+deinococcus misasensis
+tangfeifania diversioriginum
+flavitalea
+cnuella
+nocardioides plantarum
+cnuella takakiae
+flavitalea sp
+actinobacillus suis
+sneathia amnii
+niabella aurantiaca
+sphingobium sp
+endozoicomonas numazuensis
+methylomicrobium
+kytococcus
+cellulosimicrobium
+vibrio anguillarum
+chryseobacterium formosense
+filimonas
+thermoleophilum album
+brevibacillus agri
+filimonas lacunae
+paenibacillus glacialis
+vibrio halioticoli
+mycoplasma molare
+gracilimonas tropica
+methanocaldococcus
+actinophytocola
+francisella persica
+oenococcus oeni
+bacillus oleronius
+meiothermus silvanus
+aerococcus christensenii
+roseivirga
+janthinobacterium lividum
+acidiphilium
+kurthia gibsonii
+bifidobacterium psychraerophilum
+nonlabens spongiae
+pseudomonas flexibilis
+desulfobacter
+aliifodinibius
+bordetella pertussis
+amycolatopsis rifamycinica
+polaribacter atrinae
+lactobacillus graminis
+burkholderia multivorans
+lachnospiraceae bacterium 6_1_63faa
+lactobacillus saniviri
+sulfitobacter
+laribacter
+kytococcus sedentarius
+sulfurospirillum deleyianum
+actinocorallia longicatena
+thalassomonas viridans
+laribacter hongkongensis
+polaribacter sp
+lysobacter sp
+promicromonospora sp
+selenihalanaerobacter
+parascardovia
+rummeliibacillus
+parascardovia denticolens
+bradyrhizobium sp
+selenihalanaerobacter shriftii
+johnsonella
+labrys
+vibrio mimicus
+streptomyces coelicolor
+gordonia amarae
+methylomicrobium agile
+zoogloea resiniphila
+johnsonella ignava
+asticcacaulis benevestitus
+rubellimicrobium mesophilum
+nonomuraea sp
+ralstonia insidiosa
+campylobacter jejuni
+rhodococcus coprophilus
+brevibacterium antiquum
+bacillus muralis
+pseudoclavibacter soli
+aminiphilus
+xanthomonas citri
+sinorhizobium meliloti
+chloroflexus aurantiacus
+mycoplasma orale
+microbacterium arborescens
+aminiphilus circumscriptus
+agromyces subbeticus
+curtobacterium ammoniigenes
+photorhabdus temperata
+geobacillus thermodenitrificans
+psychrobacter glacincola
+leptotrichia hofstadii
+paenibacillus glebae
+mycoplasma bovis
+desulfohalobium
+agrobacterium tumefaciens
+virgibacillus halodenitrificans
+desulfotomaculum thermobenzoicum
+desulfohalobium retbaense
+desulfobulbus japonicus
+nevskia soli
+burkholderia contaminans
+erysipelotrichaceae bacterium 5_2_54faa
+comamonas badia
+carboxydocella
+bacillus lentus
+amycolatopsis orientalis
+thiothrix disciformis
+virgibacillus kekensis
+carboxydocella sporoproducens
+rhodococcus kroppenstedtii
+terribacillus
+paracoccus pantotrophus
+pandoraea apista
+altererythrobacter ishigakiensis
+rahnella aquatilis
+cardiobacterium valvarum
+thermodesulfovibrio thiophilus
+trichococcus sp
+oceanospirillum
+azospirillum brasilense
+streptomyces fimicarius
+helicobacter pametensis
+pontibacter roseus
+kocuria gwangalliensis
+chryseobacterium piscicola
+cryptobacterium
+flavobacterium johnsoniae
+cryptobacterium curtum
+frateuria
+frateuria aurantia
+methylophilales bacterium htcc2181
+saccharopolyspora tripterygii
+acetomicrobium
+rubrimonas
+kroppenstedtia
+virgibacillus pantothenticus
+mycobacterium vaccae
+moraxella atlantae
+shewanella violacea
+rubrimonas cliftonensis
+spiroplasma eriocheiris
+kroppenstedtia eburnea
+serratia
+herpetosiphon
+desulfobacula
+modestobacter
+herpetosiphon geysericola
+pseudonocardia hydrocarbonoxydans
+shewanella loihica
+terribacillus goriensis
+modestobacter marinus
+cellulosimicrobium sp
+chlorobium
+maricaulis
+massilia
+bacillus circulans
+bacillus alcalophilus
+corynebacterium pilosum
+maricaulis maris
+paenibacillus barengoltzii
+[pasteurella] aerogenes
+pseudonocardia halophobica
+streptomyces aurantiacus
+dietzia sp
+flavobacterium xinjiangense
+pseudoalteromonas byunsanensis
+promicromonospora kroppenstedtii
+leucobacter tardus
+planctomycete dsm1a9
+acetobacter papayae
+geitlerinema sp
+halanaerobium
+cycloclasticus
+mycobacterium chelonae group
+capnocytophaga sputigena
+paenibacillus apiarius
+neisseria animaloris
+lactobacillus farraginis
+chlamydia
+bartonella henselae
+desulfomicrobium orale
+anoxybacillus amylolyticus
+deinococcus deserti
+aliifodinibius sp
+aquaspirillum
+rhodospirillum rubrum
+[bacillus] thermocloacae
+sphingobium chlorophenolicum
+lactobacillus camelliae
+hydrogenovibrio
+beijerinckia
+gordonia sp
+flavobacterium soli
+kribbella catacumbae
+corynebacterium glyciniphilum
+methanobacterium
+gallibacterium anatis
+oerskovia sp
+microbacterium oleivorans
+virgibacillus sp
+streptococcus tigurinus
+staphylococcus lugdunensis
+cyanobium
+caballeronia
+actinomyces hordeovulneris
+paraburkholderia glathei
+methylobacterium aminovorans
+dyadobacter koreensis
+exiguobacterium oxidotolerans
+clostridium lundense
+anaerobacillus alkalidiazotrophicus
+staphylococcus warneri
+microbacterium hydrocarbonoxydans
+aureimonas altamirensis
+bacillus acidiceler
+agrococcus
+gemmobacter
+sphingobacterium thalpophilum
+bacillus simplex
+acholeplasma laidlawii
+pedobacter nyackensis
+peptostreptococcus canis
+oceanisphaera
+microbulbifer elongatus
+granulicatella balaenopterae
+leptolyngbya
+pectinatus frisingensis
+helcococcus ovis
+mesorhizobium plurifarium
+bdellovibrio sp
+globicatella sulfidifaciens
+gordonia namibiensis
+asaia prunellae
+flavobacterium akiainvivens
+kingella
+microscilla
+ornithobacterium
+viridibacillus
+microscilla marina
+sporomusa paucivorans
+heliobacterium gestii
+ornithobacterium rhinotracheale
+paenibacillus validus
+wolbachia sp
+actinobacillus succinogenes
+nesterenkonia alba
+propionibacterium acidifaciens
+wolinella
+wolinella succinogenes
+pseudoclavibacter faecalis
+aquaspirillum serpens
+actinobacillus ureae
+frankia alni
+synergistes jonesii
+shewanella pealeana
+rhizobium undicola
+paracoccus yeei
+lactobacillus backii
+patulibacter
+nodosilinea
+helicobacter pullorum
+paracoccus solventivorans
+micromonospora krabiensis
+flavobacterium defluvii
+nodosilinea nodulosa
+eubacterium barkeri
+kingella oralis
+propionibacterium freudenreichii
+lactobacillus zeae
+anaerobaculum mobile
+mycoplasma haemocanis
+cycloclasticus sp
+pseudomonas bauzanensis
+runella sp
+thalassospira
+ureaplasma urealyticum
+sulfobacillus thermosulfidooxidans
+marinomonas communis
+treponema maltophilum
+treponema socranskii
+amycolatopsis alba
+cyanobium sp
+lactobacillus senmaizukei
+aquibacillus
+aquibacillus koreensis
+phyllobacterium myrsinacearum
+ammonifex
+jannaschia
+cryomorpha
+ammonifex degensii
+cryomorpha ignava
+actinobaculum massiliense
+alicyclobacillus pomorum
+jannaschia sp
+lactobacillus oligofermentans
+lactobacillus uvarum
+alicyclobacillus aeris
+delftia sp
+bacillus berkeleyi
+kopriimonas
+litoricola
+legionella taurinensis
+thermomonas fusca
+geobacter lovleyi
+kopriimonas byunsanensis
+streptomyces rubellomurinus
+streptococcus ferus
+facklamia tabacinasalis
+bifidobacterium crudilactis
+thiomonas delicata
+marinococcus
+thermoanaerobacterium
+kangiella
+desulfoluna
+ferrithrix
+halioglobus
+leptospira biflexa
+thermoanaerobacterium thermosaccharolyticum
+thermus scotoductus
+legionella tucsonensis
+streptomyces scabrisporus
+ferrithrix thermotolerans
+desulfoluna butyratoxydans
+gram-negative bacterium ccbau 25211
+halomonas caseinilytica
+halioglobus japonicus
+thermodesulfobacterium
+kineococcus
+flexithrix
+lactobacillus mali
+flexithrix dorotheae
+spirochaeta americana
+comamonas granuli
+corynebacterium massiliense
+akkermansia sp
+stappia
+marinilactibacillus
+spongiibacter
+brachybacterium faecium
+pedomicrobium ferrugineum
+stappia stellulata
+psychromonas ingrahamii
+fischerella
+desemzia
+vibrio diazotrophicus
+atopobium minutum
+thermoanaerobacter brockii
+paenibacillus illinoisensis
+desemzia incerta
+coriobacterium sp
+comamonas terrae
+lactobacillus curieae
+chitinibacter
+balneola
+spirochaeta bajacaliforniensis
+beijerinckia indica
+xanthomonas sacchari
+xanthomonas vesicatoria
+balneola vulgaris
+paraburkholderia ferrariae
+flavobacteriaceae bacterium 3519-10
+chitinibacter sp
+halomonas halmophila
+streptococcus peroris
+ureaplasma parvum
+micrococcus aloeverae
+legionella londiniensis
+novosphingobium rosa
+marinobacter adhaerens
+nitratiruptor
+thermoflavimicrobium
+cohnella
+thermosulfidibacter
+jonquetella
+agromyces mediolanus
+thermoflavimicrobium dichotomicum
+leucobacter komagatae
+clostridium peptidivorans
+bacterium yim-kkny4
+frankia sp
+thermosulfidibacter takaii
+jonquetella anthropi
+porphyromonas bennonis
+chromobacterium
+chromobacterium amazonense
+stenotrophomonas terrae
+campylobacter avium
+rhodobium
+syntrophothermus
+caldisericum
+francisella philomiragia
+rhodobium orientis
+nesterenkonia halobia
+syntrophothermus lipocalidus
+arthrospira platensis
+thermoanaerobacter sp
+caldisericum exile
+pseudohongiella spirulinae
+mycoplasma mobile
+agromyces cerinus
+pelobacter acidigallici
+legionella moravica
+deinococcus grandis
+pseudoalteromonas elyakovii
+deinococcus gobiensis
+niabella ginsengisoli
+sinomonas
+sphingobacterium spiritivorum
+pedobacter heparinus
+hathewaya histolytica
+massilia timonae
+desulfotomaculum thermosapovorans
+coprothermobacter platensis
+paracoccus koreensis
+lutibacter
+[clostridium] ultunense
+mucilaginibacter lappiensis
+litoricola lipolytica
+marinomonas arenicola
+lutibacter sp
+spiroplasma tabanidicola
+thermofilum
+enteractinococcus
+microbacterium trichothecenolyticum
+ureibacillus terrenus
+pantoea calida
+leucothrix
+ornithinimicrobium
+leucothrix mucor
+nakamurella multipartita
+streptomyces catenulae
+brevundimonas mediterranea
+myxococcus stipitatus
+sphingobium amiense
+nocardiopsis aegyptia
+stenotrophomonas panacihumi
+heliophilum
+micrococcus lylae
+heliophilum fasciatum
+methanobrevibacter ruminantium
+corynebacterium halotolerans
+jiangella gansuensis
+flavobacterium glycines
+corallococcus
+gordonia hirsuta
+bordetella petrii
+oceanisphaera sp
+[spirillum] lunatum
+palaeococcus
+salinirepens
+lactobacillus farciminis
+paenibacillus glucanolyticus
+streptomyces filamentosus
+facklamia languida
+palaeococcus ferrophilus
+dietzia natronolimnaea
+planococcus salinarum
+salinirepens amamiensis
+halolactibacillus
+halolactibacillus miurensis
+aquiflexum
+chryseobacterium indologenes
+marinilactibacillus piezotolerans
+aquiflexum balticum
+pseudonocardia sp
+sinomonas atrocyanea
+corynebacterium urealyticum
+methylophaga sulfidovorans
+thiomicrospira crunogena
+oligella
+thalassobaculum
+flavihumibacter
+microbacterium ketosireducens
+rhodanobacter ginsengisoli
+acetobacter ghanensis
+thalassobaculum salexigens
+azospirillum thiophilum
+thermococcus
+desulfurella
+deferribacter
+oceanimonas
+acidiphilium cryptum
+carnobacterium gallinarum
+streptococcus pluranimalium
+deferribacter desulfuricans
+spiroplasma diminutum
+streptosporangium
+oceaniserpentilla
+marinoscillum
+planctopirus
+planctopirus limnophila
+marinoscillum furvescens
+planococcus kocurii
+leifsonia xyli
+desulfobacula toluolica
+sphingobium fuliginis
+oceaniserpentilla haliotis
+flavobacterium maris
+halothiobacillus
+halothiobacillus neapolitanus
+candidatus hamiltonella
+bradyrhizobium liaoningense
+hydrogenophaga palleronii
+candidatus hamiltonella defensa
+cupriavidus taiwanensis
+pararhodospirillum
+pararhodospirillum photometricum
+streptomyces novaecaesareae
+exiguobacterium undae
+pseudomonas sabulinigri
+flavobacterium sp
+riemerella
+filifactor villosus
+aster yellows witches'-broom phytoplasma
+microlunatus soli
+serratia marcescens
+streptosporangium amethystogenes
+psychrobacter phenylpyruvicus
+actinocorallia glomerata
+streptomyces flavotricini
+labrys monachus
+thalassospira xiamenensis
+solimonas variicoloris
+lactobacillus similis
+planococcus donghaensis
+methylomicrobium alcaliphilum
+candidatus desulforudis
+mycoplasma haemofelis
+pseudomonas thivervalensis
+desulfotomaculum sapomandens
+bacillus decolorationis
+nocardia cummidelens
+mesoplasma corruscae
+candidatus desulforudis audaxviator
+microbulbifer sp
+isosphaera
+planktothrix
+georgenia
+convivina
+isosphaera pallida
+chlamydia pneumoniae
+oligella ureolytica
+lactobacillus hamsteri
+corallococcus coralloides
+janibacter melonis
+spongiibacter tropicus
+catellatospora sp
+marinococcus luteus
+convivina intestini
+cronobacter sakazakii
+rhodoferax antarcticus
+rummeliibacillus pycnus
+paenibacillus glycanilyticus
+actinomyces turicensis
+sphingomonas rhizogenes
+alicyclobacillus macrosporangiidus
+salinispora
+tistrella
+cellulomonas fimi
+tistrella mobilis
+kangiella koreensis
+algoriphagus terrigena
+solimonas soli
+arcobacter thereius
+treponema azotonutricium
+saccharomonospora azurea
+hyphomicrobium sulfonivorans
+salinicoccus hispanicus
+viridibacillus arvi
+craurococcus
+kordiimonas
+cytophaga hutchinsonii
+wolbachia endosymbiont of drosophila simulans
+craurococcus roseus
+kordiimonas gwangyangensis
+mucilaginibacter paludis
+nakamurella sp
+aquitalea
+ochrobactrum thiophenivorans
+pedobacter sp
+pseudomonas helleri
+leeia
+leeia oryzae
+leptospirillum
+simiduia
+mycoplasma agalactiae
+acidocella aminolytica
+legionella quateirensis
+catellatospora citrea
+desulfovibrio magneticus
+thermoleophilum minutum
+bacillus krulwichiae
+pseudonocardia acaciae
+mycobacterium celeriflavum
+chryseobacterium arachidis
+avibacterium
+fulvivirga
+saccharibacillus
+butyricicoccus
+thermus thermophilus
+methylobacterium organophilum
+microbacterium aurum
+spirochaeta smaragdinae
+blattabacterium punctulatus
+fulvivirga kasyanovii
+saccharibacillus sacchari
+butyricicoccus pullicaecorum
+lachnospiraceae bacterium 4_1_37faa
+peptoniphilus stercorisuis
+pseudomonas weihenstephanensis
+anaerococcus obesiensis
+brevibacillus thermoruber
+thermosipho
+roseovarius
+phycicoccus
+streptomyces zaomyceticus
+actinospica acidiphila
+phycicoccus jejuensis
+azospirillum canadense
+lactobacillus kimchicus
+lawsonia
+pasteurella langaaensis
+clostridium cochlearium
+clostridium sporogenes
+lawsonia intracellularis
+riemerella anatipestifer
+streptococcus thoraltensis
+kluyvera intermedia
+porphyromonas gulae
+bacillus endophyticus
+bacillus koreensis
+lactobacillus senioris
+methanosaeta
+echinicola
+terriglobus
+acidicapsa
+mycobacterium obuense
+nocardia abscessus
+leifsonia aquatica
+aquitalea magnusonii
+echinicola vietnamensis
+thalassomonas actiniarum
+acidicapsa borealis
+microcoleus
+salinivibrio
+segniliparus
+acidithiobacillus thiooxidans
+streptomyces microflavus
+desulfovibrio profundus
+burkholderia thailandensis
+paenibacillus agarexedens
+marinomonas primoryensis
+desulfovibrio giganteus
+thiomonas bhubaneswarensis
+enterovibrio nigricans
+albibacter
+maribacter
+chlorobium phaeovibrioides
+streptomyces varsoviensis
+albibacter methylovorans
+chitinimonas koreensis
+ornithinimicrobium pekingense
+brumimicrobium
+flavobacterium branchiophilum
+proteus penneri
+brumimicrobium glaciale
+lactobacillus saerimneri
+candidatus blochmannia vafer
+zoogloea oryzae
+exiguobacterium sibiricum
+campylobacter hyointestinalis
+legionella jordanis
+sulfurospirillum cavolei
+thermobacillus
+streptomyces aureofaciens
+lactobacillus frumenti
+corynebacterium resistens
+alcanivorax dieselolei
+thermobacillus composti
+lactobacillus hayakitensis
+microcoleus sp
+thermofilum sp
+micropruina
+saccharopolyspora rectivirgula
+legionella parisiensis
+deinococcus murrayi
+micropruina glycogenica
+psychromonas arctica
+thermosipho atlanticus
+roseivirga ehrenbergii
+pseudoxanthomonas dokdonensis
+terriglobus roseus
+neptunomonas antarctica
+actinomycetospora sp
+porphyromonas somerae
+demequina
+polaribacter glomeratus
+clostridium oceanicum
+[eubacterium] cellulosolvens
+corynebacterium caspium
+actinoallomurus
+azoarcus tolulyticus
+lactobacillus perolens
+pelobacter massiliensis
+methylocystis
+saprospira
+granulosicoccus
+pseudothermotoga
+saprospira grandis
+desulfovibrio gracilis
+spiroplasma turonicum
+marinomonas sp
+granulosicoccus antarcticus
+thermoanaerobacter pseudethanolicus
+sphingomonas taxi
+bifidobacterium aquikefiri
+crinalium
+sphingobium abikonense
+crinalium epipsammum
+anoxybacillus rupiensis
+deinococcus wulumuqiensis
+scytonema
+hydrogenophilus thermoluteolus
+rhodococcus globerulus
+scytonema hofmannii
+corynebacterium fastidiosum
+flavobacterium psychrophilum
+anaerocolumna xylanovorans
+desulfovibrio inopinatus
+desulfovibrio aespoeensis
+corynebacterium timonense
+pantoea gaviniae
+thermoactinomyces vulgaris
+sphingobium cloacae
+roseivirga echinicomitans
+lactobacillus nantensis
+streptomyces rectiviolaceus
+nakamurella lactea
+paraburkholderia acidipaludis
+geodermatophilus nigrescens
+simiduia litorea
+planktothrix serta
+tepidimicrobium
+phaeobacter
+desulfovibrio fructosivorans
+porphyromonas macacae
+tepidimicrobium ferriphilum
+gemmobacter megaterium
+lactococcus hircilactis
+zavarzinella
+mesorhizobium ciceri
+acetobacterium carbinolicum
+cupriavidus basilensis
+jeotgalicoccus pinnipedialis
+flavobacterium limicola
+salinispora pacifica
+zavarzinella formosa
+nostoc
+desulfobotulus
+methylocaldum
+methanothermococcus
+hellea
+desulfobotulus sapovorans
+rathayibacter rathayi
+rathayibacter tritici
+streptobacillus moniliformis
+nocardia salmonicida
+desulfuromonas thiophila
+mesorhizobium amorphae
+methylocaldum gracile
+methylocystis sp
+desulfovibrio brasiliensis
+hellea balneolensis
+lactobacillus faeni
+nitratiruptor sp
+arthrobacter sanguinis
+methanocaldococcus sp
+thermoplasmatales archaeon brna1
+fischerella sp
+pseudohongiella acticola
+eubacterium uniforme
+magnetospirillum
+thiothrix nivea
+paracoccus alcaliphilus
+leptospirillum ferriphilum
+lactobacillus secaliphilus
+mesorhizobium sp
+jonesia
+anaerophaga
+actinobacillus pleuropneumoniae
+chlorobium phaeobacteroides
+caldicellulosiruptor saccharolyticus
+anaerophaga thermohalophila
+rathayibacter tanaceti
+methylovorus
+ulvibacter
+chloroflexus aggregans
+azospirillum sp
+loktanella maritima
+peptostreptococcus sp
+mycoplasma ovis
+orientia
+dasania
+orientia tsutsugamushi
+synechocystis sp
+lactobacillus buchneri
+mycobacterium abscessus
+lactobacillus spicheri
+marinomonas polaris
+shewanella piezotolerans
+dasania marina
+ilyobacter delafieldii
+thermodesulfobacterium geofontis
+gramella
+spirochaeta litoralis
+pseudonocardia petroleophila
+novosphingobium lentum
+polaromonas naphthalenivorans
+wolbachia endosymbiont of culex quinquefasciatus
+tepidimonas taiwanensis
+gordonia malaquae
+curtobacterium oceanosedimentum
+halobacillus halophilus
+nocardia asteroides
+mesorhizobium huakuii
+[clostridium] thermoalcaliphilum
+coprothermobacter proteolyticus
+agrococcus jenensis
+gordonia polyisoprenivorans
+leucobacter aridicollis
+alloscardovia criceti
+methanobacterium alcaliphilum
+desulfovibrio piezophilus
+enteractinococcus sp
+lactococcus laudensis
+ahrensia
+pseudogulbenkiania
+tsukamurella tyrosinosolvens
+ahrensia kielensis
+pseudomonas pertucinogena
+roseomonas vinacea
+mucilaginibacter ximonensis
+gluconobacter sp
+geodermatophilus africanus
+primorskyibacter
+primorskyibacter sedentarius
+simonsiella
+carboxydothermus
+geothermomicrobium
+caviibacter
+simonsiella muelleri
+desulfovibrio salexigens
+streptomyces diastaticus
+arthrobacter agilis
+arcanobacterium phocae
+corynebacterium lipophiloflavum
+pseudomonas lini
+lactobacillus concavus
+geothermomicrobium terrae
+caviibacter abscessus
+microbacterium pygmaeum
+saccharothrix
+rhodovibrio
+calditerricola
+desulfobacter postgatei
+bacillus indicus
+patulibacter minatonensis
+calditerricola satsumensis
+ulvibacter antarcticus
+hydrocarboniphaga daqingensis
+actinobacillus scotiae
+azotobacter
+fervidobacterium
+melissococcus
+spirochaeta isovalerica
+avibacterium paragallinarum
+haemophilus haemoglobinophilus
+streptococcus macacae
+melissococcus plutonius
+helicobacter cholecystus
+acetobacter tropicalis
+arcanobacterium hippocoleae
+virgibacillus necropolis
+bacillus murimartini
+dietzia kunjamensis
+weissella fabalis
+psychromonas sp
+flavobacterium subsaxonicum
+methylovorus sp
+brevibacillus sediminis
+chloroherpeton
+atopococcus
+bordetella avium
+campylobacter helveticus
+streptomyces flocculus
+chloroherpeton thalassium
+haemophilus cf
+atopococcus tabaci
+deinococcus apachensis
+thioalkalivibrio sulfidiphilus
+leptolyngbya sp
+desulfocella
+azonexus
+hamadaea
+rhodovibrio salinarum
+hamadaea tsunoensis
+brachybacterium muris
+azonexus hydrophilus
+desulfocella sp
+pseudogulbenkiania sp
+wigglesworthia
+eremococcus
+allofustis
+collimonas
+alkalibacter
+treponema pallidum
+pseudomonas fragi
+brevibacillus laterosporus
+tsukamurella inchonensis
+capnocytophaga haemolytica
+wigglesworthia glossinidia
+eremococcus coleocola
+allofustis seminis
+amycolatopsis balhimycina
+lactobacillus rossiae
+alkalibacter saccharofermentans
+endozoicomonas montiporae
+brevibacterium siliguriense
+actinophytocola sediminis
+paracoccus sanguinis
+lactobacillus amylolyticus
+iodobacter
+thermocrispum
+iodobacter fluviatilis
+thermoactinomyces intermedius
+thermocrispum agreste
+actinoplanes consettensis
+flavobacterium frigoris
+chryseobacterium vrystaatense
+bacillus daqingensis
+thiocapsa
+dichotomicrobium
+robiginitalea
+thermophagus
+ectothiorhodospira shaposhnikovii
+capnocytophaga cynodegmi
+desulfotomaculum geothermicum
+gordonia rhizosphera
+sphingomonas elodea
+spiroplasma sabaudiense
+robiginitalea biformata
+exiguobacterium profundum
+thermophagus xiamenensis
+dichotomicrobium thermohalophilum
+achromobacter sp
+dermabacter sp
+rhodothermus profundi
+flexibacter
+ferrimonas
+thermobispora
+hyphomonas jannaschiana
+flexibacter flexilis
+thermobispora bispora
+flavobacterium indicum
+aureimonas ureilytica
+ectothiorhodospira haloalkaliphila
+fodinicurvata sediminis
+ureaplasma gallorale
+desulfonatronovibrio
+propionimicrobium
+salimicrobium
+campylobacter curvus
+meiothermus ruber
+propionimicrobium lymphophilum
+enterococcus avium
+lactobacillus kefiri
+desulfonatronovibrio hydrogenovorans
+clostridium roseum
+corynebacterium terpenotabidum
+ochrobactrum intermedium
+collimonas fungivorans
+segniliparus rotundus
+rhodopirellula
+rhodospirillum centenum
+acetobacter cerevisiae
+rhodopirellula baltica
+photobacterium ganghwense
+streptomyces hainanensis
+sandarakinorhabdus sp
+amycolatopsis australiensis
+anoxybacillus sp
+candidatus liberibacter
+flammeovirga
+heliorestis
+natronincola
+turicella
+basfia
+marinicauda
+streptococcus canis
+bacillus azotoformans
+turicella otitidis
+pseudomonas coronafaciens
+natronincola histidinovorans
+heliorestis baculata
+flavobacterium tegetincola
+[mannheimia] succiniciproducens
+anaerobacillus macyae
+lactobacillus vaccinostercus
+scardovia wiggsiae
+pedobacter kyungheensis
+acetobacter okinawensis
+erythrobacter
+intrasporangium
+flexivirga
+legionella oakridgensis
+syntrophobacter wolinii
+micromonospora carbonacea
+helicobacter trogontum
+intrasporangium calvum
+leptospira alexanderi
+aneurinibacillus thermoaerophilus
+curtobacterium herbarum
+roseomonas rosea
+polaribacter reichenbachii
+flexivirga endophytica
+lactobacillus aquaticus
+lactobacillus bombicola
+vitreoscilla
+vitreoscilla stercoraria
+fusobacterium gonidiaformans
+halorhodospira halophila
+lactobacillus bifermentans
+mycobacterium phlei
+caldicellulosiruptor bescii
+enterococcus durans
+sphingomonas faeni
+glycomyces arizonensis
+rhodomicrobium
+oleibacter
+rhodomicrobium vannielii
+streptomyces cattleya
+pseudonocardia saturnea
+sphingobium herbicidovorans
+pandoraea pnomenusa
+oleibacter marinus
+altererythrobacter marensis
+chryseobacterium zeae
+humibacter
+actinomadura echinospora
+mesoplasma florum
+mesoplasma seiffertii
+jonesia denitrificans
+janibacter limosus
+lactobacillus psittaci
+pseudomonas jinjuensis
+glaciecola nitratireducens
+ochrobactrum sp
+humibacter albus
+meiothermus rufus
+lachnospiraceae bacterium 2_1_46faa
+agrobacterium sp
+sphaerochaeta sp
+marinimicrobium
+fibrella
+rickettsia bellii
+streptomyces mediolani
+pseudoalteromonas distincta
+lactobacillus ingluviei
+cellulomonas hominis
+marinimicrobium agarilyticum
+pseudonocardia ailaonensis
+fibrella aestuarina
+hymenobacter sp
+colwellia sediminilitoris
+alysiella
+nitrospirillum
+nitrospirillum amazonense
+alysiella crassa
+spiroplasma corruscae
+sphingomonas roseiflava
+[brevibacterium] frigoritolerans
+thermanaerovibrio
+aequorivita
+histophilus
+thioclava
+bradyrhizobium japonicum
+moraxella lacunata
+histophilus somni
+lactobacillus amylophilus
+sulfurospirillum barnesii
+brenneria nigrifluens
+lactobacillus paralimentarius
+paraburkholderia caledonica
+cronobacter muytjensii
+kaistella flava
+nautella italica
+arcanobacterium canis
+brochothrix sp
+anaerostipes sp
+cellulosimicrobium cellulans
+desulfobacter hydrogenophilus
+tsukamurella pulmonis
+thermodesulfovibrio islandicus
+georgenia ruanii
+pseudoxanthomonas spadix
+methylomonas koyamae
+flammeovirga aprica
+teredinibacter
+teredinibacter turnerae
+arenibacter
+rivularia
+acetobacterium woodii
+lactobacillus collinoides
+brucella canis
+halanaerobium saccharolyticum
+halomonas aquamarina
+streptococcus pasteuri
+pedobacter suwonensis
+corynebacterium marinum
+nesterenkonia sp
+niabella soli
+thermoanaerobacter mathranii
+vibrio maritimus
+pasteurella oralis
+carnobacterium iners
+moraxella porci
+beggiatoa
+haliangium
+aciduliprofundum
+fangia
+myxococcus fulvus
+beggiatoa alba
+haliangium ochraceum
+amycolatopsis keratiniphila
+fangia hongkongensis
+spirosoma spitsbergense
+chryseobacterium carnipullorum
+flavihumibacter cheonanensis
+actinomadura sediminis
+rubrivivax
+sulfurihydrogenibium
+rudanella
+spiroplasma diabroticae
+methanothermococcus thermolithotrophicus
+rubrivivax gelatinosus
+terrisporobacter glycolicus
+corynebacterium amycolatum
+salimicrobium halophilum
+brevibacillus invocatus
+acinetobacter tandoii
+spiroplasma montanense
+dietzia cinnamea
+rivularia sp
+rudanella lutea
+flavobacterium caeni
+lysinimicrobium
+marinococcus halophilus
+mycoplasma feliminutum
+magnetospirillum gryphiswaldense
+lewinella persica
+acidovorax avenae
+vibrio lentus
+treponema refringens
+labrys miyagiensis
+desulfovibrio marinisediminis
+roseomonas stagni
+rubellimicrobium aerolatum
+paraburkholderia bannensis
+acetitomaculum
+acetitomaculum ruminis
+brevinema
+brevinema andersonii
+mycoplasma dispar
+heliobacillus
+taylorella
+desulfotalea
+alicycliphilus
+tsukamurella paurometabola
+brochothrix thermosphacta
+heliobacillus mobilis
+laceyella sacchari
+sulfobacillus acidophilus
+hydrogenophaga taeniospiralis
+desulfotalea psychrophila
+agromyces aurantiacus
+alicycliphilus denitrificans
+herbaspirillum autotrophicum
+streptococcus halichoeri
+bordetella ansorpii
+chryseobacterium aquaticum
+staphylococcus haemolyticus
+desulfatibacillum
+oceanospirillum linum
+methanosaeta concilii
+legionella nautarum
+acetobacterium bakii
+streptomyces celluloflavus
+mycoplasma lipofaciens
+kineococcus radiotolerans
+hymenobacter deserti
+actinomadura sp
+pontibacter xinjiangensis
+aciduliprofundum sp
+bacillus psychrosaccharolyticus
+gallionella
+nitrosococcus
+polynucleobacter
+pseudorhodobacter
+campylobacter mucosalis
+photobacterium phosphoreum
+microbacterium lacticum
+desulfonema magnum
+hyphomicrobium aestuarii
+paraburkholderia phymatum
+[brevibacterium] halotolerans
+lactobacillus parabrevis
+gallionella capsiferriformans
+halanaerobium hydrogeniformans
+brevundimonas sp
+methanosarcina
+halocella
+salegentibacter
+halocella cellulosilytica
+comamonas sp
+pseudonocardia rhizophila
+thioclava pacifica
+paenochrobactrum
+crenobacter
+pasteurella dagmatis
+mycoplasma putrefaciens
+thermoanaerobacter kivui
+lysinibacillus macroides
+spirochaeta africana
+thiomicrospira kuenenii
+streptomyces lavenduligriseus
+nostoc sp
+lactobacillus malefermentans
+marinilactibacillus psychrotolerans
+chryseobacterium koreense
+psychrobacter nivimaris
+nesterenkonia halophila
+demequina aestuarii
+paenochrobactrum glaciei
+oceanimonas sp
+deinococcus aquatilis
+thioclava sp
+crenobacter luteus
+kineococcus gypseus
+oceanicoccus
+vibrio gazogenes
+actinomadura cremea
+amycolatopsis azurea
+legionella gresilensis
+marinomonas mediterranea
+marine gamma proteobacterium htcc2148
+paenibacillus wynnii
+oceanicoccus sagamiensis
+flavobacterium chilense
+lactobacillus oeni
+ehrlichia
+halonatronum
+chishuiella
+desulfovibrio africanus
+rhodobacter capsulatus
+capnocytophaga canimorsus
+taylorella equigenitalis
+microbulbifer hydrolyticus
+streptomyces pactum
+halonatronum saccharophilum
+rhodoferax ferrireducens
+bacillus senegalensis
+cohnella thermotolerans
+salinivibrio proteolyticus
+mesorhizobium opportunistum
+chishuiella changwenlii
+bacillus caseinilyticus
+salinimicrobium
+geobacillus thermoglucosidasius
+methylophilus leisingeri
+micrococcus xinjiangensis
+roseovarius indicus
+streptomyces catbensis
+acidithiobacillus ferridurans
+lysinimicrobium subtropicum
+methanocorpusculum
+dethiosulfovibrio
+alkalilimnicola
+parvularcula
+psychrobacter immobilis
+campylobacter upsaliensis
+synechococcus elongatus
+desulfurella acetivorans
+acetobacterium paludosum
+brenneria salicis
+streptococcus ovis
+parvularcula bermudensis
+alkalilimnicola ehrlichii
+gamma proteobacterium htcc5015
+mycobacterium sp
+micromonospora purpureochromogenes
+hippea
+cellulomonas biazotea
+ureaplasma diversum
+actinocorallia aurea
+hippea maritima
+sulfitobacter donghicola
+flavihumibacter petaseus
+trigonala
+trigonala elaeagnus
+spirulina
+millisia
+mycoplasma suis
+millisia brevis
+sporomusa termitida
+tropheryma
+xylella
+chroococcidiopsis
+pannonibacter
+tropheryma whipplei
+mycoplasma pirum
+xylella fastidiosa
+vagococcus salmoninarum
+[clostridium] methoxybenzovorans
+pseudomonas halophila
+thiothrix eikelboomii
+carboxydothermus hydrogenoformans
+marine bacillus nrrlb-14911
+luteimonas
+parasegetibacter
+aeromicrobium fastidiosum
+xanthomonas pisi
+desulfococcus biacutus
+roseomonas gilardii
+sphingopyxis baekryungensis
+nocardioides alkalitolerans
+ferrimonas kyonanensis
+parasegetibacter luojiensis
+patulibacter americanus
+spirosoma sp
+leucobacter sp
+propionicimonas
+aquimarina
+salinispira
+novosphingobium capsulatum
+propionicimonas paludicola
+sulfitobacter dubius
+aquimarina muelleri
+bacillus longiquaesitum
+salinispira pacifica
+mycoplasma fermentans
+sulfurihydrogenibium sp
+cyanothece
+persephonella
+niveispirillum
+runella slithyformis
+streptomyces cinereus
+burkholderia gladioli
+clostridium collagenovorans
+niveispirillum irakense
+streptococcus cristatus
+dethiosulfovibrio peptidovorans
+aerococcus urinaehominis
+lysinibacillus xylanilyticus
+jeotgalicoccus sp
+terasakiella
+terasakiella pusilla
+microcystis
+anabaena
+gallicola
+microcystis aeruginosa
+marinomonas vaga
+marinobacterium jannaschii
+oceanospirillum beijerinckii
+gallicola barnesae
+nocardiopsis sp
+chryseobacterium taeanense
+novosphingobium acidiphilum
+paraburkholderia heleia
+clavibacter cf
+saccharothrix sp
+thiohalocapsa
+coleofasciculus
+thermasporomyces
+coleofasciculus chthonoplastes
+thiohalocapsa halophila
+thermasporomyces composti
+pediococcus stilesii
+methanocaldococcus jannaschii
+herbaspirillum chlorophenolicum
+alloiococcus
+halanaerobacter
+alloiococcus otitis
+paracoccus versutus
+nonomuraea rubra
+halanaerobacter lacunarum
+paenibacillus thiaminolyticus
+candidatus phytoplasma australiense
+streptomyces roseoverticillatus
+streptomyces alboflavus
+pseudanabaena sp
+pannonibacter phragmitetus
+selenomonas flueggei
+halobacillus sp
+bacillus arbutinivorans
+spiroplasma leptinotarsae
+nesterenkonia xinjiangensis
+rummeliibacillus stabekisii
+myroides pelagicus
+peptoniphilus olsenii
+paenibacillus tylopili
+cetobacterium
+larkinella
+arenicella
+gluconobacter oxydans
+chromobacterium violaceum
+streptomyces exfoliatus
+algoriphagus ratkowskyi
+cetobacterium ceti
+desulfatibacillum alkenivorans
+roseomonas aerilata
+pseudoalteromonas phenolica
+nonlabens sediminis
+hapalosiphon
+hapalosiphon delicatulus
+thermus filiformis
+mycoplasma pulmonis
+methanothermobacter
+oribacterium
+kyrpidia
+candidatus symbiobacter
+fervidobacterium nodosum
+kyrpidia tusciae
+lactobacillus lindneri
+acidiphilium multivorum
+[eubacterium] minutum
+rhodococcus maanshanensis
+viridibacillus arenosi
+nesterenkonia aethiopica
+flavobacterium aquidurense
+pseudorhodobacter wandonensis
+candidatus symbiobacter mobilis
+chlorobium limicola
+ramlibacter
+thalassobius
+olleya
+oceanospirillum maris
+loktanella rosea
+deinococcus maricopensis
+thalassobius mediterraneus
+gluconobacter japonicus
+glycomyces sp
+olleya sp
+blastococcus sp
+oscillatoria
+mechercharimyces
+syntrophus buswellii
+mechercharimyces asporophorigenens
+caldicellulosiruptor lactoaceticus
+pantoea conspicua
+afipia
+petrotoga
+rhodovulum
+tessaracoccus
+cyanobacterium
+brevibacillus parabrevis
+oribacterium sinus
+ureibacillus suwonensis
+cyanobacterium aponinum
+micrococcus endophyticus
+thermus islandicus
+marinomonas posidonica
+tessaracoccus rhinocerotis
+fischerella muscicola
+wolbachia endosymbiont of onchocerca ochengi
+oceanicaulis
+moellerella
+shimazuella
+chryseobacterium gleum
+acinetobacter genomosp
+shimazuella kribbensis
+chromohalobacter israelensis
+moellerella wisconsensis
+lactobacillus coleohominis
+sphingomonas soli
+brenneria goodwinii
+tenacibaculum
+tenacibaculum mesophilum
+alicyclobacillus genomosp
+hathewaya proteolytica
+tepidibacter
+spirulina subsalsa
+tepidibacter thalassicus
+polynucleobacter necessarius
+spiribacter
+flexibacter ruber
+caldicellulosiruptor owensensis
+sinorhizobium arboris
+eubacterium aggregans
+oligella urethralis
+sporosarcina aquimarina
+corynebacterium sundsvallense
+sphingomonas anadarae
+rahnella variigena
+niabella yanshanensis
+oceanobacillus sojae
+lactobacillus florum
+klebsiella sp
+candidatus blochmannia floridanus
+elizabethkingia
+rickettsia japonica
+achromobacter insolitus
+nitratiruptor tergarcus
+moraxella boevrei
+chryseobacterium ureilyticum
+hymenobacter latericoloratus
+haloarcula
+dactylococcopsis
+halothece
+roseibacterium
+spongitalea
+limibacter
+desulfonema ishimotonii
+halothece sp
+desulfobacterium indolicum
+roseibacterium elongatum
+dactylococcopsis salina
+limibacter armeniacum
+spongitalea numazuensis
+spirosoma rigui
+vibrio caribbeanicus
+flavobacterium hydatis
+microbacterium gubbeenense
+methanothermobacter tenebrarum
+sanguibacter sp
+filibacter
+friedmanniella
+psychroflexus
+citricoccus
+aureispira
+eudoraea
+pullulanibacillus
+methermicoccus
+desulfovibrio longus
+weissella halotolerans
+filibacter limicola
+pullulanibacillus naganoensis
+herbaspirillum rubrisubalbicans
+acidovorax citrulli
+oceanimonas doudoroffii
+oenococcus kitaharae
+aureispira marina
+eudoraea adriatica
+lactobacillus hordei
+salinibacterium sp
+methermicoccus shengliensis
+lysinibacillus sp
+rhodocyclus
+labrenzia
+rhodocyclus tenuis
+nocardioides albus
+alcanivorax borkumensis
+sulfitobacter pontiacus
+mycoplasma elephantis
+rhizobium daejeonense
+flavobacterium psychrolimnae
+maribacter forsetii
+azoarcus sp
+variovorax sp
+persicobacter
+flaviaesturariibacter
+acidovorax temperans
+photobacterium rosenbergii
+flavobacterium cheniae
+cyanothece sp
+massilia aerilata
+caryophanon
+caryophanon tenue
+ferroplasma
+hylemonella
+methanobrevibacter cuticularis
+hylemonella gracilis
+ferroplasma acidarmanus
+methanococcus
+metallosphaera
+verminephrobacter
+spirochaeta aurantia
+propionibacterium jensenii
+streptomyces roseolilacinus
+aquamicrobium defluvii
+luteimonas mephitis
+paenibacillus dendritiformis
+dietzia psychralcaliphila
+methanobrevibacter sp
+verminephrobacter eiseniae
+treponema pedis
+coprobacillus sp
+brenneria sp
+actinomadura livida
+amphibacillus
+desulfatirhabdium
+pseudonocardia thermophila
+cytophaga aurantiaca
+xenorhabdus budapestensis
+desulfatirhabdium butyrativorans
+chryseobacterium sp
+chryseobacterium takakiae
+thermanaerovibrio acidaminovorans
+massilia oculi
+nocardia brevicatena
+ignavigranum
+ignavigranum ruoffiae
+basilea
+campylobacter rectus
+corynebacterium cystitidis
+saccharopolyspora spinosa
+thermoanaerobacter italicus
+sphingomonas aerolata
+nesterenkonia sandarakina
+endozoicomonas elysicola
+corynebacterium maris
+basilea psittacipulmonis
+desulfuromusa
+chamaesiphon
+mycoplasma salivarium
+microlunatus phosphovorus
+streptomyces clavifer
+hymenobacter roseosalivarius
+actinoplanes ianthinogenes
+labrenzia aggregata
+algoriphagus mannitolivorans
+nocardia tenerifensis
+lysobacter gummosus
+marinococcus halotolerans
+methylobacterium soli
+actinophytocola corallina
+azospira sp
+sulfitobacter sp
+candidatus ruthia
+amycolatopsis coloradensis
+streptomyces yogyakartensis
+brevibacillus levickii
+arenimonas donghaensis
+candidatus ruthia magnifica
+lactobacillus fabifermentans
+ewingella
+pusillimonas
+gilvimarinus
+mesotoga
+streptococcus dysgalactiae
+bacillus atrophaeus
+saccharomonospora viridis
+spiroplasma ixodetis
+flavobacterium saccharophilum
+ewingella americana
+pseudothermotoga hypogea
+idiomarina abyssalis
+chroococcidiopsis sp
+thiomicrospira arctica
+desulfococcus oleovorans
+acholeplasma hippikon
+pediococcus ethanolidurans
+alicyclobacillus shizuokensis
+gilvimarinus chinensis
+mesotoga prima
+telluria
+telluria mixta
+psychroserpens
+waddlia
+marinithermus
+novispirillum
+spirochaeta thermophila
+novispirillum itersonii
+rickettsia slovaca
+waddlia chondrophila
+actinoplanes italicus
+shewanella livingstonensis
+marinithermus hydrothermalis
+bacterium sg-3
+deinococcus marmoris
+alkalibacterium iburiense
+micromonospora chokoriensis
+gramella forsetii
+hymenobacter daecheongensis
+methanobacterium lacus
+granulicella tundricola
+rhizobiales bacterium yim 77505
+aquifex
+kinetoplastibacterium
+persicitalea
+geobacillus thermoleovorans
+haloarcula aidinensis
+aquifex aeolicus
+carnobacterium viridans
+methanobacterium uliginosum
+vibrio pomeroyi
+afipia broomeae
+marichromatium
+reichenbachiella
+streptomyces phaeochromogenes
+lactobacillus homohiochii
+pseudomonas luteola
+paenibacillus chibensis
+pandoraea sputorum
+desulfovibrio desulfuricans subsp
+glycomyces scopariae
+dietzia lutea
+brevibacterium sandarakinum
+pusillimonas sp
+persephonella sp
+rothia endophytica
+desulfotomaculum luciae
+dactylosporangium
+methylobacillus glycogenes
+legionella shakespearei
+photobacterium profundum
+desulfobacula phenolica
+azoarcus anaerobius
+azospirillum oryzae
+deinococcus pimensis
+rhodobacter vinaykumarii
+paenibacillus humicus
+arenicella xantha
+frankia symbiont of datisca glomerata
+alpha proteobacterium yim 690229
+roseobacter
+pseudohaliea
+shewanella woodyi
+scytonema sp
+pontibacter actiniarum
+pontibacter akesuensis
+persicitalea jodogahamensis
+pseudohaliea rubra
+oscillatoria nigro-viridis
+sediminibacter
+spiroplasma litorale
+sediminibacter furfurosus
+pseudonocardia spinosa
+alpha proteobacterium himb5
+nitrobacter
+sebaldella
+conchiformibius
+desulfurispirillum
+marininema
+sebaldella termitidis
+nitrobacter winogradskyi
+mycoplasma arthritidis
+halomonas elongata
+clostridium felsineum
+acetobacterium malicum
+streptomyces globosus
+dickeya paradisiaca
+lactobacillus siliginis
+synergistes sp
+amycolatopsis sp
+enterobacteriaceae bacterium 9_2_54faa
+cohnella xylanilytica
+marine bacterium simo-4483
+desulfurispirillum indicum
+marininema halotolerans
+siphonobacter
+leptospira interrogans
+nocardia farcinica
+larkinella insperata
+lysobacter deserti
+pedobacter alluvionis
+actinoallomurus yoronensis
+siphonobacter sp
+desulfotignum
+amphritea
+petrotoga mobilis
+persicobacter sp
+kangiella sediminilitoris
+amphritea sp
+acidithiobacillus ferrivorans
+thiofaba
+thiofaba tepidiphila
+syntrophobotulus
+fictibacillus
+neisseria polysaccharea
+alicyclobacillus cycloheptanicus
+mycobacterium chelonae
+syntrophobotulus glycolicus
+salinivibrio costicola
+sanguibacter suarezii
+thermococcus siculi
+arthrobacter flavus
+vibrio chagasii
+fictibacillus gelatini
+acholeplasma pleciae
+lysobacter daejeonensis
+spongiibacter marinus
+pseudoalteromonas sp
+aminomonas
+agarivorans
+acidiphilium rubrum
+anabaena cylindrica
+nitrosococcus oceani
+methylobacterium rhodesianum
+dactylosporangium aurantiacum
+streptomyces griseoplanus
+aminomonas paucivorans
+chlamydia psittaci
+erythrobacter sp
+catellatospora methionotrophica
+agarivorans albus
+nocardia higoensis
+ramlibacter sp
+gillisia mitskevichiae
+streptomyces seranimatus
+sphingomonas molluscorum
+marinobacterium rhizophilum
+halomonas lutea
+sphingomonas endophytica
+luteimonas vadosa
+flavobacterium ahnfeltiae
+micromonospora sp
+thermopolyspora
+leptospirillum ferrooxidans
+thermofilum pendens
+roseobacter litoralis
+thermopolyspora flexuosa
+paracoccus zeaxanthinifaciens
+geminocystis
+geminocystis herdmanii
+streptomyces violens
+suttonella indologenes
+maribacter stanieri
+belliella
+joostella
+helicobacter cinaedi
+rhizobium leguminosarum
+vibrio orientalis
+rhodoplanes roseus
+treponema paraluiscuniculi
+magnetospirillum magneticum
+flavobacterium frigidarium
+thermanaerovibrio velox
+nocardia ninae
+terribacillus saccharophilus
+thiomonas arsenitoxydans
+joostella marina
+aequorivita capsosiphonis
+thalassospira permensis
+mycobacterium saopaulense
+citrobacter koseri
+skermania
+muricauda
+winogradskyella
+elizabethkingia meningoseptica
+rickettsia rhipicephali
+skermania piniformis
+phaeobacter gallaeciensis
+hyphomonas hirschiana
+muricauda ruestringensis
+salegentibacter holothuriorum
+arthrobacter parietis
+gramella portivictoriae
+sphingobium aromaticiconvertens
+flavobacterium filum
+chamaesiphon minutus
+[bacillus] caldotenax
+streptomyces hygroscopicus
+vibrio ordalii
+aequorivita sublithincola
+bacillus luciferensis
+actinoplanes sp
+reichenbachiella agariperforans
+flavobacterium reichenbachii
+treponema phagedenis
+rickettsia canadensis
+[eubacterium] infirmum
+acidianus
+methanoculleus
+methanoculleus bourgensis
+acidianus hospitalis
+thermotoga
+thermodesulfatator
+azohydromonas
+trueperella
+psychrobacillus
+mesoaciditoga
+bacillus firmus
+clostridium longisporum
+spiroplasma mirum
+moraxella cuniculi
+rhodovulum sulfidophilum
+thermoanaerobacter wiegelii
+desulfovibrio alcoholivorans
+ornithinimicrobium humiphilum
+acetobacterium tundrae
+thermodesulfobacterium hydrogeniphilum
+lactobacillus kalixensis
+fructobacillus durionis
+halolactibacillus halophilus
+alcaligenes aquatilis
+azohydromonas australica
+actinobacillus sp
+leptospira licerasiae
+pediococcus argentinicus
+streptomyces avicenniae
+paenibacillus frigoriresistens
+thermoanaerobacterium sp
+mesoaciditoga lauensis
+serratia liquefaciens
+microvirgula
+formivibrio
+saccharospirillum
+corallococcus macrosporus
+vibrio cholerae
+kocuria varians
+microvirgula aerodenitrificans
+streptomyces floridae
+formivibrio citricus
+saccharospirillum impatiens
+acetobacter malorum
+bacillus salarius
+methylobacterium isbiliense
+marinobacter koreensis
+gordonia shandongensis
+asaia platycodi
+paraburkholderia oxyphila
+collimonas sp
+brevundimonas intermedia
+paenibacillus ehimensis
+alicyclobacillus tolerans
+algoriphagus halophilus
+alkalibacterium putridalgicola
+sneathiella chinensis
+chryseobacterium caeni
+campylobacter sputorum
+methylophaga marina
+pseudomonas indica
+prevotella falsenii
+thiorhodovibrio
+actinoalloteichus
+oxalicibacterium
+candidatus cardinium
+haematobacter
+thermogymnomonas
+afifella
+umboniibacter
+mycoplasma hominis
+mycoplasma leachii
+azospirillum halopraeferens
+cellulophaga algicola
+kribbella sandramycini
+thiocapsa rosea
+thiorhodovibrio winogradskyi
+desulfurella kamchatkensis
+methanocaldococcus fervens
+cupriavidus oxalaticus
+acetobacter orleanensis
+psychrobacillus psychrodurans
+thermococcus cleftensis
+oxalicibacterium flavum
+spiroplasma chrysopicola
+corynebacterium ciconiae
+bacillus patagoniensis
+belliella baltica
+nocardia neocaledoniensis
+cardinium endosymbiont of encarsia pergandiella
+azotobacter armeniacus
+actinoalloteichus hymeniacidonis
+haematobacter missouriensis
+thermogymnomonas acidicola
+umboniibacter marinipuniceus
+sphingobacterium lactis
+helicobacter fennelliae
+thermovibrio
+halomicrobium
+actinoplanes liguriensis
+methanosarcina baltica
+sphingopyxis alaskensis
+sulfurospirillum halorespirans
+oceanisphaera litoralis
+lactobacillus acidifarinae
+methanosaeta harundinacea
+salinimicrobium terrae
+mucilaginibacter rigui
+halomicrobium zhouii
+chitinophaga jiangningensis
+thiococcus
+chrysiogenes
+koukoulia
+chlamydia trachomatis
+marivirga sericea
+thiococcus pfennigii
+nocardioides luteus
+halomonas venusta
+sulfitobacter mediterraneus
+kineosporia rhizophila
+desulfotignum balticum
+mesoplasma chauliocola
+chrysiogenes arsenatis
+candidatus liberibacter americanus
+koukoulia aurantiaca
+curtobacterium flaccumfaciens
+eilatimonas
+eilatimonas milleporae
+halovibrio
+halomonas variabilis
+bacillus sonorensis
+pelodictyon
+sulfolobus
+caldisphaera
+methylogaea
+pasteurella testudinis
+ehrlichia ruminantium
+sphingomonas trueperi
+hydrogenophaga flava
+arenibacter latericius
+thiothrix flexilis
+streptomyces beijiangensis
+caldisphaera lagunensis
+neisseria zoodegmatis
+lactobacillus namurensis
+actinocorallia spatholoba
+citricoccus sp
+lactobacillus shenzhenensis
+methylogaea oryzae
+agromyces sp
+saccharomonospora paurometabolica
+zobellia
+litoribacter
+minicystis
+rhizorhapis
+helicobacter felis
+agrobacterium vitis
+leptolyngbya boryana
+desulfobacter curvatus
+rhizorhapis suberifaciens
+halomonas subglaciescola
+gordonia sputi
+halanaerobium kushneri
+thermovibrio ammonificans
+litoribacter ruber
+minicystis rosea
+myroides xuanwuensis
+thiomicrospira
+roseospira
+pseudospirillum
+chlorobaculum
+pseudospirillum japonicum
+cytophagales str
+rathayibacter caricis
+desulfatibacillum aliphaticivorans
+prosthecomicrobium sp
+steroidobacter flavus
+kosmotoga
+kosmotoga olearia
+cobetia
+cobetia marina
+ilyobacter insuetus
+methylobacterium adhaesivum
+shigella sonnei
+weeksella
+methanolobus
+alkalibacillus
+simplicispira
+nannocystis exedens
+actinobacillus capsulatus
+weeksella virosa
+flammeovirga arenaria
+carnobacterium mobile
+ehrlichia muris
+treponema lecithinolyticum
+virgibacillus salexigens
+streptomyces thermogriseus
+paenibacillus popilliae
+brachyspira murdochii
+hymenobacter aerophilus
+exiguobacterium antarcticum
+nitrosococcus halophilus
+idiomarina loihiensis
+thermaerobacter nagasakiensis
+virgibacillus carmonensis
+gordonia paraffinivorans
+lactobacillus rennini
+leucobacter albus
+nocardioides oleivorans
+xanthomonas euvesicatoria
+planktothrix tepida
+raoultella
+raoultella ornithinolytica
+streptomyces abikoensis
+lactobacillus gastricus
+desulfofustis
+cyclobacterium
+gloeocapsa
+reinekea
+domibacillus
+cyclobacterium marinum
+desulfofustis glycolicus
+streptomyces cinereoruber
+psychromonas marina
+flavobacterium cauense
+marinitoga
+galbibacter
+thermoactinomyces sanguinis
+roseospira navarrensis
+halobacillus karajensis
+sporosarcina soli
+candidatus kinetoplastibacterium galatii
+acidihalobacter ferrooxidans
+prauserella
+prauserella sp
+kineosporia rhamnosa
+rheinheimera sp
+serratia sp
+streptomyces scabiei
+thiocystis
+aurantimonas
+stackebrandtia
+methylibium
+methanoregula
+celeribacter
+sphaerimonospora
+mycobacterium cookii
+corynebacterium flavescens
+amycolatopsis lurida
+sphingopyxis macrogoltabida
+microbispora mesophila
+cyanobium gracile
+thiocystis violascens
+methanocorpusculum labreanum
+pseudomonas lundensis
+onion yellows phytoplasma
+methylibium petroleiphilum
+cryptosporangium minutisporangium
+aerococcus sanguinicola
+actinotignum urinale
+neisseria bacilliformis
+aneurinibacillus danicus
+psychrobacter cryohalolentis
+methanolobus psychrophilus
+gallibacterium salpingitidis
+parabacteroides sp
+holdemania massiliensis ap2
+liberibacter crescens
+actinomyces georgiae
+halobacterium
+halorubrum
+blastochloris
+starkeya
+mycoplasma spumans
+epilithonimonas tenax
+streptomyces viridocyaneus
+lysobacter concretionis
+flavobacterium antarcticum
+gramella echinicola
+halobacterium jilantaiense
+psychroflexus sediminis
+actinoallomurus caesius
+kribbella sp
+flexistipes
+luteococcus
+acidilobus
+uruburuella
+pseudoroseobacter
+paludibacterium
+thiomicrospira pelophila
+flexistipes sinusarabici
+candidatus kinetoplastibacterium crithidii
+flavobacterium micromati
+acidilobus saccharovorans
+uruburuella suis
+pseudoroseobacter euryhalinus
+paludibacterium yongneupense
+alicyclobacillus sp
+desulfococcus sp
+actinoallomurus iriomotensis
+chryseobacterium gallinarum
+sinomonas halotolerans
+acidithiobacillus ferriphilus
+francisella tularensis
+lyngbya
+succinimonas
+martelella
+halotalea
+zeaxanthinibacter
+spongiibacterium
+blastochloris viridis
+leuconostoc carnosum
+kocuria rosea
+brucella melitensis
+simplicispira psychrophila
+streptomyces tsukubensis
+succinimonas amylolytica
+fervidobacterium pennivorans
+sporomusa acidovorans
+actinomyces catuli
+vibrio albensis
+conchiformibius steedae
+elizabethkingia miricola
+flavobacterium fryxellicola
+segniliparus rugosus
+martelella mediterranea
+alkalibacillus halophilus
+halotalea alkalilenta
+zeaxanthinibacter enoshimensis
+chryseobacterium lathyri
+alicyclobacillus acidocaldarius
+spongiibacterium flavum
+jiangella muralis
+corynebacterium uterequi
+thermus sp
+flavobacterium piscis
+saccharopolyspora ghardaiensis
+blattabacterium cuenoti
+enterococcus gallinarum
+picrophilus
+hoeflea
+candidatus profftella
+aliiglaciecola
+mycoplasma lipophilum
+[bacillus] aminovorans
+streptomyces wedmorensis
+pseudonocardia yunnanensis
+psychromonas antarctica
+methanothermococcus okinawensis
+kangiella aquimarina
+salegentibacter mishustinae
+arthrobacter pigmenti
+algoriphagus boritolerans
+variovorax soli
+paenibacillus castaneae
+aliiglaciecola litoralis
+candidatus profftella armatura
+mucilaginibacter sp
+algoriphagus sp
+luteococcus peritonei
+oscillatoria acuminata
+saccharothrix xinjiangensis
+kocuria himachalensis
+algoriphagus aquaeductus
+lactobacillus amylotrophicus
+pantoea eucalypti
+xanthomonas translucens
+halomonas meridiana
+paenibacillus lentimorbus
+porphyrobacter cryptus
+pseudoalteromonas shioyasakiensis
+paenibacillus amylolyticus
+streptomyces purpureus
+nocardia brasiliensis
+hafnia
+archaeoglobus
+neorickettsia
+ammoniphilus
+sediminitomix
+actinocatenispora
+cecembia
+cosenzaea
+labilithrix
+hafnia alvei
+streptomyces sclerotialus
+desulfobacterium vacuolatum
+paracoccus kocurii
+methylobacterium mesophilicum
+saccharomonospora glauca
+metallosphaera sedula
+brachyspira pilosicoli
+azotobacter salinestris
+hyphomonas johnsonii
+anaerobacillus arseniciselenatis
+[bacillus] selenitireducens
+rhodococcus koreensis
+bacillus hemicellulosilyticus
+methanocorpusculum aggregans
+cosenzaea myxofaciens
+amycolatopsis japonica
+microbacterium halotolerans
+lyngbya sp
+oceanobacillus profundus
+sediminitomix flava
+actinocatenispora sera
+jiangella alkaliphila
+cohnella fontinalis
+labilithrix luteola
+pseudomonas hussainii
+cecembia rubra
+ammoniphilus sp
+peptoniphilus rhinitidis
+kurthia zopfii
+spiribacter salinus
+halorussus
+photobacterium angustum
+bartonella elizabethae
+desulfuromusa kysingii
+rhodococcus marinonascens
+psychrobacter urativorans
+chroococcidiopsis thermalis
+promicromonospora vindobonensis
+epilithonimonas lactis
+halorussus rarus
+granulicella mallensis
+actinophytocola sp
+acetobacter persici
+winogradskyella jejuensis
+methylomonas paludis
+duganella
+desulfofaba
+rhodobaca
+ancalomicrobium
+cucumibacter
+paeniglutamicibacter
+actinomadura atramentaria
+streptomyces roseus
+duganella zoogloeoides
+saccharothrix espanaensis
+halomonas axialensis
+nocardia cyriacigeorgica
+ancalomicrobium adetum
+chlorobaculum limnaeum
+aureimonas frigidaquae
+rhodobaca barguzinensis
+simiduia agarivorans
+dyadobacter alkalitolerans
+paeniglutamicibacter antarcticus
+cucumibacter marinus
+rhodoferax saidenbachensis
+methylobacter whittenburyi
+rahnella inusitata
+brevibacillus formosus
+methanococcus voltae
+bacillus bataviensis
+actinopolyspora
+acetohalobium
+williamsia
+candidatus carsonella
+formosa
+paucibacter
+leptospira borgpetersenii
+pelodictyon luteolum
+acetohalobium arabaticum
+xenorhabdus bovienii
+sulfolobus islandicus
+carboxydothermus ferrireducens
+actinocorallia herbida
+desulfotomaculum thermoacetoxidans
+paenibacillus chondroitinus
+brevundimonas alba
+bradyrhizobium yuanmingense
+candidatus carsonella ruddii
+mesoplasma lactucae
+amycolatopsis decaplanina
+marine bacterium simo is-s76-282
+desulfovibrio capillatus
+lactobacillus hammesii
+spirulina major
+flavobacterium granuli
+sulfurihydrogenibium azorense
+novosphingobium nitrogenifigens
+leucobacter chironomi
+bacillus cytotoxicus
+desulfovibrio sp
+naxibacter sp
+thiocapsa sp
+acetonema sp
+spiribacter sp
+williamsia sterculiae
+brevibacterium sp
+curtobacterium sp
+phormidium
+yaniella
+actinoplanes missouriensis
+actinomadura madurae
+pseudoalteromonas luteoviolacea
+legionella geestiana
+zobellia galactanivorans
+phormidium mucicola
+pandoraea pulmonicola
+actinoplanes derwentensis
+mycoplasma phocicerebrale
+pedobacter africanus
+amphibacillus sp
+pseudoxanthomonas daejeonensis
+chryseobacterium antarcticum
+desulfovibrio bizertensis
+chryseobacterium soli
+kineococcus xinjiangensis
+flavobacterium chungangense
+gemmobacter aquatilis
+psychroserpens damuponensis
+gramella sp
+maribacter sp
+neorickettsia risticii
+sediminicola
+amycolatopsis sacchari
+hahella ganghwensis
+sediminicola luteus
+persicobacter psychrovividus
+calyptogena okutanii thioautotrophic gill symbiont
+friedmanniella sagamiharensis
+flavobacterium segetis
+streptomyces lavendofoliae
+rhodobacter azotoformans
+aurantimonas sp
+nostoc punctiforme
+kamptonema
+kingella denitrificans
+rickettsia typhi
+nitrosomonas eutropha
+flexibacter litoralis
+amphibacillus xylanus
+actinobaculum suis
+trueperella pyogenes
+brevundimonas bullata
+pseudothermotoga elfii
+alishewanella fetalis
+wolbachia endosymbiont of drosophila melanogaster
+arthrobacter monumenti
+candidatus baumannia cicadellinicola
+acidovorax valerianellae
+glutamicibacter bergerei
+devosia soli
+ureibacillus thermophilus
+nocardioides panaciterrae
+oceanobacillus chironomi
+flavobacteriaceae bacterium jc2435
+friedmanniella luteola
+archaeoglobus sulfaticallidus
+prochlorothrix
+myxococcus xanthus
+erythrobacter longus
+prochlorothrix hollandica
+arcobacter cryaerophilus
+haloarcula japonica
+pedobacter antarcticus
+thermococcus gorgonarius
+thiothrix unzii
+oceanicaulis alexandrii
+yaniella halotolerans
+hoeflea phototrophica
+ochrobactrum oryzae
+paenibacillus terrigena
+reinekea aestuarii
+salinimicrobium marinum
+aliifodinibius roseus
+gracilimonas mengyeensis
+gracilibacillus
+thermocrinis
+pragia
+thalassobacillus
+planktothrix rubescens
+streptomyces fasiculatus
+pragia fontium
+gloeocapsa sp
+desulfofaba hansenii
+nocardiopsis umidischolae
+bacillus idriensis
+phyllobacterium sp
+beta proteobacterium cb
+galbibacter sp
+[pseudomonas] jianii
+thalassobacillus sp
+chryseobacterium contaminans
+thermovibrio ruber
+novosphingobium stygium
+halolactibacillus alkaliphilus
+lactobacillus zymae
+methanothermobacter marburgensis
+brachybacterium fresconis
+anoxybacillus voinovskiensis
+gloeothece
+centipeda
+thermobifida
+sulfurivirga
+granulibacter
+flavobacterium flevense
+methanosarcina mazei
+brevibacterium casei
+marichromatium purpuratum
+gloeothece membranacea
+centipeda periodontii
+pandoraea norimbergensis
+halorhodospira neutriphila
+thioalkalivibrio nitratireducens
+arenibacter certesii
+veillonella caviae
+echinicola pacifica
+sulfurivirga caldicuralii
+granulibacter bethesdensis
+bartonella rochalimae
+agrococcus jejuensis
+microbacterium luticocti
+moraxella pluranimalium
+methanoregula formicica
+agrobacterium fabrum
+celeribacter marinus
+actinobacterium dsm 46683
+kocuria sp
+kutzneria
+spirillospora
+streptacidiphilus
+oryzihumus
+methanocella
+gryllotalpicola
+starkeya novella
+streptomyces fradiae
+rhodococcus rhodnii
+kutzneria albida
+picrophilus oshimae
+spirillospora albida
+allochromatium minutissimum
+actinoalloteichus cyanogriseus
+kytococcus schroeteri
+nocardiopsis chromatogenes
+oryzihumus leptocrescens
+oceanicaulis sp
+gryllotalpicola ginsengisoli
+catenulispora subtropica
+lysinimicrobium aestuarii
+mitsuaria
+vulcanisaeta
+zhihengliuella
+amycolatopsis methanolica
+vibrio splendidus
+mitsuaria chitosanitabida
+novosphingobium resinovorum
+afifella pfennigii
+zhihengliuella halotolerans
+bacillus velezensis
+pedobacter ginsenosidimutans
+trueperella bernardiae
+zunongwangia
+zunongwangia profunda
+pseudoclavibacter sp
+ornithinimicrobium sp
+kamptonema formosum
+cronobacter dublinensis
+fusobacterium simiae
+shewanella japonica
+chromohalobacter canadensis
+ilyobacter tartaricus
+microbacterium barkeri
+chryseobacterium daeguense
+denitrobacterium
+lihuaxuella
+hydrogenibacillus
+sinorhizobium fredii
+polaribacter irgensii
+hydrogenibacillus schlegelii
+mycoplasma gallisepticum
+thermotoga neapolitana
+yersinia ruckeri
+bacillus racemilacticus
+halophilic bacterium mbic3303
+ochrobactrum grignonense
+pleomorphomonas koreensis
+paucibacter toxinivorans
+tetragenococcus koreensis
+selenomonas bovis
+microbacterium azadirachtae
+yersinia nurmii
+paraburkholderia kururiensis
+lihuaxuella thermophila
+planktothrix paucivesiculata
+jiangella sp
+fischerella thermalis
+helicobacter sp
+rhodoferax fermentans
+rickettsia africae
+streptomyces venezuelae
+halorubrum vacuolatum
+blastococcus saxobsidens
+leifsonia shinshuensis
+chryseobacterium daecheongense
+nocardia niigatensis
+thermomonas hydrothermalis
+rhodococcus phenolicus
+agromyces italicus
+thioalkalivibrio sp
+flavobacterium fluvii
+lysinimicrobium iriomotense
+anaeroarcus
+pseudarthrobacter
+rhodovibrio sodomensis
+actinomadura kijaniata
+paraburkholderia phenazinium
+thermocrinis ruber
+hyphomonas oceanitis
+anaeroarcus burkinensis
+friedmanniella capsulata
+halomonas sulfidaeris
+rhodanobacter fulvus
+deinococcus frigens
+olleya marilimosa
+rhodanobacter ginsenosidimutans
+thermoproteus
+thermus oshimai
+thermoproteus uzoniensis
+nitrosococcus watsonii
+clostridium frigoris
+amycolatopsis taiwanensis
+acinetobacter brisouii
+stomatobaculum
+roseovarius tolerans
+luteococcus sanguinis
+stomatobaculum longum
+microbacterium resistens
+nocardia vulneris
+rhodospira
+stanieria
+chelativorans
+noviherbaspirillum
+tenggerimyces
+afipia clevelandensis
+afifella marina
+thermoanaerobacter thermohydrosulfuricus
+lactobacillus alimentarius
+thermobifida fusca
+mycoplasma pneumoniae
+mycoplasma agassizii
+methanococcus aeolicus
+streptomyces yerevanensis
+rhodospira trueperi
+metallosphaera hakonensis
+stanieria cyanosphaera
+treponema calligyrum
+chelativorans sp
+caldicellulosiruptor kronotskyensis
+ochrobactrum pseudogrignonense
+sporosarcina luteola
+tenggerimyces mesophilus
+noviherbaspirillum sp
+stackebrandtia sp
+paeniclostridium sordellii
+kurthia sibirica
+saccharomonospora saliphila
+saccharomonospora sp
+hydrogenobacter
+natronomonas
+verrucosispora
+mesonia
+marinovum
+mycoplasma simbae
+marinovum algicola
+rhodococcus wratislaviensis
+tsukamurella spumae
+actinoplanes rectilineatus
+marinobacter lutaoensis
+gordonia sihwensis
+aquaspirillum putridiconchylium
+kribbella antibiotica
+nocardiopsis valliformis
+marinobacter bryozoorum
+chryseobacterium gambrini
+litoricola marina
+verrucosispora maris
+geodermatophilus amargosae
+beijerinckia doebereinerae
+dictyoglomus
+archangium
+microbispora
+entomoplasma
+ruegeria
+croceibacter
+celerinatantimonas
+allochromatium vinosum
+deinococcus radiopugnans
+desulfovibrio burkinensis
+vulcanisaeta distributa
+methylobacillus pratensis
+algoriphagus antarcticus
+croceibacter atlanticus
+mucilaginibacter kameinonensis
+geobacillus sp
+celerinatantimonas yamalensis
+rhizobiales bacterium ccbau 45351
+methanospirillum
+methanospirillum hungatei
+halonotius
+halonotius pteroides
+cellulomonas iranensis
+borrelia
+sinobaca
+borrelia turicatae
+sinorhizobium medicae
+sinobaca qinghaiensis
+francisella noatunensis
+vagococcus lutrae
+treponema putidum
+microbulbifer variabilis
+providencia heimbachae
+paenibacillus chartarius
+oerskovia
+zooshikella
+herminiimonas
+tomitella
+neisseria sicca
+anaplasma marginale
+erythrobacter litoralis
+rhizobium hainanense
+desulfurella multipotens
+laceyella putida
+thermococcus guaymasensis
+streptococcus hyovaginalis
+thermodesulfatator indicus
+psychroflexus tropicus
+zooshikella ganghwensis
+candidatus mycoplasma haemominutum
+gemmobacter nectariphilus
+acetobacter nitrogenifigens
+streptomyces thermoatroviridis
+xenorhabdus ehlersii
+photobacterium kishitanii
+avibacterium sp
+psychrobacter fulvigenes
+polynucleobacter asymbioticus
+lactobacillus koreensis
+marine bacterium simo-4474
+lactobacillus heilongjiangensis
+tomitella cavernea
+neisseria subflava
+thiolamprovum
+roseivivax
+filomicrobium
+rhodoblastus
+cerasibacillus
+haloquadratum
+agromyces ramosus
+pseudonocardia alni
+haloarcula hispanica
+pseudonocardia sulfidoxydans
+actinomadura viridis
+filomicrobium fusiforme
+streptomyces termitum
+thiolamprovum pedioforme
+roseivivax halodurans
+nocardia africana
+alpha proteobacterium lmg 20591
+cerasibacillus quisquiliarum
+marinobacter sediminum
+shewanella halifaxensis
+haloquadratum walsbyi
+arenimonas composti
+thalassomonas haliotis
+actinophytocola timorensis
+enteractinococcus coprophilus
+rickettsia philipii
+methanobacterium sp
+stigmatella
+trichormus
+curvibacter
+bizionia
+seinonella
+rapidithrix
+amycolatopsis lactamdurans
+beijerinckia derxii
+mesorhizobium mediterraneum
+cystobacter minus
+thauera butanivorans
+ramlibacter tataouinensis
+tenacibaculum maritimum
+seinonella peptonophila
+alicyclobacillus acidiphilus
+entomoplasma somnilux
+trichormus variabilis
+bizionia paragorgiae
+bacillales bacterium ccug 49712
+rapidithrix thailandica
+gracilibacillus quinghaiensis
+saccharopolyspora endophytica
+kangiella japonica
+rhodoplanes oryzae
+paenibacillaceae bacterium yim 71082
+roseomonas genomospecies 4
+brevibacillus reuszeri
+actinocorallia sp
+bartonella vinsonii
+actinoallomurus spadix
+streptomyces kanamyceticus
+streptomyces purpurogeneiscleroticus
+methylobacterium variabile
+neisseria flavescens
+methanococcus maripaludis
+chryseobacterium hispalense
+erwinia
+chroococcus
+clostridium haemolyticum
+chroococcus sp
+leptothrix
+sporohalobacter
+geovibrio
+octadecabacter
+desulfurobacterium
+shinella
+amorphus
+smaragdicoccus
+brachyspira hyodysenteriae
+sporohalobacter lortetii
+persicobacter diffluens
+marichromatium gracile
+saccharopolyspora hirsuta
+sporolactobacillus laevolacticus
+rhodobacter veldkampii
+leptothrix cholodnii
+thiomicrospira chilensis
+desulfurobacterium thermolithotrophum
+hyphomonas rosenbergii
+mycoplasma cloacale
+pediococcus inopinatus
+geovibrio thiophilus
+roseomonas cervicalis
+pseudoclavibacter helvolus
+sphingopyxis granuli
+streptomyces glaucosporus
+meiothermus timidus
+formosa agariphila
+shinella zoogloeoides
+smaragdicoccus niigatensis
+campylobacter subantarcticus
+aquitalea denitrificans
+lactobacillus pasteurii
+sporolactobacillus sp
+nesterenkonia aurantiaca
+arsenicicoccus
+actinopolyspora erythraea
+thermodesulfobacterium commune
+prosthecochloris
+carnimonas
+catelliglobosispora
+phytomonospora
+epibacterium
+rickettsia prowazekii
+prosthecochloris aestuarii
+actinoplanes utahensis
+natronomonas pharaonis
+carnimonas nigrificans
+catelliglobosispora koreensis
+amycolatopsis benzoatilytica
+streptomyces sedi
+pseudonocardia xishanensis
+phytomonospora endophytica
+paenibacillus vulneris
+methylobacteriaceae bacterium yim 100770
+sulfitobacter pseudonitzschiae
+thermus amyloliquefaciens
+mycoplana
+gelidibacter
+actinopolymorpha
+lampropedia
+myceligenerans
+leeuwenhoekiella
+undibacterium
+cellulophaga lytica
+streptomyces avidinii
+roseobacter denitrificans
+petrotoga miotherma
+streptomyces albofaciens
+marinitoga piezophila
+gelidibacter mesophilus
+lampropedia hyalina
+marinobacter excellens
+nocardia alba
+maribacter aquivivus
+streptomyces aculeolatus
+agromyces hippuratus
+myceligenerans crystallogenes
+exiguobacterium mexicanum
+thermosipho melanesiensis
+chelatococcus
+mycoplasma alvi
+chelatococcus sambhunathii
+denitrobacterium sp
+kineococcus aurantiacus
+micromonospora rosaria
+actinoplanes globisporus
+salinispora tropica
+nocardia jiangxiensis
+amycolatopsis helveola
+lactobacillus kisonensis
+novosphingobium tardaugens
+microbulbifer halophilus
+flavobacterium algicola
+desulfospira
+lamprocystis
+thioflavicoccus
+nitratireductor
+serinicoccus
+pelomonas
+candidatus korarchaeum
+echinimonas
+escherichia fergusonii
+thiomonas intermedia
+halanaerobium praevalens
+rickettsia montanensis
+nocardia carnea
+actinocorallia libanotica
+desulfospira joergensenii
+thioflavicoccus mobilis
+brachyspira intermedia
+[haemophilus] felis
+bordetella trematum
+nocardia soli
+halomonas halocynthiae
+geobacillus thermantarcticus
+pedobacter cryoconitis
+herminiimonas arsenicoxydans
+komagataeibacter rhaeticus
+bacillus algicola
+serinicoccus marinus
+cupriavidus pinatubonensis
+chryseobacterium shigense
+chryseobacterium piscium
+sporosarcina koreensis
+amorphus coralli
+nocardiopsis terrae
+salinicoccus albus
+alkalibacterium pelagium
+candidatus korarchaeum cryptofilum
+thermodesulfatator atlanticus
+peptoniphilus duerdenii
+maribacter arcticus
+francisella sp
+laceyella tengchongensis
+spiroplasma atrichopogonis
+echinimonas agarilytica
+arsenicicoccus bolidensis
+marinospirillum
+pseudozobellia
+azotobacter chroococcum
+rhodoblastus acidophilus
+cellulomonas flavigena
+hydrogenobacter hydrogenophilus
+desulfuromusa succinoxidans
+pseudomonas denitrificans
+marinospirillum minutulum
+streptomyces cyaneofuscatus
+microbacterium flavescens
+herbaspirillum frisingense
+actinomadura latina
+pseudozobellia thermophila
+mesonia mobilis
+streptococcus dentirousetti
+deinococcus peraridilitoris
+spirosoma panaciterrae
+larkinella bovis
+roseovarius marisflavi
+methanocella conradii
+psychroserpens sp
+calothrix
+thermocladium
+plantibacter
+actinorectispora
+stigmatella aurantiaca
+methylosinus sporium
+rhodovulum adriaticum
+thermocladium modestius
+curvibacter delicatus
+thiothrix fructosivorans
+plantibacter flavus
+mycoplasma verecundum
+haloarcula quadrata
+arenibacter troitsensis
+mesonia algae
+flammeovirga yaeyamensis
+marinobacter lacisalsi
+dictyoglomus turgidum
+leeuwenhoekiella palythoae
+gluconobacter roseus
+actinorectispora indica
+komagataeibacter medellinensis
+nonlabens sp
+paucibacter sp
+hyperthermus
+mycoplasma synoviae
+hyperthermus butylicus
+actinobacterium yim 75507
+brachybacterium rhamnosum
+cellulomonas aerilata
+lysinibacillus fusiformis
+gordonia araii
+erwinia tracheiphila
+cryobacterium
+coenonia
+oceanithermus
+kordia
+andreprevotia
+azotobacter vinelandii
+bisgaard taxon 14
+komagataeibacter xylinus
+paracoccus marcusii
+streptomyces vitaminophilus
+coenonia anatina
+marine bacillus nrrlb-14909
+oceanithermus profundus
+paenibacillus elgii
+kordia algicida
+arthrobacter tecti
+rhodococcus yunnanensis
+streptomyces mucoflavus
+agrococcus lahaulensis
+flavobacterium daejeonense
+staphylococcus argenteus
+roseomonas alkaliterrae
+jonesia sp
+escherichia hermannii
+desulfobacter latus
+thioalkalimicrobium cyclicum
+cytophaga sp
+spirosoma linguale
+treponema saccharophilum
+streptomyces griseoluteus
+streptacidiphilus albus
+vitellibacter vladivostokensis
+desulfotignum phosphitoxidans
+entomoplasma lucivorax
+runella limosa
+streptomyces atriruber
+rhodoplanes pokkaliisoli
+rhodobacteraceae bacterium yim 78059
+kluyvera ascorbata
+staphylothermus
+gilvibacter
+haliea
+aeribacillus
+methylocystis parvus
+aeribacillus pallidus
+staphylothermus hellenicus
+actinoplanes rutilosporangius
+thiocapsa marina
+haliea salexigens
+gilvibacter sediminis
+lysobacter niastensis
+ochrobactrum haematophilum
+actinopolymorpha alba
+alpha proteobacterium ccbau 45397
+ruegeria halocynthiae
+psychroflexus salarius
+bacillus enclensis
+borrelia coriaceae
+alpha proteobacterium mbic3368
+thermogladius
+alkalibacillus haloalkaliphilus
+thermogladius cellulolyticus
+cryptosporangium arvum
+selenomonas dianae
+polymorphum
+corynebacterium durum
+cetobacterium somerae
+streptococcus pseudopneumoniae
+paraburkholderia bryophila
+rhodobacter aestuarii
+polymorphum gilvum
+pseudovibrio
+methylarcula terricola
+methanocorpusculum parvum
+pseudoalteromonas translucida
+dichelobacter
+aromatoleum
+paenalcaligenes
+allokutzneria
+aidingimonas
+cellulomonas gilvus
+magnetospirillum magnetotacticum
+legionella longbeachae
+dichelobacter nodosus
+flexibacter polymorphus
+staphylococcus caprae
+candidatus liberibacter asiaticus
+cryobacterium psychrophilum
+acetomicrobium flavidum
+nocardiopsis alba
+psychroflexus torquis
+lamprocystis purpurea
+achromobacter piechaudii
+denitrobacterium detoxificans
+desulfomicrobium macestii
+streptococcus phocae
+pseudothermotoga thermarum
+streptococcus entericus
+vibrio kanaloae
+allokutzneria albata
+conchiformibius kuhniae
+phaeobacter inhibens
+pasteurella caballi
+citricoccus alkalitolerans
+sporolactobacillus nakayamae
+nocardiopsis rosea
+nocardia jejuensis
+chlorobium chlorochromatii
+nocardia coubleae
+amphibacillus sediminis
+lactobacillus crustorum
+sinorhizobium sp
+lactobacillus sunkii
+aromatoleum aromaticum
+lactobacillus paucivorans
+paenalcaligenes hominis
+aidingimonas sp
+geomicrobium sp
+caldimonas
+caldimonas taiwanensis
+acidaminococcus sp
+chitinophaga sp
+marixanthomonas
+pseudophaeobacter
+methanobacterium formicicum
+mycoplasma sturni
+mycoplasma primatum
+methanobacterium subterraneum
+moraxella canis
+acidithiobacillus albertensis
+zobellia uliginosa
+pseudothermotoga lettingae
+streptomyces aureus
+pseudophaeobacter arcticus
+marixanthomonas ophiurae
+desulfotignum toluenicum
+pseudogulbenkiania subflava
+nocardia sp
+inquilinus sp
+chryseobacterium chaponense
+celeribacter baekdonensis
+pseudomonas japonica
+paracoccus saliphilus
+ignisphaera
+chitiniphilus
+haloechinothrix
+temperatibacter
+sporolactobacillus dextrus
+capnocytophaga sp
+desulfitobacterium chlororespirans
+nocardiopsis lucentensis
+methanocaldococcus vulcanius
+alicyclobacillus herbarius
+ignisphaera aggregans
+salegentibacter agarivorans
+marinitoga okinawensis
+rhizobium selenitireducens
+chitiniphilus shinanonensis
+haloechinothrix alba
+pasteurellaceae bacterium ccug 17204
+temperatibacter marinus
+corynebacterium capitovis
+cryptosporangium sp
+actinoallomurus luridus
+isoptericola
+isoptericola variabilis
+cyclobacterium amurskyense
+nitratireductor aquibiodomus
+brachybacterium sp
+mastigocladopsis
+mastigocladopsis repens
+desulfurococcus
+thermithiobacillus
+knoellia
+rhodovarius
+advenella
+giesbergeria
+fulvibacter
+actibacterium
+dictyoglomus thermophilum
+campylobacter coli
+thermithiobacillus tepidarius
+planktothrix agardhii
+leptospira alstonii
+bartonella grahamii
+bacillus thermoalkalophilus
+pseudothermotoga subterranea
+brenneria rubrifaciens
+methanobrevibacter filiformis
+bartonella clarridgeiae
+brevundimonas variabilis
+mycoplasma anseris
+desulfurococcus amylolyticus
+nocardiopsis kunsanensis
+corynebacterium phocae
+giesbergeria anulus
+paenibacillus pasadenensis
+klebsiella variicola
+marine gamma proteobacterium htcc2178
+paraburkholderia phenoliruptrix
+lysobacter koreensis
+rhodovarius lipocyclicus
+marinitoga hydrogenitolerans
+persephonella marina
+advenella kashmirensis
+janthinobacterium sp
+fulvibacter tottoriensis
+chryseobacterium marinum
+paenibacillus telluris
+actinoallomurus purpureus
+nocardia mikamii
+bacillus korlensis
+agromyces flavus
+demequina aurantiaca
+citricoccus nitrophenolicus
+nocardia grenadensis
+actibacterium mucosum
+aequorivita sp
+nocardioides nanhaiensis
+streptomyces bikiniensis
+streptosporangium roseum
+halolactibacillus sp
+phaeospirillum
+silvimonas
+dokdonia
+crenalkalicoccus
+rickettsia conorii
+phaeospirillum molischianum
+anabaena sp
+rhizobium giardinii
+aquaspirillum polymorphum
+rickettsia heilongjiangensis
+tsukamurella pseudospumae
+sphingomonas phyllosphaerae
+methylovorus glucosotrophus
+pseudonocardia carboxydivorans
+microlunatus aurantiacus
+kineosporia babensis
+asaia astilbis
+methanobacterium paludis
+candidatus kinetoplastibacterium oncopeltii
+actinobacterium yim 75000
+arenicella chitinivorans
+crenalkalicoccus roseus
+nitratireductor sp
+phyllobacterium trifolii
+aphanizomenon
+pseudoruegeria
+saccharophagus
+methylomonas clara
+aphanizomenon flos-aquae
+streptomyces achromogenes
+streptomyces spectabilis
+bartonella tribocorum
+saccharophagus degradans
+roseovarius pacificus
+pseudarthrobacter phenanthrenivorans
+undibacterium parvum
+thalassobius maritimus
+erythrobacter marinus
+microbispora amethystogenes
+domibacillus indicus
+lysinimicrobium rhizosphaerae
+helicobacter equorum
+corynebacterium ulceribovis
+neorhizobium
+neorhizobium huautlense
+alkalibacterium psychrotolerans
+actinobacillus lignieresii
+pelodictyon phaeoclathratiforme
+chlorobium ferrooxidans
+aquisalimonas
+chromohalobacter beijerinckii
+aquisalimonas halophila
+carnobacterium funditum
+nocardia vermiculata
+knoellia aerolata
+pseudovibrio sp
+pseudovibrio axinellae
+cycloclasticus zancles
+pyrobaculum
+paraglaciecola
+acidovorax konjaci
+nostoc entophytum
+paraglaciecola psychrophila
+methanoregula boonei
+paraliobacillus
+labedella
+candidatus riesia
+hoyosella
+komagataeibacter hansenii
+staphylococcus xylosus
+saccharopolyspora hordei
+mycoplasma arginini
+mycoplasma conjunctivae
+glycomyces tenuis
+enterococcus malodoratus
+saccharomonospora xinjiangensis
+alicyclobacillus hesperidum
+riemerella columbina
+comamonas koreensis
+actinomyces vaccimaxillae
+gamma proteobacterium htcc234
+escherichia albertii
+chryseobacterium jeonii
+ferrimonas futtsuensis
+candidatus riesia pediculicola
+actinopolymorpha rutila
+marinibacillus sp
+chryseobacterium solincola
+bacillus trypoxylicola
+chitinophaga niastensis
+roseomonas aestuarii
+labedella sp
+veillonella sp
+herbaspirillum sp
+hydrogenophaga sp
+actinomadura cellulosilytica
+clostridium filamentosum
+tatlockia
+trichodesmium
+dermatophilus
+actinosynnema
+quatrionicoccus
+loktanella
+elioraea
+trichodesmium erythraeum
+dermatophilus congolensis
+methanosarcina acetivorans
+luteococcus japonicus
+actinosynnema mirum
+legionella fairfieldensis
+actinomadura macra
+streptomyces flaveus
+acidiphilium acidophilum
+acidovorax cattleyae
+actinoplanes arizonaensis
+quatrionicoccus australiensis
+leifsonia naganoensis
+aurantimonas coralicida
+desulfovibrio portus
+paraburkholderia ginsengisoli
+elioraea tepidiphila
+salegentibacter echinorum
+methanocella arvoryzae
+bacillus amyloliquefaciens
+methanothermus
+planobispora
+borreliella
+thiorhodospira
+oceanicola
+henriciella
+aliivibrio
+cruoricaptor
+thermomonospora chromogena
+planobispora rosea
+aliivibrio salmonicida
+micromonospora globosa
+glycomyces harbinensis
+legionella waltersii
+[pseudomonas] geniculata
+halomonas hydrothermalis
+thiorhodospira sibirica
+vagococcus carniphilus
+maribacter ulvicola
+streptomyces setonensis
+galbibacter mesophilus
+brevibacillus sp
+frateuria terrea
+methanomassiliicoccus luminyensis
+cruoricaptor ignavus
+eubacterium multiforme
+octadecabacter arcticus
+methanobacterium espanolae
+oscillatoria sp
+delftia deserti
+mycoplasma flocculare
+methanosarcina barkeri
+ochrobactrum pituitosum
+agromyces fucosus
+streptomyces diastatochromogenes
+bacillus vireti
+microbacterium binotii
+amycolatopsis thailandensis
+mycoplasma bovigenitalium
+pyrobaculum calidifontis
+desulfovibrio frigidus
+haemophilus aegyptius
+gordonia aichiensis
+gordonia neofelifaecis
+pyrococcus
+sporotomaculum
+methylocella
+xenophilus
+hydrogenobaculum
+vibrio sp
+actinobacillus equuli
+bartonella bacilliformis
+flexibacter roseolus
+actinopolyspora halophila
+sporolactobacillus laevus
+mycoplasma mycoides
+actinopolyspora mortivallis
+acetobacterium fimetarium
+kribbella koreensis
+mycoplasma wenyonii
+streptomyces candidus
+sporotomaculum hydroxybenzoicum
+methanocorpusculum bavaricum
+taylorella asinigenitalis
+marine bacillus nrrlb-14910
+streptomyces ipomoeae
+haemophilus sp
+clostridium thiosulfatireducens
+xenophilus azovorans
+microbacterium aurantiacum
+methylocella silvestris
+paraliobacillus ryukyuensis
+nocardiopsis alkaliphila
+nocardiopsis ganjiahuensis
+gordonia otitidis
+oxalobacteraceae bacterium htcc315
+nesterenkonia lutea
+pedobacter caeni
+altererythrobacter troitsensis
+chryseobacterium soldanellicola
+mechercharimyces mesophilus
+oceanobacillus sp
+kocuria halotolerans
+alkalibacterium thalassium
+agrococcus versicolor
+rhizobiaceae bacterium ccbau 10229
+terribacillus aidingensis
+cellulophaga sp
+andreprevotia lacus
+thermus tengchongensis
+octadecabacter temperatus
+atopobium sp
+enterobacter sp
+chromatium
+ketogulonicigenium
+grimontia
+dinoroseobacter
+paraferrimonas
+desulfopila
+halolamina
+robiginosimarina
+grimontia hollisae
+actinobacillus hominis
+mycoplasma hyopneumoniae
+methylobacterium zatmanii
+rickettsia parkeri
+desulfosporosinus auripigmenti
+chromatium okenii
+streptomyces tanashiensis
+alpha proteobacterium mbic3923
+picrophilus torridus
+corallococcus exiguus
+ketogulonicigenium vulgare
+actinomadura oligospora
+caldimonas manganoxidans
+dinoroseobacter shibae
+chamaesiphon subglobosus
+desulfopila aestuarii
+shewanella pacifica
+nocardia sienata
+gordonia effusa
+gordonia soli
+starkeya sp
+paraferrimonas sedimenticola
+demequina lutea
+actinoallomurus coprocola
+ruegeria scottomollicae
+kineococcus sp
+pandoraea oxalativorans
+cobetia pacifica
+dokdonia sp
+achromobacter cholinophagum
+robiginosimarina momoshimaensis
+saccharopolyspora cavernae
+ruegeria mobilis
+rhodothalassium
+blastomonas
+kaistia
+xylanimonas
+maritalea
+amnibacterium
+fodinibius
+pontibaca
+rhodothalassium salexigens
+mycobacterium xenopi
+nocardia otitidiscaviarum
+streptomyces goshikiensis
+blastomonas natatoria
+microbispora rosea
+xylanimonas cellulosilytica
+reinekea marinisedimentorum
+chlorobaculum parvum
+pyrococcus sp
+andreprevotia chitinilytica
+rhodococcus kunmingensis
+chryseobacterium haifense
+algoriphagus vanfongensis
+kaistia soli
+maritalea myrionectae
+pontibaca methylaminivorans
+amnibacterium kyonggiense
+fodinibius salinus
+pseudoruegeria sp
+streptomyces purpeofuscus
+borreliella bavariensis
+amycolatopsis halophila
+haloterrigena
+rickettsia peacockii
+streptomyces paraguayensis
+mycoplasma collis
+mycoplasma gallinarum
+streptacidiphilus neutrinimicus
+amycolatopsis pigmentata
+loktanella atrilutea
+candidatus uzinura diaspidicola
+reichenbachiella faecimaris
+candidatus moranella
+candidatus moranella endobia
+xanthobacter
+xenococcus
+xanthobacter autotrophicus
+agrococcus citreus
+xenococcus sp
+tsukamurella strandjordii
+erwinia billingiae
+ottowia
+robiginitomaculum
+enterorhabdus
+actimicrobium
+anaerosphaera
+campylobacter lari
+mycobacterium bovis
+desulfobacterium niacini
+calothrix parietina
+methanobrevibacter arboriphilus
+alicyclobacillus disulfidooxidans
+nocardiopsis listeri
+streptomyces rangoonensis
+tetragenococcus solitarius
+candidatus blochmannia pennsylvanicus
+agrobacterium larrymoorei
+lactobacillus mindensis
+ottowia thiooxydans
+bacillus tequilensis
+streptomyces carpaticus
+yaniella flava
+robiginitomaculum antarcticum
+nesterenkonia terrae
+psychromonas agarivorans
+stenotrophomonas daejeonensis
+enterorhabdus caecimuris
+lactobacillus futsaii
+actimicrobium antarcticum
+pseudomonas zeshuii
+anaerosphaera aminiphila
+staphylococcus simulans
+thermodesulfobacterium thermophilum
+methanomethylovorans
+salana
+rubritepida
+maritimibacter
+tatlockia micdadei
+cellulomonas uda
+nocardiopsis dassonvillei
+vibrio nigripulchritudo
+xanthomonas fragariae
+streptomyces finlayi
+streptomyces griseorubiginosus
+methanomethylovorans hollandica
+salana multivorans
+nocardia veterana
+rubritepida flocculans
+nocardia caishijiensis
+marine gamma proteobacterium htcc2180
+nocardia anaemiae
+shewanella sediminis
+methanobrevibacter olleyae
+vibrio gigantis
+nocardioides insulae
+haloarcula amylolytica
+maritimibacter alkaliphilus
+[polyangium] brachysporum
+saccharopolyspora qijiaojingensis
+demequina sediminicola
+winogradskyella litoriviva
+lysinimicrobium luteum
+arhodomonas
+symploca
+luteibacter
+thorsellia
+muribacter
+acetobacter aceti
+gordonia bronchialis
+arhodomonas aquaeolei
+borreliella garinii
+calothrix sp
+ferrimonas balearica
+muribacter muris
+oxalicibacterium solurbis
+beta proteobacterium mbic3293
+sulfurihydrogenibium subterraneum
+streptomyces alboverticillatus
+cellvibrio ostraviensis
+symploca atlantica
+phyllobacterium brassicacearum
+thorsellia anophelis
+nitratireductor kimnyeongensis
+salinicoccus salitudinis
+paenibacillus taichungensis
+cupriavidus sp
+pseudarthrobacter siccitolerans
+arenibacter sp
+spirosoma aerolatum
+oceanicola litoreus
+pseudonocardia sediminis
+[oscillatoria] sp
+methanothermus sociabilis
+sporosarcina saromensis
+aquimarina latercula
+thermomonas koreensis
+haloterrigena salina
+meiothermus chliarophilus
+actinoplanes palleronii
+actinoplanes awajinensis
+silvimonas iriomotensis
+woodsholea
+woodsholea maritima
+komagataeibacter nataicola
+gracilibacillus halophilus
+lysobacter ximonensis
+secondary endosymbiont of ctenarytaina eucalypti
+actinopolyspora sp
+mobilicoccus
+pseudomonas mosselii
+marine gamma proteobacterium htcc2246
+mobilicoccus sp
+enterococcus raffinosus
+wolbachia endosymbiont of brugia malayi
+alloprevotella rava
+bizionia echini
+azorhizobium
+halococcus
+rarobacter
+thermopallium
+macrococcus
+propionicicella
+methyloversatilis
+methylovirgula
+candidatus endolissoclinum
+mariniluteicoccus
+allohahella
+azorhizobium caulinodans
+thermus aquaticus
+vibrio proteolyticus
+pasteurella canis
+brevibacterium linens
+propionibacterium thoenii
+thermotoga maritima
+vibrio navarrensis
+komagataeibacter europaeus
+corynebacterium kutscheri
+thermopallium natronophilum
+weissella hellenica
+hydrogenophaga pseudoflava
+thermococcus barophilus
+glaciecola pallidula
+streptomyces prunicolor
+macrococcus caseolyticus
+[bacillus] agaradhaerens
+hyphomonas adhaerens
+clostridium saccharobutylicum
+bacillus casamancensis
+mesoplasma grammopterae
+staphylococcus equorum
+oceanicola granulosus
+paracoccus marinus
+streptococcus massiliensis
+pediococcus cellicola
+pseudorhodobacter incheonensis
+halococcus hamelinensis
+luteibacter yeojuensis
+propionicicella superfundia
+halorubrum aquaticum
+hahella antarctica
+gracilibacillus saliphilus
+hydrogenobaculum sp
+methylovirgula ligni
+amycolicicoccus subflavus
+bacillus endoradicis
+acidovorax oryzae
+nocardia violaceofusca
+candidatus kinetoplastibacterium desouzaii
+algoriphagus zhangzhouensis
+candidatus endolissoclinum faulkneri
+mesorhizobium acaciae
+mariniluteicoccus flavus
+lactobacillus furfuricola
+formosa haliotis
+aeromonas caviae
+cyanobacterium pcc 7702
+winogradskyella eximia
+halosimplex
+oceanobacter
+natronolimnobius
+salinarchaeum
+naumannella
+thermosipho africanus
+leptospira inadai
+rhodococcus zopfii
+nonomuraea roseola
+oceanobacter kriegii
+streptomyces armeniacus
+saccharothrix syringae
+halosimplex carlsbadense
+ulvibacter litoralis
+natronolimnobius innermongolicus
+salegentibacter salarius
+haloarcula tradensis
+lysinimicrobium soli
+naumannella sp
+paramoritella
+oerskovia enterophila
+paramoritella alkaliphila
+mogibacterium sp
+paracoccus cavernae
+actinokineospora
+couchioplanes
+tetrasphaera
+thermosynechococcus
+morococcus
+algibacter
+pseudochrobactrum
+paenarthrobacter
+neorhizobium galegae
+chlorobaculum tepidum
+psychrobacillus insolitus
+pseudarthrobacter oxydans
+methanothermus fervidus
+mycoplana ramosa
+couchioplanes caeruleus
+streptomyces melanosporofaciens
+[eubacterium] budayi
+chlamydia pecorum
+cyanobacterium stanieri
+actinokineospora inagensis
+lyngbya aestuarii
+salinispora arenicola
+tetrasphaera duodecadis
+comamonadaceae bacterium piv-3d
+algibacter lectus
+desulfofaba fastidiosa
+hoeflea marina
+pseudovibrio ascidiaceicola
+pseudochrobactrum asaccharolyticum
+undibacterium pigrum
+pelomonas aquatica
+roseobacter sp
+henriciella aquimarina
+salimicrobium flavidum
+morococcus cerebrosus
+nakamurella panacisegetis
+micromonospora avicenniae
+mycetocola sp
+pectobacterium
+jonesia quinghaiensis
+trichococcus pasteurii
+piscirickettsia
+methanoplanus
+piscirickettsia salmonis
+streptomyces vinaceus
+archaeoglobus veneficus
+stigmatella erecta
+streptomyces paresii
+microbacterium xinjiangensis
+pseudoalteromonas fuliginea
+variovorax boronicumulans
+vulcaniibacterium tengchongense
+thermomonospora
+acidiphilium angustum
+kineosporia mikuniensis
+anaeromusa
+maribius
+chromohalobacter marismortui
+anaeromusa acidaminophila
+maribius salinus
+maribacter polysiphoniae
+sphingobium vermicomposti
+lachnoanaerobaculum sp
+cyanobacterium ihb-347
+pseudooceanicola
+pseudooceanicola nanhaiensis
+lactococcus chungangensis
+paraburkholderia andropogonis
+gracilibacillus boraciitolerans
+methanogenium
+tenuibacillus
+litorimonas
+methanogenium frigidum
+methanocaldococcus infernus
+colwellia hornerae
+streptococcus oligofermentans
+pseudoclavibacter alba
+tenuibacillus halotolerans
+litorimonas cladophorae
+paenibacillaceae bacterium vkm b-2846
+pelomonas saccharophila
+saccharomonospora halophila
+lysinimicrobium pelophilum
+natronococcus
+propioniferax
+pelistega
+brackiella
+methanosalsum
+neoasaia
+bibersteinia
+haloglycomyces
+rickettsia rickettsii
+rickettsia akari
+neorickettsia sennetsu
+propioniferax innocua
+streptomyces anulatus
+streptomyces peucetius
+thermomonospora curvata
+methanoculleus marisnigri
+sulfolobus solfataricus
+acidovorax facilis
+halomonas halodenitrificans
+natronococcus occultus
+pyrococcus abyssi
+nocardia transvalensis
+[eubacterium] combesii
+methanosalsum zhilinae
+halanaerobium acetethylicum
+nonomuraea salmonea
+streptosporangium koreanum
+bibersteinia trehalosi
+streptomyces sulphureus
+mycoplasma yeatsii
+streptomyces atroolivaceus
+pseudorhodobacter ferrugineus
+erwinia pyrifoliae
+curvibacter lanceolatus
+thermotoga petrophila
+marine bacillus nrrlb-14905
+marine bacillus nrrlb-14907
+pelistega europaea
+brackiella oedipodis
+leuconostoc kimchii
+thermococcus sibiricus
+virgibacillus sediminis
+acinetobacter baylyi
+hapalosiphon sp
+mesoplasma syrphidae
+algoriphagus chordae
+sporolactobacillus terrae
+leptospira terpstrae
+neoasaia chiangmaiensis
+nonlabens dokdonensis
+pelosinus propionicus
+lysobacter niabensis
+nocardia jinanensis
+pannonibacter indicus
+lactobacillus otakiensis
+haloglycomyces albus
+enterobacter mori
+candidatus liberibacter solanacearum
+hoyosella altamirensis
+pseudonocardia seranimata
+marine bacterium simo-4476
+anaerobaculum hydrogeniformans
+terriglobus saanensis
+salimicrobium salexigens
+aneurinibacillus sp
+stackebrandtia endophytica
+oribacterium sp
+coriobacteriaceae bacterium bv3ac1
+propionibacterium sp
+sciscionella
+streptomyces viridifaciens
+sciscionella marina
+paenarthrobacter aurescens
+planomonospora
+litoreibacter
+halobellus
+candidatus atelocyanobacterium
+yersinia enterocolitica
+archaeoglobus fulgidus
+methanoplanus limicola
+streptosporangium album
+rhodovulum strictum
+streptomyces pyridomyceticus
+sulfitobacter brevis
+actinomadura yumaensis
+actinoplanes kinshanensis
+dethiosulfovibrio russensis
+nocardia ignorata
+planomonospora sphaerica
+methanosarcina lacustris
+jannaschia helgolandensis
+kinetoplastibacterium blastocrithidii
+mesorhizobium albiziae
+nonomuraea coxensis
+natronomonas moolapensis
+nocardia rhamnosiphila
+silvimonas amylolytica
+maribacter antarcticus
+planktothrix sp
+micromonospora cremea
+candidatus atelocyanobacterium thalassa
+salinarchaeum laminariae
+halolamina salina
+litoreibacter ascidiaceicola
+meiothermus sp
+methanosphaerula
+methanosphaerula palustris
+fluoribacter
+budvicia
+lacinutrix
+streptomyces virginiae
+halorubrum saccharovorum
+budvicia aquatica
+methylobacterium nodulans
+lacinutrix sp
+cylindrospermum
+natrialba
+ensifer
+mariniflexile
+thermohydrogenium
+mycoplana dimorpha
+hydrogenovibrio marinus
+calothrix desertica
+deinococcus radiophilus
+actinosynnema pretiosum
+nonomuraea dietziae
+actinomadura hibisca
+ochrobactrum tritici
+amycolatopsis albidoflavus
+tenacibaculum ovolyticum
+cylindrospermum stagnale
+streptosporangiaceae str
+cellulosimicrobium funkei
+brevibacillus limnophilus
+arthrobacter castelli
+aneurinibacillus terranovensis
+dyella koreensis
+roseovarius nubinhibens
+mariniflexile gromovii
+pseudovibrio japonicus
+spirosoma luteum
+desulfotignum sp
+saccharopolyspora gloriosae
+nocardiopsis quinghaiensis
+amycolatopsis flava
+gemmobacter aquaticus
+trigonala sp
+winogradskyella echinorum
+halolamina pelagica
+mycoplana sp
+thermohydrogenium kirishiense
+persicitalea sp
+bacillus oryzaecorticis
+meiothermus terrae
+lysinimicrobium gelatinilyticum
+ensifer sp
+pectobacterium carotovorum
+rhodovulum euryhalinum
+cellulomonas persica
+rarobacter incanus
+stenotrophomonas humi
+flagellimonas
+sporosarcina thermotolerans
+thermoplasma
+mycoplasma parvum
+mycoplasma genitalium
+nocardia pseudobrasiliensis
+cellulophaga tyrosinoxydans
+beta proteobacterium 'mena 23/3-3c'
+thermomonospora sp
+kiloniella
+chlamydia caviae
+actinomadura rubrobrunea
+cellulomonas humilata
+georgenia muralis
+oceanobacillus picturae
+vibrio ruber
+streptomyces rosealbus
+formosa algae
+nocardia araoensis
+halorubrum terrestre
+mycetocola reblochoni
+paraliobacillus quinghaiensis
+alpha proteobacterium cpcc 100088
+kiloniella spongiae
+francisella hispaniensis
+nocardia arizonensis
+streptomyces purpeochromogenes
+staphylococcus carnosus
+pseudomonas savastanoi
+marine bacillus nrrlb-14906
+thermosynechococcus elongatus
+pseudomonas poae
+xylophilus
+archangium gephyra
+thermoproteus tenax
+pseudoalteromonas undina
+xylophilus ampelinus
+streptomyces xanthophaeus
+streptomyces katrae
+nocardiopsis trehalosi
+rhodococcus tukisamuensis
+pyrococcus yayanosii
+cobetia amphilecti
+cohnella sp
+arthrobacter deserti
+pasteurella bettyae
+pseudorhodobacter aquimaris
+halomonas flava
+thermosynechococcus sp
+chlorogloeopsis
+kibdelosporangium
+ideonella
+ferroglobus
+beutenbergia
+aestuariimicrobium
+perexilibacter
+mesoflavibacter
+wenxinia
+corallibacter
+methylomonas rubra
+legionella maceachernii
+ehrlichia chaffeensis
+chlorogloeopsis fritschii
+pseudarthrobacter polychromogenes
+corynebacterium callunae
+kibdelosporangium aridum
+mycoplasma capricolum
+rarobacter faecitabidus
+thermoanaerobacterium xylanolyticum
+caryophanon latum
+mycoplasma gateae
+ideonella dechloratans
+xenorhabdus poinarii
+rickettsia felis
+pseudoalteromonas denitrificans
+staphylococcus pasteuri
+hyphomicrobium zavarzinii
+caldicellulosiruptor kristjanssonii
+ferroglobus placidus
+halomicrobium mukohataei
+actinomadura formosensis
+enterobacter asburiae
+oceanospirillum multiglobuliferum
+streptomyces cremeus
+enterobacter cancerogenus
+chlamydia abortus
+propionispira arboris
+brachyspira alvinipulli
+beutenbergia cavernae
+pseudarthrobacter chlorophenolicus
+alpha proteobacterium mbic1876
+burkholderia cenocepacia
+porphyromonas canis
+nocardiopsis halotolerans
+streptococcus urinalis
+mycoplasma anatis
+loktanella salsilacus
+erwinia sp
+bacillus ruris
+brevibacterium celere
+enterococcus italicus
+caldicellulosiruptor acetigenus
+agrococcus casei
+microbacterium thalassium
+aciduliprofundum boonei
+mesoflavibacter zeaxanthinifaciens
+aestuariimicrobium kwangyangense
+actinomadura alba
+perexilibacter aurantiacus
+caldicellulosiruptor hydrothermalis
+pasteurellaceae bacterium nctc 11878
+roseomonas sp
+nocardia niwae
+aurantimonas manganoxydans
+corallibacter vietnamensis
+streptomyces xishensis
+metallosphaera cuprina
+megasphaera sp
+hahella sp
+knoellia sp
+actinosporangium sp
+fretibacterium
+fretibacterium fastidiosum
+aeromonas media
+streptoalloteichus
+methanomicrobium
+kozakia
+salinarimonas
+piscinibacter
+legionella israelensis
+kingella kingae
+rickettsia australis
+hydrogenobacter thermophilus
+streptoalloteichus tenebrarius
+methanomicrobium mobile
+thermococcus litoralis
+mycoplasma testudinis
+curtobacterium albidum
+mycoplasma edwardii
+actinoplanes pyriformis
+actinoplanes tuftoflagellus
+bacillus okuhidensis
+kozakia baliensis
+bacillus djibelorensis
+beijerinckia mobilis
+algoriphagus winogradskyi
+azotobacter nigricans
+loktanella hongkongensis
+ferrimonas marina
+pseudooceanicola batsensis
+halorubrum lipolyticum
+piscinibacter aquaticus
+acetobacter senegalensis
+rickettsia hoogstraalii
+salinarimonas rosea
+jiangella alba
+dactylosporangium sp
+tropicibacter multivorans
+thermococcus sp
+salinarchaeum sp
+edwardsiella
+borreliella burgdorferi
+brucella ovis
+rhizobium tropici
+fluoribacter gormanii
+bordetella parapertussis
+aliivibrio fischeri
+bartonella quintana
+streptococcus parauberis
+mycobacterium smegmatis
+pectobacterium atrosepticum
+mycobacterium rhodesiae
+chlamydia muridarum
+chryseobacterium joostei
+thermocrinis albus
+helicobacter cetorum
+paenibacillus terrae
+mycoplasma cynos
+pseudomonas entomophila
+pseudomonas protegens
+pelomonas puraquae
+brucella microti
+pantoea brenneri
+leuconostoc sp
+octadecabacter antarcticus
+edwardsiella piscicida
+pyrolobus
+fulvimarina
+malikia
+thalassobacter
+salsuginibacillus
+lutimonas
+marivita
+oceanobacterium
+pseudoduganella
+hyphomicrobium methylovorum
+agrobacterium rhizogenes
+arthrobacter pascens
+mycobacterium tuberculosis
+desulfurococcus mucosus
+thermoanaerobacter acetoethylicus
+borrelia miyamotoi
+mycoplasma crocodyli
+pyrolobus fumarii
+ruegeria atlantica
+malikia spinosa
+mycoplasma maculosum
+pyrobaculum arsenaticum
+natrialba aegyptia
+secondary endosymbiont of heteropsylla cubana
+aminomonas aminovorus
+agrococcus baldri
+beta proteobacterium js666
+arthrobacter gandavensis
+mycoplasma cricetuli
+marinospirillum insulare
+fulvimarina pelagi
+pseudoduganella violaceinigra
+thalassobacter stenotrophicus
+sporolactobacillus kofuensis
+phyllobacterium bourgognense
+actinomadura hallensis
+thiomicrospira halophila
+alicyclobacillus kakegawensis
+arthrobacter oryzae
+lutimonas vermicola
+actinomadura bangladeshensis
+henriciella marina
+pseudonocardia callicarpae
+thermobifida halotolerans
+salsuginibacillus halophilus
+formosa sp
+marivita hallyeonensis
+thalassocella subtropicalis
+oceanobacterium insulare
+gracilibacillus sp
+enterobacteriaceae bacterium strain fgi 57
+marinobacter algicola
+corynebacterium cyclohexanicum
+thiocapsa pendens
+glycomyces algeriensis
+sanguibacter antarcticus
+wenxinia marina
+hydrogenivirga
+kriegella
+thermoplasma acidophilum
+methanoplanus endosymbiosus
+kriegella aquimaris
+hydrogenivirga okinawensis
+nocardia nova
+nocardia vinacea
+nocardia xishanensis
+nocardia speluncae
+vibrio artabrorum
+isochromatium
+yokenella
+isochromatium buderi
+yokenella regensburgei
+komagataeibacter kakiaceti
+phototrophic bacterium
+cryptosporangium japonicum
+nocardia pseudovaccinii
+streptacidiphilus jiangxiensis
+acholeplasma granularum
+nocardia elegans
+rhodoblastus sphagnicola
+photobacterium sp
+aliiroseovarius
+friedmanniella antarctica
+aliiroseovarius crassostreae
+thalassospira lucentensis
+nonlabens tegetincola
+saccharopolyspora halophila
+acidovorax ebreus
+oribacterium parvum acb1
+marinimicrobia bacterium scgc aaa298-d23
+peptoniphilus senegalensis jc140
+halomonas nanhaiensis
+aliivibrio sp
+wohlfahrtiimonas
+acidovorax delafieldii
+streptomyces californicus
+entomoplasma luminosum
+wohlfahrtiimonas chitiniclastica
+mycobacterium terrae complex
+mycobacterium gilvum
+mesoplasma entomophilum
+arcobacter skirrowii
+corynebacterium argentoratense
+entomoplasma melaleucae
+shewanella sp
+mycobacterium vanbaalenii
+shewanella denitrificans
+erwinia tasmaniensis
+pantoea vagans
+marmoricola scoriae
+mycobacterium sinense
+filobacillus
+halomarina
+yimella
+cuniculiplasma
+thermodesulfobacterium hveragerdense
+filobacillus milosensis
+cupriavidus numazuensis
+halomonas boliviensis
+spiroplasma leucomae
+stenotrophomonas ginsengisoli
+saccharospirillum salsuginis
+lysinibacillus parviboronicapiens
+yimella lutea
+amorphus orientalis
+halomarina oriensis
+cuniculiplasma divulgatum
+acinetobacter schindleri
+porphyromonas sp
+pleurocapsa
+demetria
+neisseria gonorrhoeae
+pleurocapsa minor
+demetria terragena
+janibacter sp
+arsenicicoccus sp
+domibacillus robiginosus
+thiorhodococcus
+methanofollis
+buttiauxella
+pseudaminobacter
+paucimonas
+gaetbulibacter
+sphaerisporangium
+leptobacterium
+ruania
+paraoerskovia
+bavariicoccus
+pseudokineococcus
+yersinia pseudotuberculosis
+avibacterium gallinarum
+anaplasma centrale
+ehrlichia canis
+planomonospora venezuelensis
+methanogenium cariaci
+methanofollis liminatans
+moraxella ovis
+paucimonas lemoignei
+vibrio furnissii
+mycoplasma ovipneumoniae
+desulfuromusa bakii
+streptomyces laurentii
+thiomonas thermosulfata
+sphaerisporangium viridialbum
+methanothermobacter thermophilus
+thermococcus stetteri
+actinoplanes regularis
+lamprocystis roseopersicina
+borreliella bissettii
+thauera linaloolentis
+simplicispira metamorpha
+buttiauxella noackiae
+methanobacterium thermaggregans
+agromyces luteolus
+pseudaminobacter defluvii
+thermotoga naphthophila
+acinetobacter parvus
+nocardiopsis halophila
+mycoplasma phocidae
+rathayibacter toxicus
+brevundimonas nasdae
+paracoccus seriniphilus
+thiorhodococcus drewsii
+nesterenkonia halotolerans
+geobacillus jurassicus
+tenuibacillus multivorans
+stackebrandtia nassauensis
+streptomyces geldanamycininus
+isoptericola hypogeus
+gaetbulibacter saemankumensis
+phyllobacterium leguminum
+streptomyces katsurahamenas
+nocardia gamkensis
+nocardia harenae
+terribacillus halophilus
+ruania albidiflava
+bartonella australis
+cronobacter turicensis
+sphingomonas pseudosanguinis
+leptobacterium flavescens
+belliella pelovolcani
+psychrobacter lutiphocae
+paraoerskovia marina
+bavariicoccus seileri
+henriciella litoralis
+pantoea sp
+georgenia halophila
+paenibacillus jilunlii
+lachnospiraceae bacterium oral taxon 082
+labrenzia suaedae
+pseudokineococcus lusitanus
+pseudorhodobacter sp
+herminiimonas contaminans
+flammeovirga sp
+kurthia sp
+saccharomonospora oceani
+zhihengliuella flava
+geodermatophilus dictyosporus
+pseudomonas nitroreducens
+lachnospiraceae bacterium oral taxon 500
+marine bacterium mbic1357
+microterricola
+thermocrispum municipale
+microterricola viridarii
+myxosarcina
+streptomonospora
+anabaenopsis
+halorhabdus
+halovivax
+haloplanus
+humibacillus
+halarchaeum
+halovenus
+sulfolobus metallicus
+streptomyces ochraceiscleroticus
+blastochloris sulfoviridis
+glycomyces rutgersensis
+streptomyces argenteolus
+ferroplasma acidiphilum
+methanosarcina semesiae
+actinoplanes pallidoaurantiacus
+nocardiopsis xinjiangensis
+mycobacterium boenickei
+anabaenopsis sp
+chroococcidiopsis cubana
+myxosarcina sp
+promicromonospora aerolata
+nocardiopsis gilva
+jannaschia rubra
+desulfovibrio carbinolicus
+psychroserpens mesophilus
+halovivax asiaticus
+halorhabdus tiamatea
+halomicrobium katesii
+halorubrum kocurii
+halarchaeum acidiphilum
+glycomyces mayteni
+haloplanus vescus
+aidingimonas halophila
+agrococcus sp
+halobellus clavatus
+nocardia amikacinitolerans
+halovenus aranensis
+streptomyces glycovorans
+methanosarcina soligelidi
+kineococcus glutinatus
+devosia sp
+muricauda sp
+allokutzneria sp
+labrenzia sp
+humibacillus sp
+vibrio aestuarianus
+thermonema
+lechevalieria
+leisingera
+mucispirillum
+burkholderia glumae
+edwardsiella tarda
+burkholderia mallei
+thermonema lapsum
+mycoplasma buccale
+shewanella frigidimarina
+lechevalieria aerocolonigenes
+nocardia paucivorans
+leisingera methylohalidivorans
+bacillus toyonensis
+paenarthrobacter nitroguajacolicus
+mucispirillum schaedleri
+herminiimonas fonticola
+lysinibacillus boronitolerans
+paraburkholderia rhizoxinica
+shewanella chilikensis
+plautia stali symbiont
+dermocarpella
+crossiella
+marinactinospora
+borrelia hermsii
+legionella jamestowniensis
+thiomicrospira thyasirae
+streptomyces violaceoruber
+legionella cherrii
+thiorhodococcus minor
+streptomyces variabilis
+thermococcus aegaeus
+gamma proteobacterium mbic3957
+leuconostoc gelidum subsp
+pseudarthrobacter sulfonivorans
+actinomadura nitritigenes
+pseudonocardia zijingensis
+thiobacillus sp
+agromyces albus
+spiroplasma insolitum
+kribbella solani
+thermococcus kodakarensis
+dermocarpella incrassata
+gamma proteobacterium htcc231
+tenacibaculum soleae
+streptosporangium sp
+leisingera aquimarina
+marinactinospora thermotolerans
+chromatium weissei
+vulcanisaeta moutnovskia
+polynucleobacter sp
+ahrensia sp
+sphingopyxis sp
+chishuiella sp
+alkalibacterium kapii
+mongoliibacter
+bilophila sp
+mongoliibacter ruber
+amycolatopsis jejuensis
+sphingorhabdus
+thermosipho geolei
+sphingorhabdus marina
+catenuloplanes
+glaciibacter
+catenuloplanes japonicus
+acidovorax anthurii
+glycomyces illinoisensis
+streptomyces mutomycini
+actinoallomurus amamiensis
+glaciibacter superstes
+pseudonocardia tropica
+actinomadura viridilutea
+thermotoga sp
+thauera phenylacetica
+streptomyces fulvorobeus
+cronobacter malonaticus
+escherichia sp
+ancylobacter
+rhodonellum
+fluoribacter dumoffii
+paracoccus thiocyanatus
+sinorhizobium saheli
+psychrobacter frigidicola
+thermobifida alba
+nocardiopsis synnemataformans
+ensifer adhaerens
+rhodonellum psychrophilum
+ancylobacter oerskovii
+roseivivax lentus
+thermosphaera
+oerskovia turbata
+methanolobus tindarius
+glutamicibacter uratoxydans
+methanobrevibacter curvatus
+thermoplasma volcanium
+thermosphaera aggregans
+streptococcus castoreus
+stackebrandtia albiflava
+haloterrigena sp
+aerococcus sp
+providencia rustigianii
+petrotoga mexicana
+nonomuraea endophytica
+thiocystis violacea
+austwickia
+actinoplanes digitatis
+streptomyces cacaoi
+moraxella caviae
+kineosporia succinea
+austwickia chelonae
+knoellia sinensis
+nocardia exalbida
+flammeovirga kamogawensis
+alicyclobacillus fastidiosus
+kineococcus gynurae
+streptomonospora sp
+demequina oxidasica
+streptomyces griseoflavus
+mycoplasma felifaucium
+pseudomonas veronii
+streptomyces mayteni
+halomonas stevensii
+methyloferula
+thiomonas perometabolis
+xanthomonas hyacinthi
+xanthomonas melonis
+xanthomonas gardneri
+altererythrobacter namhicola
+methyloferula stellata
+megasphaera genomosp
+alicyclobacillus vulcanalis
+acidomonas
+nodularia
+thermoactinospora
+acidomonas methanolica
+bisgaard taxon 6
+nonomuraea recticatena
+streptomyces puniceus
+nodularia spumigena
+bordetella hinzii
+actinoplanes octamycinicus
+paraburkholderia terricola
+nocardia pneumoniae
+nocardia thailandica
+starkeya koreensis
+leeuwenhoekiella aequorea
+nocardia lijiangensis
+kineosporia mesophila
+cupriavidus pampae
+thermoactinospora rubra
+alicyclobacillus mali
+cystobacter
+thiodictyon
+lentzea
+ornithinibacillus
+sediminimonas
+natronoarchaeum
+chryseoglobus
+cystobacter fuscus
+yersinia intermedia
+leptospira meyeri
+thermoanaerobacterium thermosulfurigenes
+lentzea albidocapillata
+thiodictyon elegans
+bisgaard taxon 10
+aminobacter aganoensis
+mycoplasma opalescens
+arthrospira maxima
+crossiella equi
+gracilibacillus dipsosauri
+neisseria dentiae
+cellulophaga pacifica
+gamma proteobacterium htcc2207
+aquimarina intermedia
+pediococcus lolii
+cloacibacterium rupense
+sediminimonas qiaohouensis
+natronoarchaeum philippinense
+bacteroidetes oral taxon 274
+ornithinibacillus contaminans
+gamma proteobacterium scgc aaa001-b15
+roseivivax sediminis
+chromohalobacter sp
+collinsella sp
+thermus caliditerrae
+actinomadura amylolytica
+azohydromonas lata
+streptomyces flavogriseus
+nocardia inohanensis
+rhizobium cellulosilyticum
+pseudopelagicola
+neomicrococcus
+streptomyces jumonjinensis
+mycoplasma neurolyticum
+methylobacterium rhodinum
+thalassobius gelatinovorus
+propionibacterium cyclohexanicum
+streptomyces nashvillensis
+streptomonospora salina
+mycoplasma phocirhinis
+nocardia shimofusensis
+nocardiopsis baichengensis
+oceanobacillus caeni
+neomicrococcus aestuarii
+nocardia fusca
+demequina flava
+micromonospora parva
+pseudopelagicola gijangensis
+oligotropha
+psychroflexus gondwanensis
+nitrobacter hamburgensis
+mycobacterium marinum
+oligotropha carboxidovorans
+streptosporangium vulgare
+micromonospora aurantiaca
+edwardsiella ictaluri
+streptomyces violaceusniger
+serratia plymuthica
+ruegeria pomeroyi
+corynebacterium efficiens
+actinoplanes friuliensis
+dickeya zeae
+mesoplasma tabanidae
+streptomyces sporoclivatus
+ruegeria sp
+streptomyces davawensis
+xanthomonas fuscans
+catenulispora yoronensis
+actinoallomurus fulvus
+cryobacterium arcticum
+pseudomonas brassicacearum
+sagittula
+sagittula stellata
+psychrobacter arenosus
+brucella pinnipedialis
+kaistia granuli
+yersinia massiliensis
+halobaculum
+ignicoccus
+halogeometricum
+cyanospira
+goodfellowiella
+halostagnicola
+haladaptatus
+limnohabitans
+methanococcus vannielii
+sulfolobus acidocaldarius
+halobaculum gomorrense
+natronococcus amylolyticus
+nonomuraea africana
+halogeometricum borinquense
+methanoculleus palmolei
+ignicoccus hospitalis
+enterococcus pallens
+cyanospira rippkae
+nocardia takedensis
+goodfellowiella coeruleoviolacea
+rhodobacteraceae bacterium htcc2150
+nocardia amamiensis
+flavobacteriaceae bacterium htcc2652
+lactobacillus equicursoris
+zhihengliuella alba
+roseovarius nanhaiticus
+prauserella flava
+olsenella sp
+halostagnicola sp
+haladaptatus pallidirubidus
+methanosarcina spelaei
+lentzea sp
+burkholderia cordobensis
+parvimonas sp
+pectobacterium cacticida
+lysinimicrobium mangrovi
+streptosporangium rubrum
+methanohalophilus
+methanococcoides
+citromicrobium
+antarctobacter
+acrocarpospora
+hyalangium
+kribbia
+fortiea
+halohasta
+amylibacter
+zhizhongheella
+shewanella hanedai
+fluoribacter bozemanae
+avibacterium avium
+avibacterium volantium
+trichormus azollae
+listeria innocua
+mycobacterium kansasii
+methanohalophilus mahii
+methanogenium organophilum
+methanococcoides methylutens
+pyrobaculum islandicum
+staphylothermus marinus
+agrobacterium rubi
+staphylococcus cohnii
+desulfomicrobium escambiense
+mycoplasma meleagridis
+mycoplasma leonicaptivi
+[clostridium] aerotolerans
+methanosarcina siciliae
+methylomicrobium pelagicum
+streptomyces collinus
+streptomyces megasporus
+metallosphaera prunae
+thiodictyon bacillosum
+streptomyces umbrinus
+antarctobacter heliothermus
+pseudonocardia xinjiangensis
+pseudomonas mandelii
+desulfurella propionica
+saccharopolyspora thermophila
+thermosipho japonicus
+nonomuraea turkmeniaca
+tenacibaculum amylolyticum
+actinomadura vinacea
+acrocarpospora macrocephala
+nocardiopsis composta
+nocardiopsis exhalans
+corynebacterium crenatum
+leuconostoc inhae
+prauserella halophila
+kribbella yunnanensis
+alicyclobacillus sendaiensis
+alysiella filiformis
+plantibacter cousiniae
+nocardia asiatica
+shewanella donghaensis
+nocardiopsis salina
+pseudomonas syringae group genomosp
+beta proteobacterium htcc410
+nocardia kruczakiae
+thermococcus thioreducens
+nonomuraea kuesteri
+streptomyces castaneus
+arthrobacter psychrochitiniphilus
+polaribacter dokdonensis
+kribbia dieselivorans
+roseobacter prionitis
+halostagnicola larsenii
+pseudochrobactrum saccharolyticum
+cellulomonas sp
+methyloversatilis universalis
+hyalangium minutum
+stigmatella hybrida
+algibacter mikhailovii
+lewinella lutea
+geodermatophilus ruber
+photobacterium aquimaris
+demequina salsinemoris
+sporosarcina contaminans
+campylobacter sp
+alteromonas naphthalenivorans
+promicromonospora endophytica
+acetoanaerobium noterae
+brucella sp
+halohasta litorea
+nonlabens ulvanivorans
+corynebacterium alkanolyticum
+corynebacterium nuruki
+myroides sp
+ferrimonas sp
+aliifodinibius sediminis
+campylobacter fetus subsp
+yersinia pekkanenii
+brevundimonas vancanneytii
+bizionia sp
+wenxinia saemankumensis
+zhizhongheella caldifontis
+sphingorhabdus pacifica
+bacillus paralicheniformis
+alpha proteobacterium kmm 6515
+myxococcus virescens
+anaerobaculum
+methanosaeta thermophila
+mariniluteicoccus endophyticus
+streptomyces olivaceus
+agreia
+macromonas
+spiroplasma monobiae
+prauserella rugosa
+nonomuraea roseoviolacea
+macromonas bipunctata
+roseomonas genomospecies 6
+dyella marensis
+nonomuraea pusilla
+streptomonospora sediminis
+actinobaculum sp
+meiothermus taiwanensis
+pseudomonas caeni
+pediococcus sp
+gemella bergeri
+azomonas
+natrinema
+roseateles
+halogranum
+halorientalis
+haloactinobacterium
+legionella steigerwaltii
+kitasatospora setae
+haloarcula marismortui
+halobacterium salinarum
+haloarcula vallismortis
+halorubrum trapanicum
+mycoplasma leopharyngis
+halanaerobium alcaliphilum
+actinomadura fulvescens
+halococcus saccharolyticus
+halorubrum coriense
+streptomyces flavidovirens
+natrinema pallidum
+halobacterium sp
+azomonas macrocytogenes
+roseateles depolymerans
+photobacterium indicum
+alpha proteobacterium mbic3865
+natrialba hulunbeirensis
+halorubrum tibetense
+neisseria sp
+algoriphagus aquimarinus
+halorubrum alkaliphilum
+silvimonas terrae
+thermococcus onnurineus
+leisingera daeponensis
+halogranum rubrum
+halogeometricum rufum
+zhihengliuella salsuginis
+actinobacterium cpcc100076
+pseudonocardia bannensis
+haloactinobacterium album
+halorientalis regularis
+halobellus limi
+halobellus litoreus
+natronoarchaeum mannanilyticum
+aquimarina sp
+xanthomonas sp
+pseudanabaena catenata
+halococcus sediminicola
+methanospirillum stamsii
+kitasatospora sp
+haloarcula sp
+thauera terpenica
+alistipes timonensis jc136
+elizabethkingia anophelis
+methanolacinia
+salipiger
+tanticharoenia
+haloparvum
+helicobacter acinonychis
+brucella abortus
+shigella dysenteriae
+mycobacterium leprae
+streptomyces cinnamonensis
+pyrococcus furiosus
+acidianus ambivalens
+methanolacinia petrolearia
+thermococcus acidaminovorans
+thermococcus pacificus
+methanothermobacter wolfeii
+vibrio antiquarius
+giesbergeria giesbergeri
+salipiger mucosus
+streptomyces spororaveus
+chryseobacterium luteum
+tanticharoenia sakaeratensis
+desulfobacterium zeppelinii
+halophilic archaeon dl31
+haloparvum sedimenti
+fulvimonas
+poseidonocella
+vibrio cincinnatiensis
+actinobacillus seminis
+[pasteurella] mairii
+leeuwenhoekiella marinoflava
+afipia felis
+methanococcoides burtonii
+paenarthrobacter nicotinovorans
+actinomadura rifamycini
+borrelia duttonii
+crossiella cryophila
+pantoea dispersa
+natrialba asiatica
+microbacterium keratanolyticum
+natrinema pellirubrum
+alpha proteobacterium mbic3030
+cupriavidus gilardii
+cystobacter ferrugineus
+azoarcus toluvorans
+roseivivax halotolerans
+oscillatoria sancta
+agreia pratensis
+fulvimonas soli
+actinokineospora auranticolor
+knoellia subterranea
+nonlabens xylanidelens
+clostridium lacusfryxellense
+nocardiopsis tangguensis
+paenibacillus sanguinis
+paenibacillus lactis
+maribacter orientalis
+zobellia russellii
+flavobacterium frigidimaris
+streptomyces senoensis
+salinibacterium xinjiangense
+pseudonocardia endophytica
+arthrobacter boritolerans
+flexibacteraceae bacterium kmm 6276
+bacillus marmarensis
+flavobacteriaceae bacterium jc2494
+rhodovulum sp
+actinokineospora cibodasensis
+luteibacter anthropi
+promicromonospora xylanilytica
+streptomyces haliclonae
+pseudonocardia kunmingensis
+arthrobacter cryoconiti
+poseidonocella pacifica
+winogradskyella ulvae
+cyanobacterium ihb-410
+amnibacterium sp
+aquibacillus albus
+thalassobius sp
+saccharopolyspora sp
+ectothiorhodospira marina
+microlunatus nigridraconis
+escherichia coli d9
+mycobacterium orygis
+halorubrum xinjiangense
+salinicoccus luteus
+halorubrum californiense
+halomonas qijiaojingensis
+halobellus inordinatus
+buttiauxella ferragutiae
+burkholderia lata
+borrelia recurrentis
+geomicrobium
+rathayibacter festucae
+thermosipho sp
+demequina globuliformis
+streptomyces abyssalis
+rhinovirus a
+rhinovirus b
+rhinovirus c
+coronaviridae
+clostridium hathewayi
+coccidioides immitis
+aspergillus niger
+clostridium spiroforme
+cryptosporidium parvum
+penicillium
+ruminococcus gnavus
+trypanosoma cruzi
+trichophyton
+toxoplasma
+borrelia burgdorferi
+clostridium difficile
+candida albicans
+aspergillus flavus
+aspergillus fumigatus
+enterobacteriaceae
+citrobacter youngae
+clostridium bifermentans
+clostridium innocuum
+clostridium ramosum
+clostridium symbiosum
+enterobacter aerogenes
+eubacterium rectale
+listeria ivanovii
+pasteurella pneumotropica
+ruminococcus productus
+aspergillus clavatus
+aspergillus terreus
+desulfovibrionaceae
+colorado tick fever virus 
+human herpesvirus 5
+tick-borne encephalitis virus
+schistosoma japonicum
+adenoviridae
+herpesvirus
+lymphocytic choriomeningitis virus
+measles virus
+california sea
+bacteroidetes
+chlamydophila pneumoniae
+aspergillus
+mycobacterium canetti
+prevotella tannerae
+alternaria alternata
+sapovirus
+human herpesvirus 2
+norovirus
+rabies virus
+microsporidia
+human metapneumovirus
+human parainfluenza virus
+trichoderma
+trichomonas vaginalis
+trypanosoma brucei gambiense
+bocaparvovirus
+zika virus
+clostridium cluster xvi
+powassan virus
+cytomegalovirus
+enterovirus
+jc virus
+mumps virus
+polyomavirus
+human respiratory syncytial virus
+west nile virus
+japanese encephalitis virus
+fusarium
+rotavirus
+cryptosporidium
+influenza a (h1n1) virus
+alpha-amylase (aspergillus oryzae)
+promicromonosporaceae
+bifidobacteriaceae
+clostridiales xi
+clostridiales xiii
+porphyromonadaceae
+rickettsiaceae
+bacteroides cellulosolvens
+elizabethkingia meningoceptica
+parvovirus b19
+saimiriine herpesvirus 2
+nulll
+trichosporon
+fusobacterium naviforme
+filobasidium uniguttulatum
+rhodobacteraceae
+actinobaculum schaalii
+alternaria
+blastocystis
+clostridium aldenense
+clostridium citroniae
+clostridium oroticum
+giardia lamblia
+pichia
+sarcina
+hymenolepis diminuta
+sarcina ventriculi
+malassezia furfur
+cryptococcus neoformans
+saccharomyces cerevisiae
+actinobacteria
+proteobacteria
+firmicutes
+spirochaetes
+fusobacteria
+candida
+ascomycota
+candida tropicalis
+candida glabrata
+tenericutes
+bartonellaceae
+acetobacteraceae
+actinomycetaceae
+alcaligenaceae
+bacillaceae
+brucellaceae
+carnobacteriaceae
+comamonadaceae
+coriobacteriaceae
+dermabacteraceae
+enterococcaceae
+erysipelotrichaceae
+fusobacteriaceae
+lachnospiraceae
+lactobacillaceae
+micrococcaceae
+moraxellaceae
+neisseriaceae
+pasteurellaceae
+peptococcaceae
+peptostreptococcaceae
+planococcaceae
+prevotellaceae
+propionibacteriaceae
+pseudomonadaceae
+rhodospirillaceae
+ruminococcaceae
+sphingomonadaceae
+spirochaetaceae
+staphylococcaceae
+streptococcaceae
+veillonellaceae
+xanthomonadaceae
+dermacoccus
+corynebacteriaceae
+bacteroidaceae
+clostridiaceae
+listeriaceae
+bacteroides capillosus
+bacteroides ureolyticus
+citrobacter farmeri
+clostridium clostridioforme
+clostridium cocleatum
+eubacterium nodatum
+leclercia
+rikenellaceae
+clostridium cluster iv
